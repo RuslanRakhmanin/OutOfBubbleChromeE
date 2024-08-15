@@ -30,8 +30,8 @@ During the building process, the `dist` directory will be created or overwritten
 9. The popup page will appear when you click the ![icon](static/icon16.png) extension icon.
 
 
-![loading](docs/img/loading.png){height=300px}
+![loading](docs/img/loading.png)
 
-![pinning](docs/img/pinning.png){height=150px}
+![pinning](docs/img/pinning.png)
 
-![popup](docs/img/popup.png){height=400px}
+![popup](docs/img/popup.png)
