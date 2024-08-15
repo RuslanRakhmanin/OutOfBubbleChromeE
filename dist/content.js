@@ -1,0 +1,2 @@
+(()=>{"use strict";(()=>{let e={enabled:!0,excludeHosts:[],whiteList:[]};chrome.runtime.onMessage.addListener(((o,d,l)=>{var n;const s=o;void 0!==s.enabled&&(console.log("Received message from sender %s",d.id,o),e.enabled=s.enabled,e.enabled&&(null===(n=e.excludeHosts)||void 0===n||n.includes(window.location.host))),l({title:document.title,url:window.location.href})}))})()})();
+//# sourceMappingURL=content.js.map

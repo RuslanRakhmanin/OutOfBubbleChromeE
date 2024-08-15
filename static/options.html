@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Advanced options</title>
+  </head>
+  <body class="m-1.5">
+    <h2 class="text-3xl m-1.5 font-extrabold">Out of bubble advanced options</h2>
+    <br />
+    <h3 class="text-xl m-1.5 font-bold">Web host to exclude</h3>
+    <label for="exclude_hosts" class="invisible"></label>
+    <input id="exclude_hosts" class="my-input w-96" type="text" placeholder="example.com"/>
+    <br />
+    <h3 class="text-xl m-1.5 font-bold">Popup blocks visibility</h3>    
+    <br />
+    <label class="inline-flex items-center cursor-pointer">
+      <input id="showOtherSources" type="checkbox" class="sr-only peer" />
+      <span class="m-1.5 relative w-16 h-8 bg-gray-200 rounded-full after:content-[''] after:absolute after:top-0.5
+               after:start-[4px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-7 after:w-7
+               after:transition-all peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300
+               peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white
+               peer-checked:bg-blue-600"></span>
+      <span class="text-xl m-1.5">Show other sources</span>
+    </label>    
+    <br />
+    <label class="inline-flex items-center cursor-pointer">
+      <input id="showPsychologicalTactics" type="checkbox" class="sr-only peer" />
+      <span class="m-1.5 relative w-16 h-8 bg-gray-200 rounded-full after:content-[''] after:absolute after:top-0.5
+               after:start-[4px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-7 after:w-7
+               after:transition-all peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300
+               peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white
+               peer-checked:bg-blue-600"></span>
+      <span class="text-xl m-1.5">Show psychological tactics</span>
+    </label>     
+    <br />
+    <label class="inline-flex items-center cursor-pointer">
+      <input id="showSummary" type="checkbox" class="sr-only peer" />
+      <span class="m-1.5 relative w-16 h-8 bg-gray-200 rounded-full after:content-[''] after:absolute after:top-0.5
+               after:start-[4px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-7 after:w-7
+               after:transition-all peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300
+               peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white
+               peer-checked:bg-blue-600"></span>
+      <span class="text-xl m-1.5">Show summary</span>
+    </label> 
+    <br />
+    <script src="options.js"></script>
+  </body>
+</html>
