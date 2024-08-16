@@ -39,13 +39,13 @@ function getIconName(url?: string) {
   if (properties === undefined) {
     return "icon128.png"
   }
-  if (properties.political < 3) {
+  if (properties.rank < 3) {
     return "icon_set1_1_128.png"
   }
-  if (properties.political === 3) {
+  if (properties.rank === 3) {
     return "icon_set1_2_128.png"
   }
-  if (properties.political > 3) {
+  if (properties.rank > 3) {
     return "icon_set1_3_128.png"
   }
 }

@@ -5,7 +5,12 @@ let demoData: ArticleProperties[] = [
     url: "https://www.independent.ie/irish-news/crime/irish-man-50-shot-dead-in-malta-after-ex-partners-body-found-in-apartment/a1366613683.html",
     title:
       "Irishman shot dead in Maltese police after ex-partner’s body found in apartment",
-    political: 4,
+    rank: 4,
+    sources: [
+      {url: "https://www.irishexaminer.com/news/arid-41454697.html", rank: 3},
+      {url: "https://www.independent.ie/irish-news/crime/irish-man-50-shot-dead-in-malta-after-ex-partners-body-found-in-apartment/a1366613683.html", rank: 4},
+      {url: "https://www.irishtimes.com/crime-law/2024/08/12/irishman-shot-dead-by-police-in-malta-after-allegedly-murdering-former-partner/", rank: 2}
+      ],     
     psychologicalTactics: [
       "Use of emotional language",
       "Focus on the victim",
@@ -22,7 +27,12 @@ let demoData: ArticleProperties[] = [
   {
     url: "https://www.irishexaminer.com/news/arid-41454697.html",
     title: "Irishman killed by police in Malta after allegedly murdering woman",
-    political: 3,
+    rank: 3,
+    sources: [
+      {url: "https://www.irishexaminer.com/news/arid-41454697.html", rank: 3},
+      {url: "https://www.independent.ie/irish-news/crime/irish-man-50-shot-dead-in-malta-after-ex-partners-body-found-in-apartment/a1366613683.html", rank: 4},
+      {url: "https://www.irishtimes.com/crime-law/2024/08/12/irishman-shot-dead-by-police-in-malta-after-allegedly-murdering-former-partner/", rank: 2}
+      ],     
     psychologicalTactics: ["Not found"],
     sumUp5: [
       "Irish man, Edward Johnston, allegedly murders his ex-partner Nicolette Ghirxi in Malta.",
@@ -36,7 +46,12 @@ let demoData: ArticleProperties[] = [
     url: "https://www.irishtimes.com/crime-law/2024/08/12/irishman-shot-dead-by-police-in-malta-after-allegedly-murdering-former-partner/",
     title:
       "Irish man shot dead by police in Malta after allegedly murdering former partner",
-    political: 2,
+    rank: 2,
+    sources: [
+      {url: "https://www.irishexaminer.com/news/arid-41454697.html", rank: 3},
+      {url: "https://www.independent.ie/irish-news/crime/irish-man-50-shot-dead-in-malta-after-ex-partners-body-found-in-apartment/a1366613683.html", rank: 4},
+      {url: "https://www.irishtimes.com/crime-law/2024/08/12/irishman-shot-dead-by-police-in-malta-after-allegedly-murdering-former-partner/", rank: 2}
+      ],    
     psychologicalTactics: ["Emotional Appeal", "Framing", "Omission of Context"],
     sumUp5: [
       "Irish man shot dead by Maltese police.",

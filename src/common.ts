@@ -7,7 +7,8 @@ export interface Message {
 export interface ArticleProperties {
   url: string,
   title: string,
-  political: number,
+  rank: number,
+  sources: {url: string, rank: number}[],
   psychologicalTactics: string[],
   sumUp5: string[]
 }
