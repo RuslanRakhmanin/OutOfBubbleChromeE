@@ -7,9 +7,9 @@ let demoData: ArticleProperties[] = [
       "Irishman shot dead in Maltese police after ex-partner’s body found in apartment",
     rank: 4,
     sources: [
-      {url: "https://www.irishexaminer.com/news/arid-41454697.html", rank: 3},
-      {url: "https://www.independent.ie/irish-news/crime/irish-man-50-shot-dead-in-malta-after-ex-partners-body-found-in-apartment/a1366613683.html", rank: 4},
-      {url: "https://www.irishtimes.com/crime-law/2024/08/12/irishman-shot-dead-by-police-in-malta-after-allegedly-murdering-former-partner/", rank: 2}
+      { sourceName: "Irish Examiner", url: "https://www.irishexaminer.com/news/arid-41454697.html", rank: 3},
+      { sourceName: "Independent.ie", url: "https://www.independent.ie/irish-news/crime/irish-man-50-shot-dead-in-malta-after-ex-partners-body-found-in-apartment/a1366613683.html", rank: 4},
+      { sourceName: "Irish Times", url: "https://www.irishtimes.com/crime-law/2024/08/12/irishman-shot-dead-by-police-in-malta-after-allegedly-murdering-former-partner/", rank: 2}
       ],     
     psychologicalTactics: [
       "Use of emotional language",
@@ -29,9 +29,9 @@ let demoData: ArticleProperties[] = [
     title: "Irishman killed by police in Malta after allegedly murdering woman",
     rank: 3,
     sources: [
-      {url: "https://www.irishexaminer.com/news/arid-41454697.html", rank: 3},
-      {url: "https://www.independent.ie/irish-news/crime/irish-man-50-shot-dead-in-malta-after-ex-partners-body-found-in-apartment/a1366613683.html", rank: 4},
-      {url: "https://www.irishtimes.com/crime-law/2024/08/12/irishman-shot-dead-by-police-in-malta-after-allegedly-murdering-former-partner/", rank: 2}
+      { sourceName: "Irish Examiner", url: "https://www.irishexaminer.com/news/arid-41454697.html", rank: 3},
+      { sourceName: "Independent.ie", url: "https://www.independent.ie/irish-news/crime/irish-man-50-shot-dead-in-malta-after-ex-partners-body-found-in-apartment/a1366613683.html", rank: 4},
+      { sourceName: "Irish Times", url: "https://www.irishtimes.com/crime-law/2024/08/12/irishman-shot-dead-by-police-in-malta-after-allegedly-murdering-former-partner/", rank: 2}
       ],     
     psychologicalTactics: ["Not found"],
     sumUp5: [
@@ -48,9 +48,9 @@ let demoData: ArticleProperties[] = [
       "Irish man shot dead by police in Malta after allegedly murdering former partner",
     rank: 2,
     sources: [
-      {url: "https://www.irishexaminer.com/news/arid-41454697.html", rank: 3},
-      {url: "https://www.independent.ie/irish-news/crime/irish-man-50-shot-dead-in-malta-after-ex-partners-body-found-in-apartment/a1366613683.html", rank: 4},
-      {url: "https://www.irishtimes.com/crime-law/2024/08/12/irishman-shot-dead-by-police-in-malta-after-allegedly-murdering-former-partner/", rank: 2}
+      { sourceName: "Irish Examiner", url: "https://www.irishexaminer.com/news/arid-41454697.html", rank: 3},
+      { sourceName: "Independent.ie", url: "https://www.independent.ie/irish-news/crime/irish-man-50-shot-dead-in-malta-after-ex-partners-body-found-in-apartment/a1366613683.html", rank: 4},
+      { sourceName: "Irish Times", url: "https://www.irishtimes.com/crime-law/2024/08/12/irishman-shot-dead-by-police-in-malta-after-allegedly-murdering-former-partner/", rank: 2}
       ],    
     psychologicalTactics: ["Emotional Appeal", "Framing", "Omission of Context"],
     sumUp5: [

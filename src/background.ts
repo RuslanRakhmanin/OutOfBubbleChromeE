@@ -9,6 +9,8 @@ import { getDemoData, getDataByURL } from "./demodata"
 
 let articlesData: { [key: string]: ArticleProperties } = {}
 
+let currentPageProperties: ArticleProperties | undefined
+
 function startUp() {
   chrome.storage.sync.get("enabled", (data) => {
     setBadgeText("")
@@ -16,10 +18,29 @@ function startUp() {
   setBadgeIcon()
 }
 
-function getArticleProperties(url?: string) {
-  if (url === undefined) {
-    return undefined
+function checkTabReady(tab: chrome.tabs.Tab) {
+  return !(tab === undefined
+    || tab.id === undefined 
+    || tab.url === undefined 
+    || tab.url === "" 
+    || tab.url.startsWith("chrome://"))
+}
+
+function getArticleProperties(url: string = "Current tab") {
+  console.log("getArticleProperties", url)
+  if (url === "Current tab") {
+    //// Does not work on clicking the extension icon
+    // chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
+    //   const currentTab = tabs[0] as chrome.tabs.Tab
+    //   if (checkTabReady(currentTab) === false) {
+    //     return undefined
+    //   }
+    //   url = currentTab.url as string
+    // })
+
+    return currentPageProperties
   }
+
   if (articlesData[url] === undefined) {
     let data: ArticleProperties | undefined = getDataByURL(url)
     if (data === undefined) {
@@ -35,27 +56,24 @@ function getIconName(url?: string) {
   if (url === undefined) {
     return "icon128.png"
   }
-  let properties = getArticleProperties(url)
-  if (properties === undefined) {
+  currentPageProperties = getArticleProperties(url)
+  if (currentPageProperties === undefined) {
     return "icon128.png"
   }
-  if (properties.rank < 3) {
+  if (currentPageProperties.rank < 3) {
     return "icon_set1_1_128.png"
   }
-  if (properties.rank === 3) {
+  if (currentPageProperties.rank === 3) {
     return "icon_set1_2_128.png"
   }
-  if (properties.rank > 3) {
+  if (currentPageProperties.rank > 3) {
     return "icon_set1_3_128.png"
   }
 }
 
 
 function updateInfo(currentTab: chrome.tabs.Tab) {
-  if (currentTab.id === undefined 
-    || currentTab.url === undefined 
-    || currentTab.url === "" 
-    || currentTab.url.startsWith("chrome://")) {
+  if (checkTabReady(currentTab) === false) {
     setBadgeIcon()
     return
   }
@@ -73,19 +91,22 @@ chrome.runtime.onInstalled.addListener(startUp)
 
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   const message = request as Message
-  if (message.enabled !== undefined) {
-    console.log(
-      "Service worker received message from sender %s",
-      sender.id,
-      request,
-    )
-    // sendResponse({ message: "Service worker processed the message" })
-  }
+  // if (message.enabled !== undefined) {
+  //   console.log(
+  //     "Service worker received message from sender %s",
+  //     sender.id,
+  //     request,
+  //   )
+  //   // sendResponse({ message: "Service worker processed the message" })
+  // }
 
   if (message.type !== undefined) {
     switch (message.type) {
       case "getPropertiesByURL":
         sendResponse(getArticleProperties(message.data))
+        break
+      case "getPropertiesCurrentTab":
+        sendResponse(getArticleProperties())
         break
       case "getIconNameByURL":
         sendResponse(getIconName(message.data))

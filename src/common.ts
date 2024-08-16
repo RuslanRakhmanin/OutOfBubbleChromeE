@@ -1,3 +1,5 @@
+export const maxRank = 5
+
 export interface Message {
   enabled?: boolean
   type?: string
@@ -8,7 +10,7 @@ export interface ArticleProperties {
   url: string,
   title: string,
   rank: number,
-  sources: {url: string, rank: number}[],
+  sources: { sourceName: string, url: string, rank: number}[],
   psychologicalTactics: string[],
   sumUp5: string[]
 }

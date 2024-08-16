@@ -1,7 +1,11 @@
-import { Message, setBadgeText, StoredConfig, TabResponse, setBadgeIcon } from "./common"
+import { Message, setBadgeText, StoredConfig, TabResponse, setBadgeIcon, ArticleProperties, maxRank } from "./common"
 import "./popup.css"
 
 // console.log("Hello, world from popup!")
+
+const otherSourcesSection = document.getElementById("sources",) as HTMLInputElement
+const psychologicalTacticsSection = document.getElementById("tactics",) as HTMLInputElement
+const summarySection = document.getElementById("summary",) as HTMLInputElement
 
 function setUpSectionsVisibility() {
 
@@ -9,25 +13,25 @@ function setUpSectionsVisibility() {
     const config = data as StoredConfig
     const showOtherSources =
       (config.showOtherSources ?? true) && (config.enabled ?? true)
-    const elementOtherSources = document.getElementById(
-      "sources",
-    ) as HTMLInputElement
-    elementOtherSources.style.display = showOtherSources ? "block" : "none"
+    // const otherSourcesSection = document.getElementById(
+    //   "sources",
+    // ) as HTMLInputElement
+    otherSourcesSection.style.display = showOtherSources ? "block" : "none"
 
     const showPsychologicalTactics =
       (config.showPsychologicalTactics ?? true) && (config.enabled ?? true)
-    const elementPsychologicalTactics = document.getElementById(
-      "tactics",
-    ) as HTMLInputElement
-    elementPsychologicalTactics.style.display = showPsychologicalTactics
+    // const psychologicalTacticsSection = document.getElementById(
+    //   "tactics",
+    // ) as HTMLInputElement
+    psychologicalTacticsSection.style.display = showPsychologicalTactics
       ? "block"
       : "none"
 
     const showSummary = (config.showSummary ?? true) && (config.enabled ?? true)
-    const elementSummary = document.getElementById(
-      "summary",
-    ) as HTMLInputElement
-    elementSummary.style.display = showSummary ? "block" : "none"
+    // const summarySection = document.getElementById(
+    //   "summary",
+    // ) as HTMLInputElement
+    summarySection.style.display = showSummary ? "block" : "none"
   })
 }
 
@@ -39,7 +43,137 @@ chrome.storage.sync.get("enabled", (data) => {
   setBadgeText()
 })
 
+function fillOtherSources(properties: ArticleProperties) {
+  if (otherSourcesSection.style.display === "block") {
+    // In this way we can get cells with ids from 'rank1' to 'rank5'
+    const rankElementsList: HTMLTableCellElement[] = Array.from(
+      { length: maxRank },
+      (_, i) => document.getElementById(`rank${i + 1}`) as HTMLTableCellElement
+    );
+
+    // Clear the cells
+    rankElementsList.forEach((rankElement) => {
+      rankElement.innerHTML = ''
+    })
+
+    // Fill the cells with the article data
+    properties.sources.forEach((record) => {
+      const anchor = document.createElement('a');
+      anchor.href = record.url;
+      anchor.textContent = record.sourceName;
+      anchor.className = 'block text-blue-600 hover:underline';
+
+      // Add event listener to open the link in a new tab
+      anchor.addEventListener('click', (e) => {
+        e.preventDefault(); // Prevent the default link behavior
+        chrome.tabs.create({ url: record.url }); // Open the URL in a new tab
+      });
+
+      // Append the new link to the cell
+      rankElementsList[record.rank-1].appendChild(anchor);      
+    })
+  }
+}
+
+function fillPsychologicalTactics(properties: ArticleProperties) {
+  if (psychologicalTacticsSection.style.display === "block") {
+      // Clear existing summary content (everything except the <h4> and <hr>)
+      const heading = psychologicalTacticsSection.querySelector('h4');
+      const hr = psychologicalTacticsSection.querySelector('hr');
+
+      // Remove all children from the section
+      while (psychologicalTacticsSection.firstChild) {
+        psychologicalTacticsSection.removeChild(psychologicalTacticsSection.firstChild);
+      }
+
+      // Re-add the heading and <hr> element (if they exist)
+      if (heading) psychologicalTacticsSection.appendChild(heading);
+
+      // Now, insert your own custom summary points
+      properties.psychologicalTactics.forEach(textData => {
+          const bulletSpan = document.createElement('span');
+          bulletSpan.className = 'text-orange-500 mr-2';
+          bulletSpan.textContent = '➤';
+
+          const textSpan = document.createElement('span');
+          textSpan.textContent = textData;
+
+          const br = document.createElement('br');
+
+          // Append the bullet, summary text, and line break
+          psychologicalTacticsSection.appendChild(bulletSpan);
+          psychologicalTacticsSection.appendChild(textSpan);
+          psychologicalTacticsSection.appendChild(br);
+      });
+
+      // Re-add the <hr> element (if it exists)
+      if (hr) psychologicalTacticsSection.appendChild(hr);    
+    
+  }
+}
+
+function fillSummary(properties: ArticleProperties) {
+  if (summarySection.style.display === "block") {
+      // Clear existing summary content (everything except the <h4> and <hr>)
+      const heading = summarySection.querySelector('h4');
+      const hr = summarySection.querySelector('hr');
+
+      // Remove all children from the section
+      while (summarySection.firstChild) {
+          summarySection.removeChild(summarySection.firstChild);
+      }
+
+      // Re-add the heading and <hr> element (if they exist)
+      if (heading) summarySection.appendChild(heading);
+
+      // Now, insert your own custom summary points
+      properties.sumUp5.forEach(summary => {
+          const bulletSpan = document.createElement('span');
+          bulletSpan.className = 'text-green-500 mr-2';
+          bulletSpan.textContent = '●';
+
+          const textSpan = document.createElement('span');
+          textSpan.textContent = summary;
+
+          const br = document.createElement('br');
+
+          // Append the bullet, summary text, and line break
+          summarySection.appendChild(bulletSpan);
+          summarySection.appendChild(textSpan);
+          summarySection.appendChild(br);
+      });
+
+      // Re-add the <hr> element (if it exists)
+      if (hr) summarySection.appendChild(hr);    
+  }
+}
+
+function fillSections() {
+    const message: Message = { type: "getPropertiesCurrentTab"}
+    chrome.runtime
+      .sendMessage(message)
+      .then((response) => {
+        if (response === undefined || response === null) {
+          // console.warn("Popup requested page properties but got undefined")
+          otherSourcesSection.style.display = "none"
+          psychologicalTacticsSection.style.display = "none"
+          summarySection.style.display = "none"
+          return
+        }
+        const properties: ArticleProperties = response
+        
+        fillOtherSources(properties)
+        fillPsychologicalTactics(properties)
+        fillSummary(properties)
+
+      })
+      .catch((error: unknown) => {
+        console.warn("Popup could not send message", error)
+      })  
+}
+
 setUpSectionsVisibility()
+fillSections()
 
 checkbox.addEventListener("change", (event) => {
   if (event.target instanceof HTMLInputElement) {
@@ -125,3 +259,5 @@ if (!optionsElement) {
     }
   })
 }
+
+
