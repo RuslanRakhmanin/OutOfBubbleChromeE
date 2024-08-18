@@ -1,3 +1,23 @@
+"""
+cut_unnecessary.py
+
+This script removes unnecessary links from a markdown file.
+
+Usage:
+    python cut_unnecessary.py [input_file] [output_file]
+
+Arguments:
+    input_file (str): The markdown file to process. Defaults to 'input.md'.
+    output_file (str): The file to save the processed content. Defaults to 'output.md'.
+
+Functions:
+    cut_links_latin: Removes links from each line of a file and deletes lines with no latin characters.
+
+Requires:
+    os
+    sys
+    re
+"""
 import os
 import sys
 import re

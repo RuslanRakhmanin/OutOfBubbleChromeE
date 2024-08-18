@@ -1,3 +1,21 @@
+"""
+md_from_url.py
+
+This script retrieves the content of a webpage, saves it as a markdown file, 
+and then removes unnecessary links from the file.
+
+Usage:
+    python md_from_url.py [url] [input_file] [output_file]
+
+Arguments:
+    url (str): The URL of the webpage to retrieve. Defaults to a predefined URL.
+    input_file (str): The file to save the retrieved content. Defaults to 'input.md'.
+    output_file (str): The file to save the content after removing links. Defaults to 'output.md'.
+
+Requires:
+    requests
+    cut_unnecessary
+"""
 import os
 import sys
 import requests
