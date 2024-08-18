@@ -1,804 +1,594 @@
-Title: Irish man (50) shot dead in Malta after ex-partner’s body found in apartment
+Title: Irishman killed by police in Malta after allegedly murdering woman
 
-URL Source: https://www.independent.ie/irish-news/crime/irish-man-50-shot-dead-in-malta-after-ex-partners-body-found-in-apartment/a1366613683.html
+URL Source: https://www.irishexaminer.com/news/arid-41454697.html
 
-Published Time: 2024-08-12T13:39:42+02:00
+Published Time: 2024-08-12T11:12:00+01:00
 
 Markdown Content:
-Irish man (50) shot dead in Malta after ex-partner’s body found in apartment | Irish Independent
+Irishman killed by police in Malta after allegedly murdering woman
 ===============
 
-![Image 1: Logo](https://shared.mediahuis.be/logos/indo/v3/brand-main.svg)
+X
 
-#### Cookies and data processing on The Irish Independent
+[](https://www.irishexaminer.com/news/arid-41454697.html#)[**Sign in**](https://www.irishexaminer.com/news/arid-41454697.html#) [**My Account**](https://myaccount.irishexaminer.com/) [**Sign out**](https://www.irishexaminer.com/news/arid-41454697.html#)
+
+[![Image 1: Irish Examiner Logo](https://www.irishexaminer.com/pu_examiner/images/Irish_Examiner_logo.png)](https://www.irishexaminer.com/index.php)
+
+*   [__](https://www.irishexaminer.com/)
+*   __ __
+    
+    [](https://www.irishexaminer.com/news/arid-41454697.html#)[**Sign in**](https://www.irishexaminer.com/news/arid-41454697.html#) [**Subscribe**](https://subscribe.irishexaminer.com/?g2i_source=ie&g2i_medium=mainnav&g2i_campaign=core01) [**My Account**](https://myaccount.irishexaminer.com/) [**Sign out**](https://www.irishexaminer.com/news/arid-41454697.html#)
+    
+*   [subscriber](https://www.irishexaminer.com/subscriber-content/)
+*   [news](https://www.irishexaminer.com/news/)__
+    
+    [Ireland](https://www.irishexaminer.com/news/ireland/) [Munster](https://www.irishexaminer.com/news/munster/) [Cork](https://www.irishexaminer.com/news/cork-news/) [Elections 2024](https://www.irishexaminer.com/news/elections-2024/) [World](https://www.irishexaminer.com/world/) [Court & Crime](https://www.irishexaminer.com/news/courtandcrime/) [Politics](https://www.irishexaminer.com/news/politics/) [Climate & Sustainability](https://www.irishexaminer.com/news/sustainability/) [History](https://www.irishexaminer.com/news/history/) [Spotlight](https://www.irishexaminer.com/news/spotlight/) [Longreads](https://www.irishexaminer.com/maintopics/?topic=5071208) [Obituaries](https://www.irishexaminer.com/news/obituaries/) [News - Subscriber Content](https://www.irishexaminer.com/news/subscriber-news/)
+    
+*   [sport](https://www.irishexaminer.com/sport/)__
+    
+    [GAA](https://www.irishexaminer.com/sport/gaa/) [GAA - Cork Club Championships](https://www.irishexaminer.com/sport/cork-gaa-club-championships/) [Olympics 2024](https://www.irishexaminer.com/sport/paris-olympics-2024/) [Soccer](https://www.irishexaminer.com/sport/soccer/) [Rugby](https://www.irishexaminer.com/sport/rugby/) [Racing](https://www.irishexaminer.com/sport/racing/) [Golf](https://www.irishexaminer.com/sport/golf/) [Business Of Sport](https://www.irishexaminer.com/sport/business-of-sport/) [Other Sports](https://www.irishexaminer.com/sport/othersport/) [Live Sport](https://www.irishexaminer.com/liveevents/) [Sport Columnists](https://www.irishexaminer.com/opinion/columnists/) [Sport - Top Picks](https://www.irishexaminer.com/sport/sport-top-picks/) [Sport - Subscriber Content](https://www.irishexaminer.com/sport/subscriber-sport/)
+    
+*   [lifestyle](https://www.irishexaminer.com/lifestyle/)__
+    
+    [ieFOOD](https://www.irishexaminer.com/lifestyle/iefood/) [Health & Wellbeing](https://www.irishexaminer.com/lifestyle/healthandwellbeing/) [Arts & Culture](https://www.irishexaminer.com/lifestyle/artsandculture/) [Books](https://www.irishexaminer.com/lifestyle/books/) [Outdoors](https://www.irishexaminer.com/lifestyle/outdoors/) [Fashion & Beauty](https://www.irishexaminer.com/lifestyle/fashionandbeauty/) [Parenting](https://www.irishexaminer.com/lifestyle/parenting/) [Parenting Podcast](https://www.irishexaminer.com/podcasts/podcasts-parenting/) [Advice](https://www.irishexaminer.com/lifestyle/advice/) [Travel](https://www.irishexaminer.com/lifestyle/travel/) [People](https://www.irishexaminer.com/lifestyle/people/) [Celebrity](https://www.irishexaminer.com/lifestyle/celebrity/) [Motoring](https://www.irishexaminer.com/motoring/) [Lifestyle - Subscriber Content](https://www.irishexaminer.com/lifestyle/subscriber-lifestyle/)
+    
+*   [business](https://www.irishexaminer.com/business/)__
+    
+    [Companies](https://www.irishexaminer.com/business/companies/) [Economy](https://www.irishexaminer.com/business/economy/) [Farming](https://www.irishexaminer.com/farming/) [Munster Business](https://www.irishexaminer.com/business/munsterbusiness/) [Cork Business](https://www.irishexaminer.com/business/cork-business/) [Technology](https://www.irishexaminer.com/business/technology/) [ieBusiness Podcast](https://www.irishexaminer.com/podcasts/podcast-business/) [Business - Subscriber Content](https://www.irishexaminer.com/business/subscriber-business/)
+    
+*   [property](https://www.irishexaminer.com/property/)__
+    
+    [Residential](https://www.irishexaminer.com/property/residential/) [Commercial](https://www.irishexaminer.com/property/commercial/) [Planning](https://www.irishexaminer.com/property/planning/) [Development & Construction](https://www.irishexaminer.com/property/developmentconstruction/) [Home & Gardens](https://www.irishexaminer.com/property/homeandgardens/) [Property & Home - Subscriber Content](https://www.irishexaminer.com/property/subscriber-property-and-home/)
+    
+*   [opinion](https://www.irishexaminer.com/opinion/)__
+    
+    [Columnists](https://www.irishexaminer.com/opinion/columnists/) [Comment & Analysis](https://www.irishexaminer.com/opinion/commentanalysis/) [Our View](https://www.irishexaminer.com/opinion/ourview/) [Your View](https://www.irishexaminer.com/opinion/yourview/) [Opinion - Subscriber Content](https://www.irishexaminer.com/opinion/subscriber-opinion/)
+    
+*   [LISTEN](https://www.irishexaminer.com/podcast-home/)__
+    
+    [GAA Podcast](https://www.irishexaminer.com/podcasts/gaa-podcasts/) [ieBusiness Podcast](https://www.irishexaminer.com/podcasts/podcast-business/) [ieInvestigations Podcast](https://www.irishexaminer.com/podcasts/podcasts-ie-investigations/) [ieParenting Podcast - Growing Pains](https://www.irishexaminer.com/podcasts/podcasts-parenting/) [Mick Clifford Podcast](https://www.irishexaminer.com/podcasts/mickcliffordpodcasts/) [Mick Clifford - Civil War Series](https://www.irishexaminer.com/news/arid-40942985.html) [Olympics Podcast](https://www.irishexaminer.com/podcasts/olympics-2024-podcast/) [Politics Podcast](https://www.irishexaminer.com/podcasts/podcast-politics/) [Rugby Podcast](https://www.irishexaminer.com/podcasts/rugby-podcast/) [Subscriber Podcasts](https://www.irishexaminer.com/podcasts/subscriber-podcasts/)
+    
+*   MORE __
+    
+    [Archive](https://www.irishexaminer.com/archive/) [Competitions](https://www.irishexaminer.com/competition/) [Contact Us](https://www.irishexaminer.com/contact-us/) [ePaper](https://epaper-signin.irishexaminer.com/) [Helplines](https://www.irishexaminer.com/helplines/) [MyHome.ie](https://www.myhome.ie/) [Newsletters](https://www.irishexaminer.com/newsletters/) [Newspaper books](https://www.irishexaminer.com/shop/) [Photosales](https://photos.examiner.ie/) [Place ad](https://sites.google.com/examiner.ie/irishexaminer-media-solutions/home) [Podcasts](https://www.irishexaminer.com/podcast-home/) [Puzzles](https://www.irishexaminer.com/puzzles/) [Recruit Ireland](https://www.recruitireland.com/) [Sponsored Showcase](https://www.irishexaminer.com/contentstudio/) [Sponsored Reports](https://www.irishexaminer.com/special-reports/) [Subscribe](https://subscribe.irishexaminer.com/?g2i_source=onsitesignage&g2i_medium=more&g2i_campaign=core) [Weather](https://www.irishexaminer.com/weather/) [Who We Are](https://www.irishexaminer.com/whoweare/)
+    
+*   [Cookie Settings](https://www.irishexaminer.com/news/arid-41454697.html#)
+*    __
+    
+
+*   [Ireland](https://www.irishexaminer.com/news/ireland/) [Munster](https://www.irishexaminer.com/news/munster/) [Cork](https://www.irishexaminer.com/news/cork-news/) [Elections 2024](https://www.irishexaminer.com/news/elections-2024/) [World](https://www.irishexaminer.com/world/) [Court & Crime](https://www.irishexaminer.com/news/courtandcrime/) [Politics](https://www.irishexaminer.com/news/politics/) [Climate & Sustainability](https://www.irishexaminer.com/news/sustainability/) [History](https://www.irishexaminer.com/news/history/) [Spotlight](https://www.irishexaminer.com/news/spotlight/) [Longreads](https://www.irishexaminer.com/maintopics/?topic=5071208) [Obituaries](https://www.irishexaminer.com/news/obituaries/) [News - Subscriber Content](https://www.irishexaminer.com/news/subscriber-news/)
+    
+*   [GAA](https://www.irishexaminer.com/sport/gaa/) [GAA - Cork Club Championships](https://www.irishexaminer.com/sport/cork-gaa-club-championships/) [Olympics 2024](https://www.irishexaminer.com/sport/paris-olympics-2024/) [Soccer](https://www.irishexaminer.com/sport/soccer/) [Rugby](https://www.irishexaminer.com/sport/rugby/) [Racing](https://www.irishexaminer.com/sport/racing/) [Golf](https://www.irishexaminer.com/sport/golf/) [Business Of Sport](https://www.irishexaminer.com/sport/business-of-sport/) [Other Sports](https://www.irishexaminer.com/sport/othersport/) [Live Sport](https://www.irishexaminer.com/liveevents/) [Sport Columnists](https://www.irishexaminer.com/opinion/columnists/) [Sport - Top Picks](https://www.irishexaminer.com/sport/sport-top-picks/) [Sport - Subscriber Content](https://www.irishexaminer.com/sport/subscriber-sport/)
+    
+*   [ieFOOD](https://www.irishexaminer.com/lifestyle/iefood/) [Health & Wellbeing](https://www.irishexaminer.com/lifestyle/healthandwellbeing/) [Arts & Culture](https://www.irishexaminer.com/lifestyle/artsandculture/) [Books](https://www.irishexaminer.com/lifestyle/books/) [Outdoors](https://www.irishexaminer.com/lifestyle/outdoors/) [Fashion & Beauty](https://www.irishexaminer.com/lifestyle/fashionandbeauty/) [Parenting](https://www.irishexaminer.com/lifestyle/parenting/) [Parenting Podcast](https://www.irishexaminer.com/podcasts/podcasts-parenting/) [Advice](https://www.irishexaminer.com/lifestyle/advice/) [Travel](https://www.irishexaminer.com/lifestyle/travel/) [People](https://www.irishexaminer.com/lifestyle/people/) [Celebrity](https://www.irishexaminer.com/lifestyle/celebrity/) [Motoring](https://www.irishexaminer.com/motoring/) [Lifestyle - Subscriber Content](https://www.irishexaminer.com/lifestyle/subscriber-lifestyle/)
+    
+*   [Companies](https://www.irishexaminer.com/business/companies/) [Economy](https://www.irishexaminer.com/business/economy/) [Farming](https://www.irishexaminer.com/farming/) [Munster Business](https://www.irishexaminer.com/business/munsterbusiness/) [Cork Business](https://www.irishexaminer.com/business/cork-business/) [Technology](https://www.irishexaminer.com/business/technology/) [ieBusiness Podcast](https://www.irishexaminer.com/podcasts/podcast-business/) [Business - Subscriber Content](https://www.irishexaminer.com/business/subscriber-business/)
+    
+*   [Residential](https://www.irishexaminer.com/property/residential/) [Commercial](https://www.irishexaminer.com/property/commercial/) [Planning](https://www.irishexaminer.com/property/planning/) [Development & Construction](https://www.irishexaminer.com/property/developmentconstruction/) [Home & Gardens](https://www.irishexaminer.com/property/homeandgardens/) [Property & Home - Subscriber Content](https://www.irishexaminer.com/property/subscriber-property-and-home/)
+    
+*   [Columnists](https://www.irishexaminer.com/opinion/columnists/) [Comment & Analysis](https://www.irishexaminer.com/opinion/commentanalysis/) [Our View](https://www.irishexaminer.com/opinion/ourview/) [Your View](https://www.irishexaminer.com/opinion/yourview/) [Opinion - Subscriber Content](https://www.irishexaminer.com/opinion/subscriber-opinion/)
+    
+*   [GAA Podcast](https://www.irishexaminer.com/podcasts/gaa-podcasts/) [ieBusiness Podcast](https://www.irishexaminer.com/podcasts/podcast-business/) [ieInvestigations Podcast](https://www.irishexaminer.com/podcasts/podcasts-ie-investigations/) [ieParenting Podcast - Growing Pains](https://www.irishexaminer.com/podcasts/podcasts-parenting/) [Mick Clifford Podcast](https://www.irishexaminer.com/podcasts/mickcliffordpodcasts/) [Mick Clifford - Civil War Series](https://www.irishexaminer.com/news/arid-40942985.html) [Olympics Podcast](https://www.irishexaminer.com/podcasts/olympics-2024-podcast/) [Politics Podcast](https://www.irishexaminer.com/podcasts/podcast-politics/) [Rugby Podcast](https://www.irishexaminer.com/podcasts/rugby-podcast/) [Subscriber Podcasts](https://www.irishexaminer.com/podcasts/subscriber-podcasts/)
+    
+*   [Archive](https://www.irishexaminer.com/archive/) [Competitions](https://www.irishexaminer.com/competition/) [Contact Us](https://www.irishexaminer.com/contact-us/) [ePaper](https://epaper-signin.irishexaminer.com/) [Helplines](https://www.irishexaminer.com/helplines/) [MyHome.ie](https://www.myhome.ie/) [Newsletters](https://www.irishexaminer.com/newsletters/) [Newspaper books](https://www.irishexaminer.com/shop/) [Photosales](https://photos.examiner.ie/) [Place ad](https://sites.google.com/examiner.ie/irishexaminer-media-solutions/home) [Podcasts](https://www.irishexaminer.com/podcast-home/) [Puzzles](https://www.irishexaminer.com/puzzles/) [Recruit Ireland](https://www.recruitireland.com/) [Sponsored Showcase](https://www.irishexaminer.com/contentstudio/) [Sponsored Reports](https://www.irishexaminer.com/special-reports/) [Subscribe](https://subscribe.irishexaminer.com/?g2i_source=onsitesignage&g2i_medium=more&g2i_campaign=core) [Weather](https://www.irishexaminer.com/weather/) [Who We Are](https://www.irishexaminer.com/whoweare/)
+    
+
+*   [news](https://www.irishexaminer.com/news/)
+*   [sport](https://www.irishexaminer.com/sport/)
+*   [lifestyle](https://www.irishexaminer.com/lifestyle/)
+*   [opinion](https://www.irishexaminer.com/opinion/)
+
+[__](https://www.irishexaminer.com/news/arid-41454697.html#)
+
+*   **[IN FOCUS:](https://www.irishexaminer.com/maintopics/)**
+*   [Electric Picnic](https://www.irishexaminer.com/maintopics/electric-picnic-2024_topic-5262659.html)
+*   [US Elections](https://www.irishexaminer.com/maintopics/us-elections_topic-5073935.html)
+*   [Israel-Gaza War](https://www.irishexaminer.com/maintopics/israel-palestine_topic-5234350.html)
+*   [Budget 2025](https://www.irishexaminer.com/budget-2025/)
+*   [ieExplains](https://www.irishexaminer.com/maintopics/ieexplains_topic-5206369.html)
+*   [ieVideo](https://www.irishexaminer.com/video-home/)
+*   [Subscribe](https://subscribe.irishexaminer.com/?g2i_source=onsitesignage&g2i_medium=infocus&g2i_campaign=core)
+*   [Weather](https://www.irishexaminer.com/weather/)
+
+*   [Homepage](https://www.irishexaminer.com/)
+*   [news](https://www.irishexaminer.com/news/)
+
+Irishman killed by police in Malta after allegedly murdering woman
+==================================================================
+
+![Image 2: Irishman killed by police in Malta after allegedly murdering woman](https://www.irishexaminer.com/cms_media/module_img/8488/4244227_18_articlemedium_00422b59-9e08-4079-ac0f-8d91cd2cf86d.jpg)
+
+The Times of Malta reports that the man was in St Julian's on the rocks along the shoreline behind a Hilton Hotel. Police said he pointed a replica weapon at them.
+
+Mon, 12 Aug, 2024 - 11:12
+
+Liz Dunphy
+
+[__](http://www.facebook.com/sharer/sharer.php?u=https://www.irishexaminer.com/news/arid-41454697.html) [__](https://api.whatsapp.com/send?text=IrishExaminer-https://www.irishexaminer.com/news/arid-41454697.html) [](http://www.twitter.com/intent/tweet?url=https://www.irishexaminer.com/news/arid-41454697.html)__
+
+[__](https://www.linkedin.com/shareArticle?mini=true&url=https://www.irishexaminer.com/news/arid-41454697.html) [__](https://reddit.com/submit?url=https://www.irishexaminer.com/news/arid-41454697.html&title=IrishmankilledbypoliceinMaltaafterallegedlymurderingwoman) [__](mailto:?subject=IrishExaminerArticle&body=https://www.irishexaminer.com/news/arid-41454697.html)
+
+An Irishman has been shot dead by police in Malta after allegedly murdering his former partner in the country.
+
+The man was a suspect in the killing of 48-year-old Nicolette Ghirxi, who was found stabbed to death in her apartment in Birkirkara. He has been named by local media as Edward Johnston, 50, a former soldier from Dublin.
+
+Police said he was shot after he pointed a replica weapon at them.
+
+The Department of Foreign Affairs said it is aware of the case and is providing consular assistance.
+
+Johnston was not a soldier with the Irish Defence Forces, who said they have no record of Johnston's military service.
+
+From Dublin originally Johnston had also lived in Malta and Scotland. His ex-wife also lives in Scotland, it is understood.
+
+Ms Ghirxi was stabbed to death in her apartment in Birkirkara.
+
+She had been in a relationship with Johnston but that relationship had ended. Ms Ghirxi had made a number of complaints to police about harassment, mostly via email, by Johnston after their break up.
+
+![Image 3: Nicolette Ghirxi. Picture: Facebook ](https://www.irishexaminer.com/cms_media/module_img/8488/4244239_13_articleinline_cbd225ca-415b-4a6d-a041-db1a513bae6a.jpg)
+
+Nicolette Ghirxi. Picture: Facebook
+
+She told police that she did not feel threatened. But when she believed Mr Johnston had returned to Malta she informed police last Thursday.
+
+Police were alerted when Mr Johnston allegedly entered the Hilton Hotel in St Julian’s and pulled a gun on staff when they told him the bar was closed. He also reportedly told staff there that he had murdered someone.
+
+Police said they found the man on the rocks behind the hotel in St Julian’s. As he was approached by the police, he jumped into the sea and started pointing the weapon at his head.
+
+A statement revealed: "The police officers spoke with the man who was still in the sea and even started negotiating with him in order to surrender the weapon, where the man was identified as a 50-year-old from Ireland.
+
+"During these negotiations, the man told the police that earlier he had killed his ex-partner in Birkirkara and therefore another police team established the address where the victim was probably at."
+
+Police found Ms Ghirxi’s body in her apartment at about 2am. They said she had been stabbed to death, with the weapon possibly used being found near the victim.
+
+In St Julian’s, police said that after about three hours of negotiations, "the man put the gun down from his head and immediately pointed it at the police. The police ordered him to bring down the weapon however the man did not comply and the police were constrained to shoot him".
+
+"The man was immediately given medical assistance on site and then transferred to Mater Dei Hospital, where he was certified dead some time later.
+
+"Preliminary investigations revealed that the weapon the aggressor was pointing at the police was a replica of a firearm.
+
+Johnston had traded stocks online and had established an online profile under the pseudonym Edwardo Sambora preaching about trading, how to make money and be successful in “motivational” videos.
+
+He launched Youtube and Instagram accounts for this business four years ago and had more than 12,000 followers on Instagram.
+
+In one of his videos, he advised followers that discipline and self-control were the cornerstones to success in life.
+
+He had been arrested before, the Irish Times reports. Johnston once claimed he had a bomb in an Italian restaurant in Glasgow, sparking a six-hour siege, with roads and a subway station closed as armed police and the military responded.
+
+He had asked police to shoot him dead before he was arrested.
+
+The defending lawyer, Tony Lenehan, told the court that Johnston had been diagnosed with mild depression and post-traumatic stress disorder after the death of an unborn child, and also due to financial struggles, the Scotsman reports. He was jailed for 28 months.
+
+He had also once wielded a replica gun in Liverpool while drunk and was almost shot by the police, according to court reports.
+
+After today's death, President of the European Parliament Roberta Metsola, who is from Malta, said “Nicolette Ghirxi should be alive today”.
+
+“Instead, Malta must bury another daughter,” she said on Facebook “Our grief must turn into action. Our anger must fuel change. The epidemic of violence against women cannot go on.
+
+“Not one more. Be their voice.”
+
+[![Image 4: WhatsApp logo](https://www.irishexaminer.com/cms_media/module_img/7980/3990400_1_org_3989848_1_org_WhatsApp.png) Irish Examiner’s WhatsApp channel Follow and share the latest news and stories](https://www.whatsapp.com/channel/0029Va66KgvJkK76l2fD2j3U)
+
+More in this section
+
+ [![Image 5: Melbourne Rose who lost brother to drink driver wants tougher sentences](https://www.irishexaminer.com/cms_media/module_img/8504/4252330_5_teasersmall_Dervla_20Dolan.jpg)](https://www.irishexaminer.com/news/arid-41458138.html "structure articleHeadline")[Melbourne Rose who lost brother to drink driver wants tougher sentences](https://www.irishexaminer.com/news/arid-41458138.html)
+
+ [![Image 6: Life Sentences Bill 2024](https://www.irishexaminer.com/cms_media/module_img/8504/4252012_1_teasersmall_2.77085935.jpg.jpg)](https://www.irishexaminer.com/news/arid-41458006.html "structure articleHeadline")[Galway stabbing: Taoiseach says entire country is wishing Fr Paul Murphy well](https://www.irishexaminer.com/news/arid-41458006.html)
+
+ [![Image 7: Man, 30s, dies in crash involving car and truck in Dublin](https://www.irishexaminer.com/cms_media/module_img/8503/4251889_1_teasersmall_dan_20sign_2014.jpg)](https://www.irishexaminer.com/news/arid-41457892.html "structure articleHeadline")[Man, 30s, dies in crash involving car and truck in Dublin](https://www.irishexaminer.com/news/arid-41457892.html)
+
+__
+
+[![Image 8: Irishman killed by police in Malta after allegedly murdering woman](https://www.irishexaminer.com/cms_media/module_img/8504/4252372_8_teasersmall_AGDunmanway_2018-08-2024-10.jpg)](https://www.irishexaminer.com/news/arid-41458195.html "structure articleHeadline")
+
+[Father and son held over stabbing of two brothers in west Cork ---------------------------------------------------------------](https://www.irishexaminer.com/news/arid-41458195.html) 
+
+[READ NOW](https://www.irishexaminer.com/news/arid-41458195.html)
+
+ 
+
+[Subscribe Now](https://subscribe.irishexaminer.com/?g2i_source=onsitesignage&g2i_medium=articleleftbar&g2i_campaign=core)
+
+Lunchtime News
+
+Sign up to the best reads of the week from irishexaminer.com selected just for you.
+
+ 
+
+ 
+
+Sign Up 
+
+Please click [here](https://www.irishexaminer.com/privacy-policy/) for our privacy statement.
+
+![Image 9: Puzzles logo](https://www.irishexaminer.com/cms_media/module_img/6522/3261497_1_org_2453633_1_org_Puzzles1.png)
+
+![Image 10: IE-logo](https://www.irishexaminer.com/cms_media/module_img/5661/2830632_1_org_2453630_1_org_EXAMINER-LOGO_with_orange.png)**Puzzles hub**
 
   
-Mediahuis (‘we’) and partners use technologies such as cookies to store and access (personal) data – online identifiers (e.g., IP address, sign-in ID), non-precise location and information about your browser, operating system, device as well as insights into your use of this domain – on your device for the following purposes:
+[Play](https://www.irishexaminer.com/puzzles/)
 
-*   Advertising and content measurement, audience insights and product development;
-*   Personalised content;
-*   Personalised ads; and
-*   Social media.
+Latest
+------
 
-If you allow such use, click "Accept". If you do not want to allow all purposes, select "Manage". You can manage your preferences and object to processing based on legitimate interest at any time in your privacy settings. We will share your privacy preferences – for which purposes and partners you provided consent - with our partners.
+*   [Galway United win All-Island Cup after dramatic penalty shootout](https://www.irishexaminer.com/sport/soccer/arid-41458309.html)10 minutes ago
+    
+*   [Woman 'beaten by a man who tried to sexually assault her' on way to AC/DC concert](https://www.irishexaminer.com/news/arid-41458306.html)12 minutes ago
+    
+*   [Call for authorities not to make same error as last mpox outbreak](https://www.irishexaminer.com/news/arid-41457859.html)15 minutes ago
+    
+*   [Melbourne Rose who lost brother to drink driver wants tougher sentences](https://www.irishexaminer.com/news/arid-41458138.html)43 minutes ago
+    
 
-Would you like more explanation about our use of your data? Read our [privacy policy](https://www.mediahuis.ie/privacystatement/) and [cookie policy](https://www.mediahuis.ie/cookiepolicy/). More information on the use of your data by our partners you find here.
+[![Image 11: War In Europe](https://www.irishexaminer.com/cms_media/module_img/8336/4168111_1_org_3007610_1_org_2890671_1_org_WARINEUROPEBANNER.jpg)](https://www.irishexaminer.com/index.php?puid=102&pageid=2436)
 
-View our 202 partners
+[](https://www.irishexaminer.com/columns/jennifer-horgan_columnistid-147634.html)
 
-ManageAccept
+![Image 12: Jennifer Horgan](https://www.irishexaminer.com/cms_media/module_img/7230/3615391_1_org_JenniferHorgan.png)
+
+##### Jennifer Horgan
+
+For a fresh perspective on life today
+
+Most Read
+---------
+
+*   [![Image 13: Father and son held over stabbing of two brothers in west Cork ](https://www.irishexaminer.com/cms_media/module_img/8504/4252372_8_teasersmall_AGDunmanway_2018-08-2024-10.jpg)](https://www.irishexaminer.com/news/=/news/arid-41458195.html)
+    
+    [Father and son held over stabbing of two brothers in west Cork](https://www.irishexaminer.com/news/=/news/arid-41458195.html) 
+    
+    Sunday, August 18, 2024 - 4:00 PM
+    
+*   [![Image 14: NETHERLANDS-ENTERTAINMENT-MUSIC](https://www.irishexaminer.com/cms_media/module_img/8504/4252345_8_teasersmall_GettyImages-2155606260_20_1_1_.jpg)](https://www.irishexaminer.com/news/=/lifestyle/artsandculture/arid-41458186.html)
+    
+    [AC/DC review: Blistering gig at Croke Park, Dublin, proves Aussie rockers are the greatest](https://www.irishexaminer.com/news/=/lifestyle/artsandculture/arid-41458186.html)
+    
+    Sunday, August 18, 2024 - 5:00 PM
+    
+*   [![Image 15: Dear Dáithí: I've a good life, but I'd love a partner to share it with](https://www.irishexaminer.com/cms_media/module_img/8504/4252255_5_teasersmall_Copy_20of_20Daithi_20O_27Se_20Tralee_20026.jpg)](https://www.irishexaminer.com/news/=/lifestyle/people/arid-41455258.html)
+    
+    [Dear Dáithí: I've a good life, but I'd love a partner to share it with](https://www.irishexaminer.com/news/=/lifestyle/people/arid-41455258.html)
+    
+    Sunday, August 18, 2024 - 11:00 AM
+    
+
+[](https://www.irishexaminer.com/columns/fergus-finlay_columnistid-975.html)
+
+![Image 16: Fergus Finlay](https://www.irishexaminer.com/cms_media/module_img/3434/1717232_1_org_Fergus_Finlay.png)
+
+##### Fergus Finlay
+
+Analysis
+
+![Image 17: Family Notices](https://www.irishexaminer.com/cms_media/module_img/5424/2712132_1_org_1715999_1_org_dove_squoosh.png)
+
+![Image 18: IE_logo_FN](https://www.irishexaminer.com/cms_media/module_img/5424/2712141_1_org_1716002_1_org_XXLogosquoosh.png)
+
+### Family Notices
+
+[Book Notice](https://www.irishexaminer.com/index.php?puid=102&pageid=1331)
+
+ [![Image 19: https://newsbrandsireland.ie/](https://www.irishexaminer.com/pu_examiner/images/f-logo-nbi.png)](https://newsbrandsireland.ie/)[![Image 20: https://www.presscouncil.ie](https://www.irishexaminer.com/pu_examiner/images/f-logo2.png)](https://www.presscouncil.ie/)[![Image 21: https://iabireland.ie/iab-ireland-publishers-commercial-charter/](https://www.irishexaminer.com/pu_examiner/images/IAB-logo-white.png)](https://iabireland.ie/iab-ireland-publishers-commercial-charter/)
+
+[news](https://www.irishexaminer.com/news/)
+
+*   [Ireland](https://www.irishexaminer.com/news/ireland/)
+*   [Munster](https://www.irishexaminer.com/news/munster/)
+*   [Court & Crime](https://www.irishexaminer.com/news/courtandcrime/)
+*   [Spotlight](https://www.irishexaminer.com/news/spotlight/)
+*   [World](https://www.irishexaminer.com/world/)
+
+[sport](https://www.irishexaminer.com/sport/)
+
+*   [GAA](https://www.irishexaminer.com/sport/gaa/)
+*   [Soccer](https://www.irishexaminer.com/sport/soccer/)
+*   [Rugby](https://www.irishexaminer.com/sport/rugby/)
+*   [Racing](https://www.irishexaminer.com/sport/racing/)
+*   [Golf](https://www.irishexaminer.com/sport/golf/)
+*   [Other Sports](https://www.irishexaminer.com/sport/othersport/)
+*   [Podcasts](https://www.irishexaminer.com/podcast-home/)
+
+[business](https://www.irishexaminer.com/business/)
+
+*   [Economy](https://www.irishexaminer.com/business/economy/)
+*   [Companies](https://www.irishexaminer.com/business/companies/)
+*   [Munster Business](https://www.irishexaminer.com/business/munsterbusiness/)
+*   [Farming](https://www.irishexaminer.com/farming/)
+*   [Technology](https://www.irishexaminer.com/business/technology/)
+
+[opinion](https://www.irishexaminer.com/opinion/)
+
+*   [Columnists](https://www.irishexaminer.com/opinion/columnists/)
+*   [Comment & Analysis](https://www.irishexaminer.com/opinion/commentanalysis/)
+*   [Our View](https://www.irishexaminer.com/opinion/ourview/)
+*   [Your View](https://www.irishexaminer.com/opinion/yourview/)
+
+[Help](https://www.irishexaminer.com/faq/)
+
+*   [FAQ](https://www.irishexaminer.com/faq/)
+*   [Contact Us](https://www.irishexaminer.com/contact-us/)
+*   [Privacy Policy](https://www.irishexaminer.com/privacy-policy/)
+*   [Brand Safety](https://www.irishexaminer.com/brandsafety/)
+*   [Cookie Policy](https://www.irishexaminer.com/cookie-policy/)
+*   [Cookie Settings](https://www.irishexaminer.com/news/arid-41454697.html#)
+*   [Push Notification Preferences](https://www.irishexaminer.com/push-preferences/)
+*   [Mobile](https://www.irishexaminer.com/app/)
+*   [Subscriptions](https://subscribe.irishexaminer.com/?g2i_source=onsitesignage&g2i_medium=footer&g2i_campaign=core)
+
+[Info](https://www.irishexaminer.com/contact-us/)
+
+*   [Terms and Conditions](https://www.irishexaminer.com/terms-conditions/)
+*   [Home delivery](https://subscribe.irishexaminer.com/?g2i_source=ie&g2i_medium=footer_HD&g2i_campaign=annual)
+*   [RSS](https://www.irishexaminer.com/syndication/)
+*   [Newsletters](https://www.irishexaminer.com/newsletters/)
+*   [Place ad](https://sites.google.com/examiner.ie/irishexaminer-media-solutions/home)
+*   [Who We Are](https://www.irishexaminer.com/whoweare/)
+*   [Sitemap](https://www.irishexaminer.com/sitemap-page/)
+
+© Examiner Echo Group Limited, Linn Dubh, Assumption Road, Blackpool, Cork. Registered in Ireland: 523712.
+
+[Cookie Policy](https://www.irishexaminer.com/cookie-policy/) [Privacy Policy](https://www.irishexaminer.com/privacy-policy/) [Brand Safety](https://www.irishexaminer.com/brandsafety/) [FAQ](https://www.irishexaminer.com/faq/) [Help](https://www.irishexaminer.com/faq/) [Contact Us](https://www.irishexaminer.com/contact-us/) [Terms and Conditions](https://www.irishexaminer.com/terms-conditions/)© Examiner Echo Group Limited
+
+ 
+
+word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word
 
   
+mmMwWLliI0fiflO&1  
+mmMwWLliI0fiflO&1  
+mmMwWLliI0fiflO&1  
+mmMwWLliI0fiflO&1  
+mmMwWLliI0fiflO&1  
+mmMwWLliI0fiflO&1  
+mmMwWLliI0fiflO&1
 
-Monday, 12 August 2024
+We value your privacy
+---------------------
 
-*   [ePaper](https://independentnewsstand.e-pages.pub/titles)
-*   [Puzzles](https://www.independent.ie/entertainment/puzzles)
-*   [Our Journalism](https://www.independent.ie/about-us/our-journalism/104697308.html)
-*   [Our Story](https://www.independent.ie/about-us/our-story/1866021285.html)
-*   [Contact Us](https://www.independent.ie/about-us/contact-us/1345911943.html)
-*   [Subscribe](https://www.independent.ie/subscribe)
-*   Log In
+We and our 91 partners store and access information on your device, such as unique IDs in cookies. This is done to process personal data. To take these actions we require your consent, which you can provide through the banner options. You can manage your preferences and object to processing based on legitimate interest at any time in the privacy policy page. [Cookie Policy](https://www.irishexaminer.com/cookie-policy/)
+
+Certain vendors, once consent is provided by you to the storage of information on your device and/or to the access of information already stored on your device, use legitimate interest to further process your personal data.
+
+### We and our partners collect and use data
+
+Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development. List of Partners (vendors)
+
+I ACCEPT MANAGE MY SETTINGS
+
+![Image 22: Company Logo](https://cdn.cookielaw.org/logos/aa51b8bf-07c8-42ff-9b3f-a51d24f58003/02de5fa3-0e6f-46e0-a195-aef6aac6f753/59ef1f18-ada8-4aa7-aa50-bba8835b5cd0/IE_Logo_OT.png)
+
+Your Privacy Preferences
+------------------------
+
+We process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information with our partners on the basis of consent and legitimate interest. You may exercise your right to consent or object to a legitimate interest, based on a specific purpose below or at a partner level in the link under each purpose. These choices will be signaled to our vendors participating in the Transparency and Consent Framework.  
+[More information](https://www.irishexaminer.com/cookie-policy/)
+
+ALLOW ALL
+
+### Manage your settings
+
+#### Strictly Necessary Cookies
+
+ALWAYS ON
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+View Cookies‎
+
+#### Functional Cookies
+
+ Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+View Cookies‎
+
+#### Performance Cookies
+
+ Performance Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+View Cookies‎
+
+#### Targeting Cookies
+
+ Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+View Cookies‎
+
+#### Social Media Cookies
+
+ Social Media Cookies
+
+These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks and to view content from social media sites. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools or view content from social media sites.
+
+View Cookies‎
+
+#### IAB Features 72 partners can use this purpose
+
+ALWAYS ON
+
+These features correspond to the means of processing that can be used by vendors solely in pursuit of one or several purposes for which users are always given a choice. Features are a use of the data once you have already agreed to share it with us.
+
+*   ##### Match and combine data from other data sources 53 partners can use this feature
+    
+     Switch Label label
+    
+    Information about your activity on this service may be matched and combined with other information relating to you and originating from various sources (for instance your activity on a separate online service, your use of a loyalty card in-store, or your answers to a survey), in support of the purposes explained in this notice.
     
 
-[![Image 2: Indo](https://shared.mediahuis.be/logos/indo/v3/brand-main.svg)](https://www.independent.ie/)
-
-*   [News](https://www.independent.ie/)
-*   [Opinion](https://www.independent.ie/opinion)
-*   [Business](https://www.independent.ie/business)
-*   [Sport](https://www.independent.ie/sport)
-*   [Life](https://www.independent.ie/life)
-*   [Style](https://www.independent.ie/style)
-*   [Entertainment](https://www.independent.ie/entertainment)
-*   [Travel](https://www.independent.ie/life/travel)
-*   [Video](https://www.independent.ie/videos)
-
-*   [19°](https://www.independent.ie/weather)
+*   ##### Link different devices 52 partners can use this feature
+    
+     Switch Label label
+    
+    In support of the purposes explained in this notice, your device might be considered as likely linked to other devices that belong to you or your household (for instance because you are logged in to the same service on both your phone and your computer, or because you may use the same Internet connection on both devices).
     
 
-*   [Irish News](https://www.independent.ie/irish-news)
-    *   [Politics](https://www.independent.ie/irish-news/politics)
-    *   [Education](https://www.independent.ie/irish-news/education)
-    *   [Health](https://www.independent.ie/irish-news/health)
-    *   [Courts](https://www.independent.ie/irish-news/courts)
-    *   [Crime](https://www.independent.ie/irish-news/crime)
-    *   [Environment](https://www.independent.ie/tag/environment)
-    *   [Seachtain](https://www.independent.ie/seachtain)
-*   [Dublin](https://www.independent.ie/regionals/dublin)
-*   [Local News](https://www.independent.ie/regionals)
-    *   [Select your county](https://www.independent.ie/regionals/change-county)
-    *   [Local ePapers](https://subscribe.independent.ie/localnews/)
-*   [World](https://www.independent.ie/world-news)
-    *   [Europe](https://www.independent.ie/world-news/europe)
-    *   [Britain](https://www.independent.ie/world-news/britain)
-    *   [North America](https://www.independent.ie/world-news/north-america)
-    *   [Latin America](https://www.independent.ie/world-news/latin-america)
-    *   [Middle East](https://www.independent.ie/world-news/middle-east)
-    *   [Asia-Pacific](https://www.independent.ie/world-news/asia-pacific)
-    *   [Australasia](https://www.independent.ie/world-news/australasia)
-    *   [Africa](https://www.independent.ie/world-news/africa)
-*   [Farming](https://www.independent.ie/farming)
-    *   [News](https://www.independent.ie/farming/news)
-    *   [Agri-business](https://www.independent.ie/farming/agri-business)
-    *   [Dairy](https://www.independent.ie/farming/dairy)
-    *   [Tillage](https://www.independent.ie/farming/tillage)
-    *   [Beef](https://www.independent.ie/farming/beef)
-    *   [Sheep](https://www.independent.ie/farming/sheep)
-    *   [Farm Property](https://www.independent.ie/farming/farm-property)
-    *   [Machinery](https://www.independent.ie/farming/machinery)
-    *   [Legal Advice](https://www.independent.ie/farming/legal-advice)
-    *   [Comment](https://www.independent.ie/farming/comment)
-    *   [Rural Life](https://www.independent.ie/farming/rural-life)
-    *   [Schemes](https://www.independent.ie/farming/schemes)
-    *   [Finance](https://www.independent.ie/tag/farming-finance)
-*   [Latest News](https://www.independent.ie/latest-news)
-*   [Olympics](https://www.independent.ie/sport/olympics)
-*   [Subscriber Exclusives](https://www.independent.ie/subscriber-exclusives)
-*   [Podcasts](https://www.independent.ie/podcasts)
-    *   [The Indo Daily](https://www.independent.ie/podcasts/the-indo-daily)
-    *   [The Left Wing](https://www.independent.ie/podcasts/the-left-wing)
-    *   [The Big Tech Show](https://www.independent.ie/podcasts/the-big-tech-show)
-    *   [Real Health Podcast](https://www.independent.ie/podcasts/the-real-health-podcast)
-    *   [The Throw-In](https://www.independent.ie/podcasts/the-throw-in)
-    *   [Seachtain Podcast](https://www.independent.ie/podcasts/seachtain-podcast)
-*   [Topics](https://www.independent.ie/tags)
-
-[![Image 3: Irish Independent](https://shared.mediahuis.be/logos/indo/v3/brand-main.svg)](https://www.independent.ie/)
-
-[Subscribe](https://www.independent.ie/subscribe)[](https://www.independent.ie/irish-news/crime/irish-man-50-shot-dead-in-malta-after-ex-partners-body-found-in-apartment/a1366613683.html#)
-
-Search for articles
-
-*   News
+*   ##### Identify devices based on information transmitted automatically 53 partners can use this feature
     
-    *   [Overview](https://www.independent.ie/)
-        
-    *   Irish News
-        
-        *   [Overview](https://www.independent.ie/irish-news)
-            
-        *   [Politics](https://www.independent.ie/irish-news/politics)
-            
-        *   [Education](https://www.independent.ie/irish-news/education)
-            
-        *   [Health](https://www.independent.ie/irish-news/health)
-            
-        *   [Courts](https://www.independent.ie/irish-news/courts)
-            
-        *   [Crime](https://www.independent.ie/irish-news/crime)
-            
-        *   [Environment](https://www.independent.ie/tag/environment)
-            
-        *   [Seachtain](https://www.independent.ie/seachtain)
-            
-    *   [Dublin](https://www.independent.ie/regionals/dublin)
-        
-    *   Local News
-        
-        *   [Overview](https://www.independent.ie/regionals)
-            
-        *   [Select your county](https://www.independent.ie/regionals/change-county)
-            
-        *   [Local ePapers](https://subscribe.independent.ie/localnews/)
-            
-    *   World
-        
-        *   [Overview](https://www.independent.ie/world-news)
-            
-        *   [Europe](https://www.independent.ie/world-news/europe)
-            
-        *   [Britain](https://www.independent.ie/world-news/britain)
-            
-        *   [North America](https://www.independent.ie/world-news/north-america)
-            
-        *   [Latin America](https://www.independent.ie/world-news/latin-america)
-            
-        *   [Middle East](https://www.independent.ie/world-news/middle-east)
-            
-        *   [Asia-Pacific](https://www.independent.ie/world-news/asia-pacific)
-            
-        *   [Australasia](https://www.independent.ie/world-news/australasia)
-            
-        *   [Africa](https://www.independent.ie/world-news/africa)
-            
-    *   Farming
-        
-        *   [Overview](https://www.independent.ie/farming)
-            
-        *   [News](https://www.independent.ie/farming/news)
-            
-        *   [Agri-business](https://www.independent.ie/farming/agri-business)
-            
-        *   [Dairy](https://www.independent.ie/farming/dairy)
-            
-        *   [Tillage](https://www.independent.ie/farming/tillage)
-            
-        *   [Beef](https://www.independent.ie/farming/beef)
-            
-        *   [Sheep](https://www.independent.ie/farming/sheep)
-            
-        *   [Farm Property](https://www.independent.ie/farming/farm-property)
-            
-        *   [Machinery](https://www.independent.ie/farming/machinery)
-            
-        *   [Legal Advice](https://www.independent.ie/farming/legal-advice)
-            
-        *   [Comment](https://www.independent.ie/farming/comment)
-            
-        *   [Rural Life](https://www.independent.ie/farming/rural-life)
-            
-        *   [Schemes](https://www.independent.ie/farming/schemes)
-            
-        *   [Finance](https://www.independent.ie/tag/farming-finance)
-            
-    *   [Latest News](https://www.independent.ie/latest-news)
-        
-    *   [Olympics](https://www.independent.ie/sport/olympics)
-        
-    *   [Subscriber Exclusives](https://www.independent.ie/subscriber-exclusives)
-        
-    *   Podcasts
-        
-        *   [Overview](https://www.independent.ie/podcasts)
-            
-        *   [The Indo Daily](https://www.independent.ie/podcasts/the-indo-daily)
-            
-        *   [The Left Wing](https://www.independent.ie/podcasts/the-left-wing)
-            
-        *   [The Big Tech Show](https://www.independent.ie/podcasts/the-big-tech-show)
-            
-        *   [Real Health Podcast](https://www.independent.ie/podcasts/the-real-health-podcast)
-            
-        *   [The Throw-In](https://www.independent.ie/podcasts/the-throw-in)
-            
-        *   [Seachtain Podcast](https://www.independent.ie/podcasts/seachtain-podcast)
-            
-*   Opinion
+     Switch Label label
     
-    *   [Overview](https://www.independent.ie/opinion)
-        
-    *   [Letters](https://www.independent.ie/opinion/letters)
-        
-    *   [Editorial](https://www.independent.ie/opinion/editorial)
-        
-    *   [Analysis](https://www.independent.ie/opinion/analysis)
-        
-    *   [Comment](https://www.independent.ie/opinion/comment)
-        
-*   Business
-    
-    *   [Overview](https://www.independent.ie/business)
-        
-    *   [Irish](https://www.independent.ie/business/irish)
-        
-    *   [World](https://www.independent.ie/business/world)
-        
-    *   [Technology](https://www.independent.ie/business/technology)
-        
-    *   [Personal Finance](https://www.independent.ie/business/personal-finance)
-        
-    *   [Small Business](https://www.independent.ie/business/small-business)
-        
-    *   [Jobs](https://www.independent.ie/business/jobs)
-        
-    *   [Commercial Property](https://www.independent.ie/business/commercial-property)
-        
-    *   [In The Workplace](https://www.independent.ie/business/in-the-workplace)
-        
-*   Sport
-    
-    *   [Overview](https://www.independent.ie/sport)
-        
-    *   Rugby
-        
-        *   [Overview](https://www.independent.ie/sport/rugby)
-            
-        *   [The Left Wing](https://www.independent.ie/sport/rugby/the-left-wing)
-            
-        *   [Champions Cup](https://www.independent.ie/sport/rugby/champions-cup)
-            
-        *   [United Rugby Championship](https://www.independent.ie/sport/united-rugby-championship)
-            
-        *   [Six Nations](https://www.independent.ie/sport/rugby/six-nations)
-            
-        *   [Leinster Rugby](https://www.independent.ie/sport/rugby/leinster-rugby)
-            
-        *   [Munster Rugby](https://www.independent.ie/sport/rugby/munster-rugby)
-            
-        *   [Ulster Rugby](https://www.independent.ie/sport/rugby/ulster-rugby)
-            
-        *   [Connacht Rugby](https://www.independent.ie/sport/rugby/connacht-rugby)
-            
-    *   GAA
-        
-        *   [Overview](https://www.independent.ie/sport/gaelic-games)
-            
-        *   [Gaelic Football](https://www.independent.ie/sport/gaelic-games/gaelic-football)
-            
-        *   [Hurling](https://www.independent.ie/sport/gaelic-games/hurling)
-            
-        *   [The Throw In](https://www.independent.ie/sport/gaelic-games/the-throw-in)
-            
-        *   [U-20 Gaelic Football](https://www.independent.ie/sport/gaelic-games/u-20-gaelic-football)
-            
-        *   [U-20 Hurling](https://www.independent.ie/sport/gaelic-games/u-20-hurling)
-            
-        *   [Camogie](https://www.independent.ie/sport/gaelic-games/camogie)
-            
-        *   [Ladies Football](https://www.independent.ie/sport/gaelic-games/ladies-football)
-            
-    *   Soccer
-        
-        *   [Overview](https://www.independent.ie/sport/soccer)
-            
-        *   [Premier League](https://www.independent.ie/sport/soccer/premier-league)
-            
-        *   [International Soccer](https://www.independent.ie/sport/soccer/international-soccer)
-            
-        *   [Champions League](https://www.independent.ie/sport/soccer/champions-league)
-            
-        *   [League of Ireland](https://www.independent.ie/sport/soccer/league-of-ireland)
-            
-        *   [Other Soccer](https://www.independent.ie/sport/soccer/other-soccer)
-            
-    *   [Olympics](https://www.independent.ie/sport/olympics)
-        
-    *   [The Left Wing](https://www.independent.ie/sport/rugby/the-left-wing)
-        
-    *   [Women's Sport](https://www.independent.ie/sport/womens-sport)
-        
-    *   [Golf](https://www.independent.ie/sport/golf)
-        
-    *   [Horse Racing](https://www.independent.ie/sport/horse-racing)
-        
-    *   Other Sports
-        
-        *   [Overview](https://www.independent.ie/sport/other-sports)
-            
-        *   [Cricket](https://www.independent.ie/sport/other-sports/cricket)
-            
-        *   [Cycling](https://www.independent.ie/sport/other-sports/cycling)
-            
-        *   [Hockey](https://www.independent.ie/sport/other-sports/hockey)
-            
-        *   [Athletics](https://www.independent.ie/sport/other-sports/athletics)
-            
-        *   [Boxing](https://www.independent.ie/sport/other-sports/boxing)
-            
-        *   [Equestrian](https://www.independent.ie/sport/other-sports/equestrian)
-            
-        *   [Motor Sport](https://www.independent.ie/sport/other-sports/motor-sport)
-            
-        *   [Snooker](https://www.independent.ie/sport/other-sports/snooker)
-            
-        *   [Swimming](https://www.independent.ie/sport/other-sports/swimming)
-            
-        *   [Tennis](https://www.independent.ie/sport/other-sports/tennis)
-            
-*   Life
-    
-    *   [Overview](https://www.independent.ie/life)
-        
-    *   Health & Wellbeing
-        
-        *   [Overview](https://www.independent.ie/life/health-wellbeing)
-            
-        *   [Health Features](https://www.independent.ie/life/health-wellbeing/health-features)
-            
-        *   [Healthy Eating](https://www.independent.ie/life/health-wellbeing/healthy-eating)
-            
-        *   [Fitness](https://www.independent.ie/life/health-wellbeing/fitness)
-            
-        *   [Mental Health](https://www.independent.ie/life/health-wellbeing/mental-health)
-            
-        *   [Baby Loss](https://www.independent.ie/life/health-wellbeing/baby-loss)
-            
-    *   Home & Garden
-        
-        *   [Overview](https://www.independent.ie/life/home-garden)
-            
-        *   [Homes](https://www.independent.ie/life/home-garden/homes)
-            
-        *   [New Homes](https://www.independent.ie/life/home-garden/new-homes)
-            
-        *   [Gardens](https://www.independent.ie/life/home-garden/gardens)
-            
-        *   [Interiors](https://www.independent.ie/life/home-garden/interiors)
-            
-    *   Family
-        
-        *   [Overview](https://www.independent.ie/life/family)
-            
-        *   [Family Features](https://www.independent.ie/life/family/family-features)
-            
-        *   [Learning](https://www.independent.ie/life/family/learning)
-            
-        *   [Parenting](https://www.independent.ie/life/family/parenting)
-            
-        *   [Mothers & Babies](https://www.independent.ie/life/family/mothers-babies)
-            
-    *   [Parenting](https://www.independent.ie/life/family/parenting)
-        
-    *   Food & Drink
-        
-        *   [Overview](https://www.independent.ie/life/food-drink)
-            
-        *   [Recipes](https://www.independent.ie/life/food-drink/recipes)
-            
-        *   [Food News](https://www.independent.ie/life/food-drink/food-news)
-            
-        *   [Food Reviews](https://www.independent.ie/life/food-drink/food-reviews)
-            
-        *   [Wine](https://www.independent.ie/life/food-drink/wine)
-            
-    *   Motoring
-        
-        *   [Overview](https://www.independent.ie/life/motoring)
-            
-        *   [News](https://www.independent.ie/life/motoring/car-news)
-            
-        *   [Reviews](https://www.independent.ie/life/motoring/car-reviews)
-            
-        *   [Car Talk](https://www.independent.ie/life/motoring/car-talk)
-            
-*   Style
-    
-    *   [Overview](https://www.independent.ie/style)
-        
-    *   Celebrity
-        
-        *   [Overview](https://www.independent.ie/style/celebrity)
-            
-        *   [Celebrity News](https://www.independent.ie/style/celebrity/celebrity-news)
-            
-        *   [Celebrity Features](https://www.independent.ie/style/celebrity/celebrity-features)
-            
-    *   Fashion
-        
-        *   [Overview](https://www.independent.ie/style/fashion)
-            
-        *   [Fashion News](https://www.independent.ie/style/fashion/fashion-news)
-            
-        *   [Fashion Fix](https://www.independent.ie/style/fashion/fashion-fix)
-            
-        *   [Style Talk](https://www.independent.ie/style/fashion/style-talk)
-            
-    *   Beauty
-        
-        *   [Overview](https://www.independent.ie/style/beauty)
-            
-        *   [Body](https://www.independent.ie/style/beauty/body)
-            
-        *   [Hair](https://www.independent.ie/style/beauty/hair)
-            
-        *   [Makeup](https://www.independent.ie/style/beauty/makeup)
-            
-    *   [Sex & Relationships](https://www.independent.ie/style/sex-relationships)
-        
-*   Entertainment
-    
-    *   [Overview](https://www.independent.ie/entertainment)
-        
-    *   Movies
-        
-        *   [Overview](https://www.independent.ie/entertainment/movies)
-            
-        *   [Movie News](https://www.independent.ie/entertainment/movies/movie-news)
-            
-        *   [Movie Reviews](https://www.independent.ie/entertainment/movies/movie-reviews)
-            
-    *   Television
-        
-        *   [Overview](https://www.independent.ie/entertainment/television)
-            
-        *   [TV News](https://www.independent.ie/entertainment/television/tv-news)
-            
-        *   [TV Reviews](https://www.independent.ie/entertainment/television/tv-reviews)
-            
-    *   Music
-        
-        *   [Overview](https://www.independent.ie/entertainment/music)
-            
-        *   [Music News](https://www.independent.ie/entertainment/music/music-news)
-            
-        *   [Music Reviews](https://www.independent.ie/entertainment/music/music-reviews)
-            
-    *   [Radio](https://www.independent.ie/entertainment/radio)
-        
-    *   Books
-        
-        *   [Overview](https://www.independent.ie/entertainment/books)
-            
-        *   [Book News](https://www.independent.ie/entertainment/books-arts/book-news)
-            
-        *   [Book Reviews](https://www.independent.ie/entertainment/books/book-reviews)
-            
-    *   [Theatre & Arts](https://www.independent.ie/entertainment/theatre-arts)
-        
-    *   [Games](https://www.independent.ie/entertainment/games)
-        
-    *   [Festivals](https://www.independent.ie/entertainment/festivals)
-        
-    *   [Puzzles](https://www.independent.ie/entertainment/puzzles)
-        
-    *   [Competitions](https://www.independent.ie/entertainment/competitions)
-        
-*   Travel
-    
-    *   [Overview](https://www.independent.ie/life/travel)
-        
-    *   [Reader Travel Awards](https://www.independent.ie/life/travel/awards)
-        
-    *   [Travel News](https://www.independent.ie/life/travel/travel-news)
-        
-    *   [Staycations](https://www.independent.ie/life/travel/staycations)
-        
-    *   [Ireland](https://www.independent.ie/life/travel/ireland)
-        
-    *   [Reviews](https://www.independent.ie/life/travel/reviews)
-        
-    *   [Walks](https://www.independent.ie/life/travel/walks)
-        
-    *   [Europe](https://www.independent.ie/life/travel/europe)
-        
-    *   [World/USA](https://www.independent.ie/life/travel/world)
-        
-    *   [Cruise](https://www.independent.ie/life/travel/cruise)
-        
-    *   [Ski](https://www.independent.ie/life/travel/ski)
-        
-*   [Video](https://www.independent.ie/videos)
+    Your device might be distinguished from other devices based on information it automatically sends when accessing the Internet (for instance, the IP address of your Internet connection or the type of browser you are using) in support of the purposes exposed in this notice.
     
 
-Extra
+List of IAB Vendors‎
 
-*   [ePaper](https://independentnewsstand.e-pages.pub/titles)
+#### IAB Special Purposes 66 partners can use this purpose
+
+ALWAYS ON
+
+We use your data for these purposes so we can deliver our services to you. For these purposes no reading and/or writing operation takes place in the user’s terminal.
+
+*   ##### Ensure security, prevent and detect fraud, and fix errors 57 partners can use this special purpose
     
-*   [Puzzles](https://www.independent.ie/entertainment/puzzles)
+     Switch Label label
     
-*   [Our Journalism](https://www.independent.ie/about-us/our-journalism/104697308.html)
-    
-*   [Our Story](https://www.independent.ie/about-us/our-story/1866021285.html)
-    
-*   [Contact Us](https://www.independent.ie/about-us/contact-us/1345911943.html)
-    
-*   [Subscribe](https://www.independent.ie/subscribe)
+    Your data can be used to monitor for and prevent unusual and possibly fraudulent activity (for example, regarding advertising, ad clicks by bots), and ensure systems and processes work properly and securely. It can also be used to correct any problems you, the publisher or the advertiser may encounter in the delivery of content and ads and in your interaction with them.
     
 
-1.  [**Home**](https://www.independent.ie/) \>
-2.  [**Irish News**](https://www.independent.ie/irish-news) \>
-3.  [**Crime**](https://www.independent.ie/irish-news/crime)
+*   ##### Deliver and present advertising and content 59 partners can use this special purpose
+    
+     Switch Label label
+    
+    Certain information (like an IP address or device capabilities) is used to ensure the technical compatibility of the content or advertising, and to facilitate the transmission of the content or ad to your device.
+    
+
+List of IAB Vendors‎
+
+#### Store and/or access information on a device 75 partners can use this purpose
+
+ Store and/or access information on a device
+
+Cookies, device or similar online identifiers (e.g. login-based identifiers, randomly assigned identifiers, network based identifiers) together with other information (e.g. browser type and information, language, screen size, supported technologies etc.) can be stored or read on your device to recognise it each time it connects to an app or to a website, for one or several of the purposes presented here.
+
+List of IAB Vendors‎
+
+#### Personalised advertising and content, advertising and content measurement, audience research and services development 90 partners can use this purpose
+
+ Personalised advertising and content, advertising and content measurement, audience research and services development
+
+*   ##### Use limited data to select advertising 72 partners can use this purpose
+    
+     Switch Label
+    
+    Advertising presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type or which content you are (or have been) interacting with (for example, to limit the number of times an ad is presented to you).
+    
+    Object to Legitimate Interests Remove Objection
+    
+
+*   ##### Create profiles for personalised advertising 64 partners can use this purpose
+    
+     Switch Label
+    
+    Information about your activity on this service (such as forms you submit, content you look at) can be stored and combined with other information about you (for example, information from your previous activity on this service and other websites or apps) or similar users. This is then used to build or improve a profile about you (that might include possible interests and personal aspects). Your profile can be used (also later) to present advertising that appears more relevant based on your possible interests by this and other entities.
+    
 
-BREAKING | 
+*   ##### Use profiles to select personalised advertising 61 partners can use this purpose
+    
+     Switch Label
+    
+    Advertising presented to you on this service can be based on your advertising profiles, which can reflect your activity on this service or other websites or apps (like the forms you submit, content you look at), possible interests and personal aspects.
+    
 
-Irish man (50) shot dead in Malta after ex-partner’s body found in apartment
-============================================================================
+*   ##### Create profiles to personalise content 28 partners can use this purpose
+    
+     Switch Label
+    
+    Information about your activity on this service (for instance, forms you submit, non-advertising content you look at) can be stored and combined with other information about you (such as your previous activity on this service or other websites or apps) or similar users. This is then used to build or improve a profile about you (which might for example include possible interests and personal aspects). Your profile can be used (also later) to present content that appears more relevant based on your possible interests, such as by adapting the order in which content is shown to you, so that it is even easier for you to find content that matches your interests.
+    
 
-The man was shot dead after a three-hour stand-off with police on a beachHis ex-partner was found dead in an apartment 6km awayDepartment of Foreign Affairs are aware of the incidentThe victim had previously made reports to police after their relationship broke down
+*   ##### Use profiles to select personalised content 22 partners can use this purpose
+    
+     Switch Label
+    
+    Content presented to you on this service can be based on your content personalisation profiles, which can reflect your activity on this or other services (for instance, the forms you submit, content you look at), possible interests and personal aspects. This can for example be used to adapt the order in which content is shown to you, so that it is even easier for you to find (non-advertising) content that matches your interests.
+    
 
-![Image 4](https://focus.independent.ie/thumbor/1QP2rciNxncfjm-p3iE8qdGmxxM=/0x0:960x640/960x640/prod-mh-ireland/d3ba0383-0f5b-4d0d-9d1d-b0159ed1cd8c/63c4a3a8-7556-44fa-aaf2-3244f38815c5/d3ba0383-0f5b-4d0d-9d1d-b0159ed1cd8c.jpg)
+*   ##### Measure advertising performance 83 partners can use this purpose
+    
+     Switch Label
+    
+    Information regarding which advertising is presented to you and how you interact with it can be used to determine how well an advert has worked for you or other users and whether the goals of the advertising were reached. For instance, whether you saw an ad, whether you clicked on it, whether it led you to buy a product or visit a website, etc. This is very helpful to understand the relevance of advertising campaigns.
+    
+    Object to Legitimate Interests Remove Objection
+    
 
-Conor Feehan, Mark Laurence Zammit and Mario Xuereb
+*   ##### Measure content performance 40 partners can use this purpose
+    
+     Switch Label
+    
+    Information regarding which content is presented to you and how you interact with it can be used to determine whether the (non-advertising) content e.g. reached its intended audience and matched your interests. For instance, whether you read an article, watch a video, listen to a podcast or look at a product description, how long you spent on this service and the web pages you visit etc. This is very helpful to understand the relevance of (non-advertising) content that is shown to you.
+    
+    Object to Legitimate Interests Remove Objection
+    
 
-Today at 11:39
+*   ##### Understand audiences through statistics or combinations of data from different sources 64 partners can use this purpose
+    
+     Switch Label
+    
+    Reports can be generated based on the combination of data sets (like user profiles, statistics, market research, analytics data) regarding your interactions and those of other users with advertising or (non-advertising) content to identify common characteristics (for instance, to determine which target audiences are more receptive to an ad campaign or to certain contents).
+    
+    Object to Legitimate Interests Remove Objection
+    
 
-An Irish man has been shot dead after a stand-off with police in Malta after he allegedly killed his ex-partner in an apartment.
+*   ##### Develop and improve services 74 partners can use this purpose
+    
+     Switch Label
+    
+    Information about your activity on this service, such as your interaction with ads or content, can be very helpful to improve products and services and to build new products and services based on user interactions, the type of audience, etc. This specific purpose does not include the development or improvement of user profiles and identifiers.
+    
+    Object to Legitimate Interests Remove Objection
+    
 
-Edward Johnston (50) was killed by Maltese police on a beach in the early hours of this morning after a three-hour stand-off.
+*   ##### Use limited data to select content 18 partners can use this purpose
+    
+     Switch Label
+    
+    Content presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type, or which content you are (or have been) interacting with (for example, to limit the number of times a video or an article is presented to you).
+    
+    Object to Legitimate Interests Remove Objection
+    
 
-An Irish man has been shot dead after a stand-off with police in Malta after he allegedly killed his ex-partner in an apartment.
-Edward Johnston (50) was killed by Maltese police on a beach in the early hours of this morning after a three-hour stand-off.
+List of IAB Vendors‎
 
-The police in Malta reported him to be a former solider from Ireland.
+#### Use precise geolocation data 32 partners can use this special feature
 
-The woman, Nicolette Ghirxi (48), was stabbed to death in an apartment in Birkirkara, a town about 7km west of the capital Valletta. Police said they shot dead Mr Johnston – her ex-partner – who is suspected of her killing.
+ Use precise geolocation data
 
-Initial reports indicated the woman was killed in her apartment in Triq Maestro Giuseppe Busuttil in the Birkirkara suburb of Swatar. Two knives were found nearby.
+With your acceptance, your precise location (within a radius of less than 500 metres) may be used in support of the purposes explained in this notice.
 
-Her body was discovered about 2am on Monday. It is understood the suspect was shot dead by police in the town of St Julian's along the shoreline behind the Hilton Hotel about 6km away, after he pointed a weapon at them.
+List of IAB Vendors‎
 
-Sources close to the investigation said the suspect had gone to the Hilton at midnight and asked for a drink but pulled out a gun when he was told the bar was closed.
+#### Actively scan device characteristics for identification 9 partners can use this special feature
 
-Police were called after receiving reports that a man wielding a gun was saying he had just murdered someone.
+ Actively scan device characteristics for identification
 
-A police negotiator was brought in and two police teams were deployed, one to Birkirkara, where they found the woman’s apartment door locked and had to break in to find the victim murdered. The other unit was deployed to the Hilton. Police cordoned off the area behind the Hilton Hotel, where the suspect was shot dead.
+With your acceptance, certain characteristics specific to your device might be requested and used to distinguish it from other devices (such as the installed fonts or plugins, the resolution of your screen) in support of the purposes explained in this notice.
 
-Sources said the man and woman had been in a relationship that had broken down.
+List of IAB Vendors‎
 
-Forensic experts were at the scene this morning and the road was closed off. Neighbours who spoke to Times of Malta said they did not hear anything out of the ordinary overnight.
+### Vendors List
 
-Police Commissioner Angelo Gafa outlined the events that unfolded this morning that resulted in the murder of Nicolette Ghirxi and the stand-off with Mr Johnston.
+ 
 
-He said three-hour negotiations took place between police and the suspect, who was in the sea with a gun pointed at his head in St Julian’s.
+Clear
 
-He said the man, who was Irish and in his 50s, had entered the hotel in St Julian’s, threatened employees, and then revealed that he had murdered a person moments before. That led to police investigating and confirming the death of Ms Ghirxi.
+ checkbox label label
 
-Police were forced to break down the door and found her lifeless with a knife next to her.
+Apply Cancel
 
-During the negotiations, the man was asked to come back onto land, which he eventually did but about 3am he pointed the weapon towards the police, according to the Malta Daily.
+Consent Leg.Interest
 
-Despite demands to put the weapon down, the man leapt at one of the officers, resulting in him being shot. He was transported to Mater Dei Hospital and was confirmed dead moments later, the news outlet added.
+ checkbox label label
 
-The website said the police commissioner told the press conference that Ms Ghirxi had made a report report in April after the two had ended a relationship together. But she had insisted she was not at risk and therefore a risk assessment did not take place.
+ checkbox label label
 
-The aggressor had reportedly been back in Ireland since but last week Ms Ghirxi told police that he was possibly in Malta.
+ checkbox label label
 
-In July, Ns Ghirxi had made other reports that the aggressor had issued posts on social media about her but she still reportedly refused the risk assessments.
+REJECT ALL SAVE THESE SETTINGS
 
-A spokesperson for the Irish Embassy told the Irish Independent it was "aware of the incident" and would offer consular assistance to relatives.
+[![Image 23: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
 
-A spokeswoman for the Department of Foreign Affairs in Ireland said it was aware of the case and was providing consular assistance, and that the department did not comment on the details of individual cases.
-
-Autopsies are still taking place and investigations are ongoing.
-
-With reporting from the Times of Malta.
-
-### Latest Crime
-
-*   [##### BREAKING | Irish man (50) shot dead in Malta after ex-partner’s body found in apartment ![Image 6](https://focus.independent.ie/thumbor/jITARsBuzG33w1T6f1oZVF7lJOw=/0x0:960x640/160x107/prod-mh-ireland/d3ba0383-0f5b-4d0d-9d1d-b0159ed1cd8c/63c4a3a8-7556-44fa-aaf2-3244f38815c5/d3ba0383-0f5b-4d0d-9d1d-b0159ed1cd8c.jpg)](https://www.independent.ie/irish-news/crime/irish-man-50-shot-dead-in-malta-after-ex-partners-body-found-in-apartment/a1366613683.html)
-*   [##### BREAKING | Two men arrested in relation to Rosslare Port cocaine seizure released without charge ![Image 7](https://focus.independent.ie/thumbor/s9R2ITs5ccJdCm8ERwMpObkKbEo=/0x0:960x640/160x107/prod-mh-ireland/c6674af1-f63a-4471-834f-05ed7cb69502/e7f367ef-7c61-4427-b187-fad270f43b3e/c6674af1-f63a-4471-834f-05ed7cb69502.jpg)](https://www.independent.ie/irish-news/crime/two-men-arrested-in-relation-to-rosslare-port-cocaine-seizure-released-without-charge/a1965599134.html)
-*   [##### Garda interactions with murdered Tipperary pensioner Josephine Ray (89) before her death to be referred to ombudsman ![Image 8](https://focus.independent.ie/thumbor/6BZbV3RAU9qWQPQBHo2hkm1lNBQ=/0x100:360x340/160x107/prod-mh-ireland/f8ed1908-2144-406c-9aa9-c37abef2b98e/40443fcf-65c4-4651-a7d8-11fbe0a10b27/Josephine%20Ray.jpg)](https://www.independent.ie/irish-news/crime/garda-interactions-with-murdered-tipperary-pensioner-josephine-ray-89-before-her-death-to-be-referred-to-ombudsman/a455145131.html)
-*   [##### ‘Too late’ for Simon Harris in his quest to rein in social media firms, warns DCU professor ![Image 9](https://focus.independent.ie/thumbor/8x96XT9jc4AFlFjEq-WjYUoLCNY=/0x0:3238x2158/160x107/prod-mh-ireland/9502c9a0-108e-4540-9067-9116276e4ec5/c55ea8a9-10c4-4238-8ad3-73447d2182d2/9502c9a0-108e-4540-9067-9116276e4ec5.jpg)](https://www.independent.ie/irish-news/crime/too-late-for-simon-harris-in-his-quest-to-rein-in-social-media-firms-warns-dcu-professor/a1751960588.html)
-*   [##### BREAKING | Two men arrested over €7.2m cocaine seizure at Rosslare Europort ![Image 10](https://focus.independent.ie/thumbor/ydT5Uw-yZvzqka_zkVoBF8YPn_U=/0x91:1197x889/160x107/prod-mh-ireland/b741f2f2-aaa8-41c0-aeb5-c64e863b5470/1f93ab7b-00c4-4c60-b3f9-0974f24a2b2d/36a58665-f654-4259-b216-3dda01529436.jpg)](https://www.independent.ie/irish-news/crime/two-men-arrested-over-72m-cocaine-seizure-at-rosslare-europort/a1559146657.html)
-*   [![Image 11: Plus Artikel](https://shared.mediahuis.be/logos/indo/v3/brand-plus-main.svg?v=v3) ##### Split forms in Irish far right over show of support for loyalists at Belfast riots ![Image 12](https://focus.independent.ie/thumbor/8JSal3kQ9Oazu-AbyeRf_kpKKkI=/123x0:2872x1833/160x107/prod-mh-ireland/8d3f2d68-0034-4c1f-badb-42b848fd3ae0/92f5960d-dac1-4c92-bd43-184d9d021e39/8d3f2d68-0034-4c1f-badb-42b848fd3ae0.jpg)](https://www.independent.ie/irish-news/crime/split-forms-in-irish-far-right-over-show-of-support-for-loyalists-at-belfast-riots/a967008773.html)
-*   [![Image 13: Plus Artikel](https://shared.mediahuis.be/logos/indo/v3/brand-plus-main.svg?v=v3) ##### Taoiseach Simon Harris declares regulatory war on social media over online hatred and racism ![Image 14](https://focus.independent.ie/thumbor/AUq-DlfwsXPY9-zfAR95ZmE2-t8=/0x3:1264x845/160x107/prod-mh-ireland/e88a8ec3-7627-4161-83ba-55178ae64def/b395b685-3527-4418-8d89-f5330dcaef05/SN%20Harris%20Musk.jpg)](https://www.independent.ie/irish-news/crime/taoiseach-simon-harris-declares-regulatory-war-on-social-media-over-online-hatred-and-racism/a1193494685.html)
-*   [##### Wife killer James Kilroy now ‘teaching yoga to fellow inmates’ ![Image 15](https://focus.independent.ie/thumbor/ZsyI04v-tTwSgV_dRNXEi69HQWY=/436x439:2174x1594/160x107/prod-mh-ireland/6982a6a8-73c5-4b20-a74b-b67a618bbdad/9e343e34-8dbe-4d10-8a53-75bc3424eb00/6982a6a8-73c5-4b20-a74b-b67a618bbdad.jpg)](https://www.independent.ie/irish-news/crime/wife-killer-james-kilroy-now-teaching-yoga-to-fellow-inmates/a1265620947.html)
-*   [![Image 16: Plus Artikel](https://shared.mediahuis.be/logos/indo/v3/brand-plus-main.svg?v=v3) ##### ‘Am I his girlfriend? Absolutely not. I’m his friend’: Graham Dwyer’s new visitor explains why she befriended the convicted murderer ![Image 17](https://focus.independent.ie/thumbor/1avQWQiGtHKW3H_nyQ9rmIwhSpU=/60x0:735x450/160x107/prod-mh-ireland/56ade027-a985-4130-990a-81889f2d3147/f5f26e28-0703-4338-a986-73f0f245649d/video/video.jpg)](https://www.independent.ie/irish-news/crime/am-i-his-girlfriend-absolutely-not-im-his-friend-graham-dwyers-new-visitor-explains-why-she-befriended-the-convicted-murderer/a1440598166.html)
-*   [![Image 18: Plus Artikel](https://shared.mediahuis.be/logos/indo/v3/brand-plus-main.svg?v=v3) ##### Australians find ‘likely’ Russian spy in Moscow’s Dublin embassy ![Image 19](https://focus.independent.ie/thumbor/lbIoLCne4cRL4dy31XZXAUApMSA=/0x0:960x640/160x107/prod-mh-ireland/a3f3f9aa-5bb0-4a25-9ae1-6a2a4c8bfee0/2d1a0d92-f35d-437f-a9b4-35080888052f/a3f3f9aa-5bb0-4a25-9ae1-6a2a4c8bfee0.jpg)](https://www.independent.ie/irish-news/crime/australians-find-likely-russian-spy-in-moscows-dublin-embassy/a1663469839.html)
-
-Show more
-
-### Top Stories
-
-*   [![Image 20](https://focus.independent.ie/thumbor/wmisiCV9cI7yFhHxyOihuZahykU=/60x0:735x450/320x213/prod-mh-ireland/4edd5766-9aef-4612-abec-cde298c02ec8/65ce87b8-4ad4-4c02-af7f-4eab1738116c/video/video.jpg) Irish News #### LIVE | Ireland’s Olympic Homecoming: 20,000 people gather in the sun on O’Connell Street to welcome sporting heroes home](https://www.independent.ie/irish-news/irelands-olympic-homecoming-20000-people-gather-in-the-sun-on-oconnell-street-to-welcome-sporting-heroes-home/a809223941.html)
-*   [![Image 21](https://focus.independent.ie/thumbor/7bUE0zAs1x-tYK3F56IbSU_Cph4=/60x0:735x450/320x213/prod-mh-ireland/1de4f073-3593-45c9-9c81-a43ffc3f72ff/ee2fed76-f214-4c2f-91c3-804ff798cfa9/video/video.jpg) Irish News![Image 22: Plus Artikel](https://shared.mediahuis.be/logos/indo/v3/brand-plus-main.svg?v=v3) #### ‘I hate my home now, I can’t even open my window on a sunny day’ – Dublin residents frustrated by construction site on their ‘doorstep’](https://www.independent.ie/irish-news/i-hate-my-home-now-i-cant-even-open-my-window-on-a-sunny-day-dublin-residents-frustrated-by-construction-site-on-their-doorstep/a793897008.html)
-*   [![Image 23](https://focus.independent.ie/thumbor/RIwIn7cRM_f98yG9CwcTJ15QAME=/111x0:1311x800/320x213/prod-mh-ireland/9143dd98-ad37-45c5-9aed-ab63e093faf2/2f5efcb5-e176-42a3-86f1-752621bb05f9/9143dd98-ad37-45c5-9aed-ab63e093faf2.jpg) Europe![Image 24: Plus Artikel](https://shared.mediahuis.be/logos/indo/v3/brand-plus-main.svg?v=v3) #### Our sleeper train adventure in Europe: ‘No wonder they give you ear plugs and eyeshades’](https://www.independent.ie/life/travel/europe/our-sleeper-train-adventure-in-europe-no-wonder-they-give-you-ear-plugs-and-eyeshades/a1258012688.html)
-*   [![Image 25](https://focus.independent.ie/thumbor/SagUL4eRIeFGJKkJk9LLDp8JZDs=/0x0:960x640/320x213/prod-mh-ireland/931fc099-bbdc-4faa-94cb-b34930f24f35/1f69eac3-6c82-4b85-b84d-8002e27a32bd/931fc099-bbdc-4faa-94cb-b34930f24f35.jpg) Celebrity News #### Laura Fox announces engagement to long-term boyfriend](https://www.independent.ie/style/celebrity/celebrity-news/laura-fox-announces-engagement-to-long-term-boyfriend/a1770405107.html)
-
-### Latest News[More](https://www.independent.ie/latest-news)
-
-*   [Britain ##### Banksy unveils rhino artwork which looks like animal is climbing onto a car 12:42](https://www.independent.ie/world-news/britain/banksy-unveils-rhino-artwork-which-looks-like-animal-is-climbing-onto-a-car/a917617882.html)
-*   [Europe ##### LATEST | Sweden ends criminal investigation into Dutch artist removed from Eurovision 12:36](https://www.independent.ie/world-news/europe/sweden-ends-criminal-investigation-into-dutch-artist-removed-from-eurovision/a811917299.html)
-*   [Soccer ##### Preston manager Ryan Lowe leaves club by mutual consent one game into new season 12:29](https://www.independent.ie/sport/soccer/preston-manager-ryan-lowe-leaves-club-by-mutual-consent-one-game-into-new-season/a444751466.html)
-*   [Britain ##### BREAKING | Man arrested after girl (11) and woman (34) stabbed in London’s Leicester Square 12:23](https://www.independent.ie/world-news/britain/man-arrested-after-girl-11-and-woman-34-stabbed-in-londons-leicester-square/a1819494843.html)
-*   [Celebrity News ##### Banksy unveils rhino artwork that looks like the animal is climbing onto a car 12:20](https://www.independent.ie/style/celebrity/celebrity-news/banksy-unveils-rhino-artwork-that-looks-like-the-animal-is-climbing-onto-a-car/a172006077.html)
-*   [Sport ##### Ireland celebrates as Team Ireland returns with a record medal haul from the Olympic Games 12:12](https://www.independent.ie/sport/ireland-celebrates-as-team-ireland-returns-with-a-record-medal-haul-from-the-olympic-games/a1723698359.html)
-*   [Irish News Video ##### Thousands gather in the sun on O'Connell street to welcome sporting heroes home 12:08](https://www.independent.ie/videos/irish-news/thousands-gather-in-the-sun-on-oconnell-street-to-welcome-sporting-heroes-home/a1929938722.html)
-*   [Premier League ##### Tottenham investigating Yves Bissouma laughing gas video as midfielder issues apology – ‘I understand how serious this is’ 12:03](https://www.independent.ie/sport/soccer/premier-league/tottenham-investigating-yves-bissouma-laughing-gas-video-as-midfielder-issues-apology-i-understand-how-serious-this-is/a640994890.html)
-*   [Golf ##### ‘They should've blown the horn there’ – Matt Kuchar defends decision to walk off course at Wyndham Championship 11:48](https://www.independent.ie/sport/golf/they-shouldve-blown-the-horn-there-matt-kuchar-defends-decision-to-walk-off-course-at-wyndham-championship/a889439375.html)
-*   [Crime ##### BREAKING | Irish man (50) shot dead in Malta after ex-partner’s body found in apartment 11:39](https://www.independent.ie/irish-news/crime/irish-man-50-shot-dead-in-malta-after-ex-partners-body-found-in-apartment/a1366613683.html)
-
-* * *
-
-### Top Stories[More](https://www.independent.ie/)
-
-*   [Crime ###### BREAKING | Irish man (50) shot dead in Malta after ex-partner’s body found in apartment ![Image 26](https://focus.independent.ie/thumbor/J4987zJCAmS21JbrMdSBj64oLnI=/0x0:960x640/120x80/prod-mh-ireland/d3ba0383-0f5b-4d0d-9d1d-b0159ed1cd8c/63c4a3a8-7556-44fa-aaf2-3244f38815c5/d3ba0383-0f5b-4d0d-9d1d-b0159ed1cd8c.jpg)](https://www.independent.ie/irish-news/crime/irish-man-50-shot-dead-in-malta-after-ex-partners-body-found-in-apartment/a1366613683.html)
-*   [Irish News![Image 27: Plus Artikel](https://shared.mediahuis.be/logos/indo/v3/brand-plus-main.svg?v=v3) ###### Death threats, intimidation and blackmail against politicians: ‘They said they knew I had cancer and they hoped it would get me’ ![Image 28](https://focus.independent.ie/thumbor/w5vSBwQ09G3rcZ8LjSci9ujWPzs=/60x0:735x450/120x80/prod-mh-ireland/d0b63467-50c9-4116-8c45-fc7bc52500c4/4e6dd48e-0392-4154-a421-6ef1a1ba6f65/video/video.jpg)](https://www.independent.ie/irish-news/death-threats-intimidation-and-blackmail-against-politicians-they-said-they-knew-i-had-cancer-and-they-hoped-it-would-get-me/a844738384.html)
-*   [Olympics ###### ‘I rushed to hospital’ – Olympic hero Daniel Wiffen on why he couldn’t fly flag at Closing Ceremony ![Image 29](https://focus.independent.ie/thumbor/TMoN0zpIOjIOd_uKlVv-6UEWmZk=/0x435:2185x1891/120x80/prod-mh-ireland/52bf2361-c114-46d4-aa3e-0c27587a08aa/da96a368-bd6b-406c-afed-35d34608d09c/52bf2361-c114-46d4-aa3e-0c27587a08aa.jpg)](https://www.independent.ie/sport/olympics/i-rushed-to-hospital-olympic-hero-daniel-wiffen-on-why-he-couldnt-fly-flag-at-closing-ceremony/a1111821921.html)
-*   [Health Features![Image 30: Plus Artikel](https://shared.mediahuis.be/logos/indo/v3/brand-plus-main.svg?v=v3) ###### ‘I didn’t think I could have breast cancer so soon after my cousin had been diagnosed too — what would be the chances?’ ![Image 31](https://focus.independent.ie/thumbor/YcEj93GG4yQAmcUI2laeap4nJ6g=/0x447:2159x1886/120x80/prod-mh-ireland/9d886962-c70a-4b83-86b3-9948ed09b116/5c2ac47d-1559-47ef-9655-aa3a149c534b/9d886962-c70a-4b83-86b3-9948ed09b116.jpg)](https://www.independent.ie/life/health-wellbeing/health-features/i-didnt-think-i-could-have-breast-cancer-so-soon-after-my-cousin-had-been-diagnosed-too-what-would-be-the-chances/a49556923.html)
-*   [Irish News![Image 32: Plus Artikel](https://shared.mediahuis.be/logos/indo/v3/brand-plus-main.svg?v=v3) ###### Paris closes magical Olympics that bounced back to former glory – and showed a new way forward for LA ![Image 33](https://focus.independent.ie/thumbor/3VEeIrAaZYwBRHE8n2jQQmehmps=/85x0:2993x1935/120x80/prod-mh-ireland/068e162b-a6d0-44d8-b0da-f0f92b3e117a/e65daaf3-fd9b-4326-87a0-4773405cc8fe/Sports2915211.jpg)](https://www.independent.ie/irish-news/paris-closes-magical-olympics-that-bounced-back-to-former-glory-and-showed-a-new-way-forward-for-la/a1210733958.html)
-
-### Most Read Crime
-
-1.  [Crime ###### Garda interactions with murdered Tipperary pensioner Josephine Ray (89) before her death to be referred to ombudsman ![Image 34](https://focus.independent.ie/thumbor/MuajoiD2e9Pk2EZXToIfZvm2Xwg=/0x100:360x340/120x80/prod-mh-ireland/f8ed1908-2144-406c-9aa9-c37abef2b98e/40443fcf-65c4-4651-a7d8-11fbe0a10b27/Josephine%20Ray.jpg)](https://www.independent.ie/irish-news/crime/garda-interactions-with-murdered-tipperary-pensioner-josephine-ray-89-before-her-death-to-be-referred-to-ombudsman/a455145131.html)
-2.  [Crime ###### BREAKING | Irish man (50) shot dead in Malta after ex-partner’s body found in apartment ![Image 35](https://focus.independent.ie/thumbor/J4987zJCAmS21JbrMdSBj64oLnI=/0x0:960x640/120x80/prod-mh-ireland/d3ba0383-0f5b-4d0d-9d1d-b0159ed1cd8c/63c4a3a8-7556-44fa-aaf2-3244f38815c5/d3ba0383-0f5b-4d0d-9d1d-b0159ed1cd8c.jpg)](https://www.independent.ie/irish-news/crime/irish-man-50-shot-dead-in-malta-after-ex-partners-body-found-in-apartment/a1366613683.html)
-3.  [Crime ###### ‘Too late’ for Simon Harris in his quest to rein in social media firms, warns DCU professor ![Image 36](https://focus.independent.ie/thumbor/7GxRLa4BB1A0uO-nycAn31ufpoM=/0x0:3238x2158/120x80/prod-mh-ireland/9502c9a0-108e-4540-9067-9116276e4ec5/c55ea8a9-10c4-4238-8ad3-73447d2182d2/9502c9a0-108e-4540-9067-9116276e4ec5.jpg)](https://www.independent.ie/irish-news/crime/too-late-for-simon-harris-in-his-quest-to-rein-in-social-media-firms-warns-dcu-professor/a1751960588.html)
-4.  [Crime![Image 37: Plus Artikel](https://shared.mediahuis.be/logos/indo/v3/brand-plus-main.svg?v=v3) ###### ‘Am I his girlfriend? Absolutely not. I’m his friend’: Graham Dwyer’s new visitor explains why she befriended the convicted murderer ![Image 38](https://focus.independent.ie/thumbor/u9EpEgOLjVEMPD6dHtTa3UQuszs=/60x0:735x450/120x80/prod-mh-ireland/56ade027-a985-4130-990a-81889f2d3147/f5f26e28-0703-4338-a986-73f0f245649d/video/video.jpg)](https://www.independent.ie/irish-news/crime/am-i-his-girlfriend-absolutely-not-im-his-friend-graham-dwyers-new-visitor-explains-why-she-befriended-the-convicted-murderer/a1440598166.html)
-5.  [Courts ###### Man jailed for rape of woman as she slept beside boyfriend and her newborn baby ![Image 39](https://focus.independent.ie/thumbor/Wr8og_QHlPpCc4--R1dUptb-zJQ=/0x192:2185x1648/120x80/prod-mh-ireland/d4defed2-50bc-4a90-b41a-b2270e57ef75/8f5f8dc1-4c59-4134-975e-279a65e5cf91/%20Shaun%20O_Donnell002.jpg)](https://www.independent.ie/irish-news/courts/man-jailed-for-rape-of-woman-as-she-slept-beside-boyfriend-and-her-newborn-baby/a1543285793.html)
-
-### The Indo Daily[More Episodes](https://www.independent.ie/podcasts/the-indo-daily)
-
-*   [![Image 40](https://focus.independent.ie/thumbor/DO4q2yvPdxq8uB8C7meqBy1m5t0=/0x78:3012x2086/320x213/prod-mh-ireland/8f20bb2e-4935-447c-8712-50b94f9e95d5/e83483a4-a66f-4469-80d6-64b4f995a3a6/8f20bb2e-4935-447c-8712-50b94f9e95d5.jpg) #### Indo Daily Investigates: The sex trafficker turned handyman, on the run in Ireland](https://www.independent.ie/podcasts/the-indo-daily/indo-daily-investigates-the-sex-trafficker-turned-handyman-on-the-run-in-ireland/a933101276.html)
-
-[![Image 41: INDO](https://shared.mediahuis.be/logos/indo/v3/brand-main.svg)](https://www.independent.ie/)
-
-News
-
-*   [Latest News](https://www.independent.ie/latest-news)
-*   [Irish news](https://www.independent.ie/irish-news)
-*   [World News](https://www.independent.ie/world-news)
-*   [Dublin](https://www.independent.ie/regionals/dublin)
-*   [Local News](https://www.independent.ie/regionals)
-*   [Local ePapers](https://www.independent.ie/localnews)
-*   [Environment](https://www.independent.ie/news/environment)
-*   [Weather](https://www.independent.ie/weather)
-*   [Video](https://www.independent.ie/videos)
-*   [Topics](https://www.independent.ie/tags)
-
-Opinion
-
-*   [Letters](https://www.independent.ie/opinion/letters)
-*   [Editorial](https://www.independent.ie/opinion/editorial)
-*   [Comment](https://www.independent.ie/opinion/comment)
-*   [Journalists](https://www.independent.ie/journalists)
-
-Business
-
-*   [Budget 2023](https://www.independent.ie/business/budget)
-*   [Irish](https://www.independent.ie/business/irish)
-*   [World](https://www.independent.ie/business/world)
-*   [Technology](https://www.independent.ie/business/technology)
-*   [Personal Finance](https://www.independent.ie/business/personal-finance)
-*   [Small Business](https://www.independent.ie/business/small-business)
-*   [Farming](https://www.independent.ie/business/farming)
-*   [Jobs](https://www.independent.ie/business/jobs)
-*   [Commercial Property](https://www.independent.ie/business/commercial-property)
-*   [In The Workplace](https://www.independent.ie/business/in-the-workplace/)
-
-Sport
-
-*   [Rugby](https://www.independent.ie/sport/rugby)
-*   [GAA](https://www.independent.ie/sport/gaelic-games)
-*   [Soccer](https://www.independent.ie/sport/soccer)
-*   [The Left Wing](https://www.independent.ie/sport/rugby/the-left-wing)
-*   [The Throw In](https://www.independent.ie/sport/gaelic-games/the-throw-in)
-*   [Women's Sport](https://www.independent.ie/sport/womens-sport)
-*   [Golf](https://www.independent.ie/sport/golf)
-*   [Horse Racing](https://www.independent.ie/sport/horse-racing)
-*   [Other Sports](https://www.independent.ie/sport/other-sports)
-*   [ICycle](https://www.independent.ie/sport/other-sports/cycling/icycle)
-
-Life
-
-*   [Health & Wellbeing](https://www.independent.ie/life/health-wellbeing)
-*   [Home & Garden](https://www.independent.ie/life/home-garden)
-*   [Family](https://www.independent.ie/life/family)
-*   [Parenting](https://www.independent.ie/life/family/parenting)
-*   [Food & Drink](https://www.independent.ie/life/food-drink)
-*   [Motoring](https://www.independent.ie/life/motoring)
-
-Style
-
-*   [Celebrity](https://www.independent.ie/style/celebrity)
-*   [Fashion](https://www.independent.ie/style/fashion)
-*   [Beauty](https://www.independent.ie/style/beauty)
-*   [Sex & Relationships](https://www.independent.ie/style/sex-relationships)
-*   [Voices](https://www.independent.ie/style/voices)
-*   [Galleries](https://www.independent.ie/style/galleries)
-
-Entertainment
-
-*   [Movies](https://www.independent.ie/entertainment/movies)
-*   [Television](https://www.independent.ie/entertainment/television)
-*   [Music](https://www.independent.ie/entertainment/music)
-*   [Radio](https://www.independent.ie/entertainment/radio)
-*   [Books](https://www.independent.ie/entertainment/books/)
-*   [Theatre & Arts](https://www.independent.ie/entertainment/theatre-arts)
-*   [Games](https://www.independent.ie/entertainment/games)
-*   [Festivals](https://www.independent.ie/entertainment/festivals)
-*   [Puzzles](https://www.independent.ie/entertainment/crosswords-puzzles)
-*   [Competitions](https://www.independent.ie/entertainment/competitions)
-
-Travel
-
-*   [Reader Travel Awards](https://www.independent.ie/life/travel/awards)
-*   [Travel News](https://www.independent.ie/life/travel/travel-news)
-*   [Staycations](https://www.independent.ie/life/travel/staycations)
-*   [Ireland](https://www.independent.ie/life/travel/ireland)
-*   [Reviews](https://www.independent.ie/life/travel/reviews)
-*   [Walks](https://www.independent.ie/life/travel/walks)
-*   [Europe](https://www.independent.ie/life/travel/europe)
-*   [World/USA](https://www.independent.ie/life/travel/world)
-*   [Travel TV](https://www.independent.ie/life/travel/travel-tv)
-*   [Cruise](https://www.independent.ie/life/travel/cruise)
-*   [Ski](https://www.independent.ie/life/travel/ski)
-
-Podcasts
-
-*   [The Indo Daily](https://www.independent.ie/podcasts/the-indo-daily)
-*   [The Left Wing](https://www.independent.ie/podcasts/the-left-wing)
-*   [The Big Tech Show](https://www.independent.ie/podcasts/the-big-tech-show)
-*   [Real Health Podcast](https://www.independent.ie/podcasts/the-real-health-podcast)
-*   [The Throw In](https://www.independent.ie/podcasts/the-throw-in)
-
-More
-
-*   [Our Journalism](https://www.independent.ie/about-us/our-journalism/104697308.html)
-*   [Our Story](https://www.independent.ie/about-us/our-story/1866021285.html)
-*   [Contact Us](https://www.independent.ie/about-us/contact-us/1345911943.html)
-*   [Corporate and Social Responsibility](https://www.independent.ie/about-us/corporate-and-social-responsibility/1839426075.html)
-*   [Subscription Bundles](https://subscribe.independent.ie/)
-*   [Subscriber Rewards](https://www.independent.ie/service/premium-subscribers-claim-your-free-rewards/41947461.html)
-*   [Subscription Puzzles](https://www.independent.ie/entertainment/puzzles)
-*   [FAQ's](https://subscribe.independent.ie/frequently-asked-questions/)
-*   [ePapers](https://epaper.independentnewsstand.ie/titles)
-*   [Newsletters](https://member.independent.ie/newsletter)
-*   \_\_\_\_\_\_\_\_\_
-*   [Storyplus](https://www.independent.ie/storyplus)
-*   [CarsIreland.ie](https://www.carsireland.ie/)
-*   [Carzone.ie](https://carzone.ie/)
-*   [Cartell.ie](https://cartell.ie/)
-*   [Switcher.ie](https://switcher.ie/)
-*   [Reach Delpac](https://www.reach-delpac.ie/)
-*   Socials
-
-[](https://www.facebook.com/Independent.ie)[](https://twitter.com/independent_ie)[](mailto:customerhelp@independent.ie?body=Independent.ie&amp;subject=Independent.ie)
-
-[Sitemap](https://www.independent.ie/sitemap)[Archive](https://www.independent.ie/archive/cnt)[Terms & conditions](https://www.mediahuis.ie/terms-and-conditions/)[Contact us](https://www.independent.ie/about-us/contact-us/1345911943.html)[Privacy statement](https://www.mediahuis.ie/privacystatement/)[Cookie Policy](https://www.mediahuis.ie/cookiepolicy/)[Group Websites](https://www.independent.ie/group-websites)[Advertise with Us](https://www.mediahuis.ie/advertising-solutions)
-
-[A ![Image 42: logo mediahuis](https://markup.independent.ie/extra/assets/img/mediahuis.svg) WEBSITE © independent.ie](https://www.mediahuis.ie/)
-
-![Image 43: INDO](https://shared.mediahuis.be/logos/indo/v3/brand-main.svg)
-
-Follow us:
-
-[](https://www.facebook.com/Independent.ie)[](https://twitter.com/independent_ie)[](mailto:customerhelp@independent.ie?body=Independent.ie&amp;subject=Independent.ie)
-
-*   [Sitemap](https://www.independent.ie/sitemap)
-*   [Archive](https://www.independent.ie/archive/cnt)
-*   [Terms & conditions](https://www.mediahuis.ie/terms-and-conditions/)
-*   [Contact us](https://www.independent.ie/about-us/contact-us/1345911943.html)
-*   [Privacy statement](https://www.mediahuis.ie/privacystatement/)
-*   [Cookie Policy](https://www.mediahuis.ie/cookiepolicy/)
-*   [Group Websites](https://www.independent.ie/group-websites)
-*   [Advertise with Us](https://www.mediahuis.ie/advertising-solutions)
-*   [Subscription Bundles](https://subscribe.independent.ie/)
-*   [Subscription Rewards](https://www.independent.ie/service/premium-subscribers-claim-your-free-rewards-41947461.html)
-*   [Subscription Puzzles](https://www.independent.ie/entertainment/crosswords-puzzles/)
-*   [FAQ's](https://www.independent.ie/service/frequently-asked-questions/)
-*   [ePapers](https://independentnewsstand.e-pages.pub/titles)
-*   [Newsletters](https://member.independent.ie/newsletter)
-
-  
-
-Privacy
+![Image 24](https://paywall-ad-bucket.s3.amazonaws.com/ad_300_250.jpg)

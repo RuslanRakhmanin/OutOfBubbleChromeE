@@ -32,11 +32,16 @@ def cut_links_latin(f_input, f_output):
     f_out.close()
 
 
-if __name__ == "__main__":
-    # file_name_input = os.path.join(os.path.dirname(os.path.realpath(__file__)), "set_1_independent.md")
 
-    file_name_input = os.path.join(os.path.dirname(os.path.realpath(__file__)), "input.md")
-    file_name_output = os.path.join(os.path.dirname(os.path.realpath(__file__)), "output.md")
+if __name__ == "__main__":
+
+    CURRENT_DIRECTORY = os.path.dirname(__file__)
+
+    file_name_input = os.path.join(CURRENT_DIRECTORY, "input.md")
+    file_name_output = os.path.join(CURRENT_DIRECTORY, "output.md")
+
+    # file_name_input = "input.md"
+    # file_name_output = "output.md"
 
     if len(sys.argv) > 1:
         file_name_input = sys.argv[1]

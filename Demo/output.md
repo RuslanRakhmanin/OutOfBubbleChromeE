@@ -1,99 +1,182 @@
-Title: Irish man (50) shot dead in Malta after ex-partner’s body found in apartment
-URL Source: https://www.independent.ie/irish-news/crime/irish-man-50-shot-dead-in-malta-after-ex-partners-body-found-in-apartment/a1366613683.html
-Published Time: 2024-08-12T13:39:42+02:00
+Title: Irishman killed by police in Malta after allegedly murdering woman
+URL Source: https://www.irishexaminer.com/news/arid-41454697.html
+Published Time: 2024-08-12T11:12:00+01:00
 Markdown Content:
-Irish man (50) shot dead in Malta after ex-partner’s body found in apartment | Irish Independent
-#### Cookies and data processing on The Irish Independent
-Mediahuis (‘we’) and partners use technologies such as cookies to store and access (personal) data – online identifiers (e.g., IP address, sign-in ID), non-precise location and information about your browser, operating system, device as well as insights into your use of this domain – on your device for the following purposes:
-*   Advertising and content measurement, audience insights and product development;
-*   Personalised content;
-*   Personalised ads; and
-*   Social media.
-If you allow such use, click "Accept". If you do not want to allow all purposes, select "Manage". You can manage your preferences and object to processing based on legitimate interest at any time in your privacy settings. We will share your privacy preferences – for which purposes and partners you provided consent - with our partners.
-Would you like more explanation about our use of your data? Read our  and . More information on the use of your data by our partners you find here.
-View our 202 partners
-ManageAccept
-Monday, 12 August 2024
-*   Log In
-Search for articles
-*   News
-    *   Irish News
-    *   Local News
-    *   World
-    *   Farming
-    *   Podcasts
-*   Opinion
-*   Business
-*   Sport
-    *   Rugby
-    *   GAA
-    *   Soccer
-    *   Other Sports
-*   Life
-    *   Health & Wellbeing
-    *   Home & Garden
-    *   Family
-    *   Food & Drink
-    *   Motoring
-*   Style
-    *   Celebrity
-    *   Fashion
-    *   Beauty
-*   Entertainment
-    *   Movies
-    *   Television
-    *   Music
-    *   Books
-*   Travel
-Extra
-BREAKING | 
-Irish man (50) shot dead in Malta after ex-partner’s body found in apartment
-The man was shot dead after a three-hour stand-off with police on a beachHis ex-partner was found dead in an apartment 6km awayDepartment of Foreign Affairs are aware of the incidentThe victim had previously made reports to police after their relationship broke down
-Conor Feehan, Mark Laurence Zammit and Mario Xuereb
-Today at 11:39
-An Irish man has been shot dead after a stand-off with police in Malta after he allegedly killed his ex-partner in an apartment.
-Edward Johnston (50) was killed by Maltese police on a beach in the early hours of this morning after a three-hour stand-off.
-An Irish man has been shot dead after a stand-off with police in Malta after he allegedly killed his ex-partner in an apartment.
-Edward Johnston (50) was killed by Maltese police on a beach in the early hours of this morning after a three-hour stand-off.
-The police in Malta reported him to be a former solider from Ireland.
-The woman, Nicolette Ghirxi (48), was stabbed to death in an apartment in Birkirkara, a town about 7km west of the capital Valletta. Police said they shot dead Mr Johnston – her ex-partner – who is suspected of her killing.
-Initial reports indicated the woman was killed in her apartment in Triq Maestro Giuseppe Busuttil in the Birkirkara suburb of Swatar. Two knives were found nearby.
-Her body was discovered about 2am on Monday. It is understood the suspect was shot dead by police in the town of St Julian's along the shoreline behind the Hilton Hotel about 6km away, after he pointed a weapon at them.
-Sources close to the investigation said the suspect had gone to the Hilton at midnight and asked for a drink but pulled out a gun when he was told the bar was closed.
-Police were called after receiving reports that a man wielding a gun was saying he had just murdered someone.
-A police negotiator was brought in and two police teams were deployed, one to Birkirkara, where they found the woman’s apartment door locked and had to break in to find the victim murdered. The other unit was deployed to the Hilton. Police cordoned off the area behind the Hilton Hotel, where the suspect was shot dead.
-Sources said the man and woman had been in a relationship that had broken down.
-Forensic experts were at the scene this morning and the road was closed off. Neighbours who spoke to Times of Malta said they did not hear anything out of the ordinary overnight.
-Police Commissioner Angelo Gafa outlined the events that unfolded this morning that resulted in the murder of Nicolette Ghirxi and the stand-off with Mr Johnston.
-He said three-hour negotiations took place between police and the suspect, who was in the sea with a gun pointed at his head in St Julian’s.
-He said the man, who was Irish and in his 50s, had entered the hotel in St Julian’s, threatened employees, and then revealed that he had murdered a person moments before. That led to police investigating and confirming the death of Ms Ghirxi.
-Police were forced to break down the door and found her lifeless with a knife next to her.
-During the negotiations, the man was asked to come back onto land, which he eventually did but about 3am he pointed the weapon towards the police, according to the Malta Daily.
-Despite demands to put the weapon down, the man leapt at one of the officers, resulting in him being shot. He was transported to Mater Dei Hospital and was confirmed dead moments later, the news outlet added.
-The website said the police commissioner told the press conference that Ms Ghirxi had made a report report in April after the two had ended a relationship together. But she had insisted she was not at risk and therefore a risk assessment did not take place.
-The aggressor had reportedly been back in Ireland since but last week Ms Ghirxi told police that he was possibly in Malta.
-In July, Ns Ghirxi had made other reports that the aggressor had issued posts on social media about her but she still reportedly refused the risk assessments.
-A spokesperson for the Irish Embassy told the Irish Independent it was "aware of the incident" and would offer consular assistance to relatives.
-A spokeswoman for the Department of Foreign Affairs in Ireland said it was aware of the case and was providing consular assistance, and that the department did not comment on the details of individual cases.
-Autopsies are still taking place and investigations are ongoing.
-With reporting from the Times of Malta.
-### Latest Crime
-Show more
-### Top Stories
-### Latest News
-### Top Stories
-### Most Read Crime
-### The Indo Daily
-News
-Opinion
-Business
-Sport
-Life
-Style
-Entertainment
-Travel
-Podcasts
-More
-*   Socials
-Follow us:
-Privacy
+Irishman killed by police in Malta after allegedly murdering woman
+X
+*   MORE __
+Irishman killed by police in Malta after allegedly murdering woman
+The Times of Malta reports that the man was in St Julian's on the rocks along the shoreline behind a Hilton Hotel. Police said he pointed a replica weapon at them.
+Mon, 12 Aug, 2024 - 11:12
+Liz Dunphy
+An Irishman has been shot dead by police in Malta after allegedly murdering his former partner in the country.
+The man was a suspect in the killing of 48-year-old Nicolette Ghirxi, who was found stabbed to death in her apartment in Birkirkara. He has been named by local media as Edward Johnston, 50, a former soldier from Dublin.
+Police said he was shot after he pointed a replica weapon at them.
+The Department of Foreign Affairs said it is aware of the case and is providing consular assistance.
+Johnston was not a soldier with the Irish Defence Forces, who said they have no record of Johnston's military service.
+From Dublin originally Johnston had also lived in Malta and Scotland. His ex-wife also lives in Scotland, it is understood.
+Ms Ghirxi was stabbed to death in her apartment in Birkirkara.
+She had been in a relationship with Johnston but that relationship had ended. Ms Ghirxi had made a number of complaints to police about harassment, mostly via email, by Johnston after their break up.
+Nicolette Ghirxi. Picture: Facebook
+She told police that she did not feel threatened. But when she believed Mr Johnston had returned to Malta she informed police last Thursday.
+Police were alerted when Mr Johnston allegedly entered the Hilton Hotel in St Julian’s and pulled a gun on staff when they told him the bar was closed. He also reportedly told staff there that he had murdered someone.
+Police said they found the man on the rocks behind the hotel in St Julian’s. As he was approached by the police, he jumped into the sea and started pointing the weapon at his head.
+A statement revealed: "The police officers spoke with the man who was still in the sea and even started negotiating with him in order to surrender the weapon, where the man was identified as a 50-year-old from Ireland.
+"During these negotiations, the man told the police that earlier he had killed his ex-partner in Birkirkara and therefore another police team established the address where the victim was probably at."
+Police found Ms Ghirxi’s body in her apartment at about 2am. They said she had been stabbed to death, with the weapon possibly used being found near the victim.
+In St Julian’s, police said that after about three hours of negotiations, "the man put the gun down from his head and immediately pointed it at the police. The police ordered him to bring down the weapon however the man did not comply and the police were constrained to shoot him".
+"The man was immediately given medical assistance on site and then transferred to Mater Dei Hospital, where he was certified dead some time later.
+"Preliminary investigations revealed that the weapon the aggressor was pointing at the police was a replica of a firearm.
+Johnston had traded stocks online and had established an online profile under the pseudonym Edwardo Sambora preaching about trading, how to make money and be successful in “motivational” videos.
+He launched Youtube and Instagram accounts for this business four years ago and had more than 12,000 followers on Instagram.
+In one of his videos, he advised followers that discipline and self-control were the cornerstones to success in life.
+He had been arrested before, the Irish Times reports. Johnston once claimed he had a bomb in an Italian restaurant in Glasgow, sparking a six-hour siege, with roads and a subway station closed as armed police and the military responded.
+He had asked police to shoot him dead before he was arrested.
+The defending lawyer, Tony Lenehan, told the court that Johnston had been diagnosed with mild depression and post-traumatic stress disorder after the death of an unborn child, and also due to financial struggles, the Scotsman reports. He was jailed for 28 months.
+He had also once wielded a replica gun in Liverpool while drunk and was almost shot by the police, according to court reports.
+After today's death, President of the European Parliament Roberta Metsola, who is from Malta, said “Nicolette Ghirxi should be alive today”.
+“Instead, Malta must bury another daughter,” she said on Facebook “Our grief must turn into action. Our anger must fuel change. The epidemic of violence against women cannot go on.
+“Not one more. Be their voice.”
+More in this section
+Lunchtime News
+Sign up to the best reads of the week from irishexaminer.com selected just for you.
+Sign Up 
+Please click  for our privacy statement.
+!**Puzzles hub**
+Latest
+*   10 minutes ago
+*   12 minutes ago
+*   15 minutes ago
+*   43 minutes ago
+##### Jennifer Horgan
+For a fresh perspective on life today
+Most Read
+    Sunday, August 18, 2024 - 4:00 PM
+    Sunday, August 18, 2024 - 5:00 PM
+    Sunday, August 18, 2024 - 11:00 AM
+##### Fergus Finlay
+Analysis
+### Family Notices
+© Examiner Echo Group Limited, Linn Dubh, Assumption Road, Blackpool, Cork. Registered in Ireland: 523712.
+      © Examiner Echo Group Limited
+word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word
+mmMwWLliI0fiflO&1  
+mmMwWLliI0fiflO&1  
+mmMwWLliI0fiflO&1  
+mmMwWLliI0fiflO&1  
+mmMwWLliI0fiflO&1  
+mmMwWLliI0fiflO&1  
+mmMwWLliI0fiflO&1
+We value your privacy
+We and our 91 partners store and access information on your device, such as unique IDs in cookies. This is done to process personal data. To take these actions we require your consent, which you can provide through the banner options. You can manage your preferences and object to processing based on legitimate interest at any time in the privacy policy page. 
+Certain vendors, once consent is provided by you to the storage of information on your device and/or to the access of information already stored on your device, use legitimate interest to further process your personal data.
+### We and our partners collect and use data
+Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development. List of Partners (vendors)
+I ACCEPT MANAGE MY SETTINGS
+Your Privacy Preferences
+We process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information with our partners on the basis of consent and legitimate interest. You may exercise your right to consent or object to a legitimate interest, based on a specific purpose below or at a partner level in the link under each purpose. These choices will be signaled to our vendors participating in the Transparency and Consent Framework.  
+ALLOW ALL
+### Manage your settings
+#### Strictly Necessary Cookies
+ALWAYS ON
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+View Cookies‎
+#### Functional Cookies
+ Functional Cookies
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+View Cookies‎
+#### Performance Cookies
+ Performance Cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+View Cookies‎
+#### Targeting Cookies
+ Targeting Cookies
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+View Cookies‎
+#### Social Media Cookies
+ Social Media Cookies
+These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks and to view content from social media sites. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools or view content from social media sites.
+View Cookies‎
+#### IAB Features 72 partners can use this purpose
+ALWAYS ON
+These features correspond to the means of processing that can be used by vendors solely in pursuit of one or several purposes for which users are always given a choice. Features are a use of the data once you have already agreed to share it with us.
+*   ##### Match and combine data from other data sources 53 partners can use this feature
+     Switch Label label
+    Information about your activity on this service may be matched and combined with other information relating to you and originating from various sources (for instance your activity on a separate online service, your use of a loyalty card in-store, or your answers to a survey), in support of the purposes explained in this notice.
+*   ##### Link different devices 52 partners can use this feature
+     Switch Label label
+    In support of the purposes explained in this notice, your device might be considered as likely linked to other devices that belong to you or your household (for instance because you are logged in to the same service on both your phone and your computer, or because you may use the same Internet connection on both devices).
+*   ##### Identify devices based on information transmitted automatically 53 partners can use this feature
+     Switch Label label
+    Your device might be distinguished from other devices based on information it automatically sends when accessing the Internet (for instance, the IP address of your Internet connection or the type of browser you are using) in support of the purposes exposed in this notice.
+List of IAB Vendors‎
+#### IAB Special Purposes 66 partners can use this purpose
+ALWAYS ON
+We use your data for these purposes so we can deliver our services to you. For these purposes no reading and/or writing operation takes place in the user’s terminal.
+*   ##### Ensure security, prevent and detect fraud, and fix errors 57 partners can use this special purpose
+     Switch Label label
+    Your data can be used to monitor for and prevent unusual and possibly fraudulent activity (for example, regarding advertising, ad clicks by bots), and ensure systems and processes work properly and securely. It can also be used to correct any problems you, the publisher or the advertiser may encounter in the delivery of content and ads and in your interaction with them.
+*   ##### Deliver and present advertising and content 59 partners can use this special purpose
+     Switch Label label
+    Certain information (like an IP address or device capabilities) is used to ensure the technical compatibility of the content or advertising, and to facilitate the transmission of the content or ad to your device.
+List of IAB Vendors‎
+#### Store and/or access information on a device 75 partners can use this purpose
+ Store and/or access information on a device
+Cookies, device or similar online identifiers (e.g. login-based identifiers, randomly assigned identifiers, network based identifiers) together with other information (e.g. browser type and information, language, screen size, supported technologies etc.) can be stored or read on your device to recognise it each time it connects to an app or to a website, for one or several of the purposes presented here.
+List of IAB Vendors‎
+#### Personalised advertising and content, advertising and content measurement, audience research and services development 90 partners can use this purpose
+ Personalised advertising and content, advertising and content measurement, audience research and services development
+*   ##### Use limited data to select advertising 72 partners can use this purpose
+     Switch Label
+    Advertising presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type or which content you are (or have been) interacting with (for example, to limit the number of times an ad is presented to you).
+    Object to Legitimate Interests Remove Objection
+*   ##### Create profiles for personalised advertising 64 partners can use this purpose
+     Switch Label
+    Information about your activity on this service (such as forms you submit, content you look at) can be stored and combined with other information about you (for example, information from your previous activity on this service and other websites or apps) or similar users. This is then used to build or improve a profile about you (that might include possible interests and personal aspects). Your profile can be used (also later) to present advertising that appears more relevant based on your possible interests by this and other entities.
+*   ##### Use profiles to select personalised advertising 61 partners can use this purpose
+     Switch Label
+    Advertising presented to you on this service can be based on your advertising profiles, which can reflect your activity on this service or other websites or apps (like the forms you submit, content you look at), possible interests and personal aspects.
+*   ##### Create profiles to personalise content 28 partners can use this purpose
+     Switch Label
+    Information about your activity on this service (for instance, forms you submit, non-advertising content you look at) can be stored and combined with other information about you (such as your previous activity on this service or other websites or apps) or similar users. This is then used to build or improve a profile about you (which might for example include possible interests and personal aspects). Your profile can be used (also later) to present content that appears more relevant based on your possible interests, such as by adapting the order in which content is shown to you, so that it is even easier for you to find content that matches your interests.
+*   ##### Use profiles to select personalised content 22 partners can use this purpose
+     Switch Label
+    Content presented to you on this service can be based on your content personalisation profiles, which can reflect your activity on this or other services (for instance, the forms you submit, content you look at), possible interests and personal aspects. This can for example be used to adapt the order in which content is shown to you, so that it is even easier for you to find (non-advertising) content that matches your interests.
+*   ##### Measure advertising performance 83 partners can use this purpose
+     Switch Label
+    Information regarding which advertising is presented to you and how you interact with it can be used to determine how well an advert has worked for you or other users and whether the goals of the advertising were reached. For instance, whether you saw an ad, whether you clicked on it, whether it led you to buy a product or visit a website, etc. This is very helpful to understand the relevance of advertising campaigns.
+    Object to Legitimate Interests Remove Objection
+*   ##### Measure content performance 40 partners can use this purpose
+     Switch Label
+    Information regarding which content is presented to you and how you interact with it can be used to determine whether the (non-advertising) content e.g. reached its intended audience and matched your interests. For instance, whether you read an article, watch a video, listen to a podcast or look at a product description, how long you spent on this service and the web pages you visit etc. This is very helpful to understand the relevance of (non-advertising) content that is shown to you.
+    Object to Legitimate Interests Remove Objection
+*   ##### Understand audiences through statistics or combinations of data from different sources 64 partners can use this purpose
+     Switch Label
+    Reports can be generated based on the combination of data sets (like user profiles, statistics, market research, analytics data) regarding your interactions and those of other users with advertising or (non-advertising) content to identify common characteristics (for instance, to determine which target audiences are more receptive to an ad campaign or to certain contents).
+    Object to Legitimate Interests Remove Objection
+*   ##### Develop and improve services 74 partners can use this purpose
+     Switch Label
+    Information about your activity on this service, such as your interaction with ads or content, can be very helpful to improve products and services and to build new products and services based on user interactions, the type of audience, etc. This specific purpose does not include the development or improvement of user profiles and identifiers.
+    Object to Legitimate Interests Remove Objection
+*   ##### Use limited data to select content 18 partners can use this purpose
+     Switch Label
+    Content presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type, or which content you are (or have been) interacting with (for example, to limit the number of times a video or an article is presented to you).
+    Object to Legitimate Interests Remove Objection
+List of IAB Vendors‎
+#### Use precise geolocation data 32 partners can use this special feature
+ Use precise geolocation data
+With your acceptance, your precise location (within a radius of less than 500 metres) may be used in support of the purposes explained in this notice.
+List of IAB Vendors‎
+#### Actively scan device characteristics for identification 9 partners can use this special feature
+ Actively scan device characteristics for identification
+With your acceptance, certain characteristics specific to your device might be requested and used to distinguish it from other devices (such as the installed fonts or plugins, the resolution of your screen) in support of the purposes explained in this notice.
+List of IAB Vendors‎
+### Vendors List
+Clear
+ checkbox label label
+Apply Cancel
+Consent Leg.Interest
+ checkbox label label
+ checkbox label label
+ checkbox label label
+REJECT ALL SAVE THESE SETTINGS
