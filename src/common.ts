@@ -6,13 +6,46 @@ export interface Message {
   data?: any
 }
 
+// // Old format
+// export interface ArticleProperties {
+//   url: string,
+//   title: string,
+//   rank: number,
+//   sources: { sourceName: string, url: string, rank: number}[],
+//   psychologicalTactics: string[],
+//   sumUp5: string[]
+// }
+
+export type ScaleName = "Positivity" 
+                    | "Objectivity" 
+                    | "Complexity" 
+                    | "Political" 
+                    | "ChildrenSuitable"
+export interface Tactic {
+  name: string
+  reason: string
+  text: string
+}
+
+export interface Scale {
+  name: ScaleName,
+  description: string,
+  score: number
+}
 export interface ArticleProperties {
-  url: string,
+  id: string,
+  publisher: string,
+  date: string,
+  author: string,
+  link: string,
   title: string,
-  rank: number,
-  sources: { sourceName: string, url: string, rank: number}[],
-  psychologicalTactics: string[],
-  sumUp5: string[]
+  details: string,
+  content: string,
+  tactics: Tactic[],
+  summary: string,
+  scales: Scale[],
+  conclusion: string,
+  related: ArticleProperties[], 
 }
 
 export interface StoredConfig {
@@ -45,4 +78,8 @@ export function setBadgeIcon(iconName: string = "") {
       128: iconName
     }
   });
+}
+
+export function getScoreFromProperties(properties: ArticleProperties, scaleName: ScaleName): number | undefined {
+  return properties.scales.find(s => s.name === scaleName)?.score
 }

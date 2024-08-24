@@ -1,14 +1,26 @@
-import { Message, setBadgeText, StoredConfig, TabResponse, setBadgeIcon, ArticleProperties, maxRank } from "./common"
+import {
+  Message,
+  setBadgeText,
+  StoredConfig,
+  TabResponse,
+  setBadgeIcon,
+  ArticleProperties,
+  maxRank,
+  getScoreFromProperties
+} from "./common"
 import "./popup.css"
 
 // console.log("Hello, world from popup!")
 
-const otherSourcesSection = document.getElementById("sources",) as HTMLInputElement
-const psychologicalTacticsSection = document.getElementById("tactics",) as HTMLInputElement
-const summarySection = document.getElementById("summary",) as HTMLInputElement
+const otherSourcesSection = document.getElementById(
+  "sources",
+) as HTMLInputElement
+const psychologicalTacticsSection = document.getElementById(
+  "tactics",
+) as HTMLInputElement
+const summarySection = document.getElementById("summary") as HTMLInputElement
 
 function setUpSectionsVisibility() {
-
   chrome.storage.sync.get(null, (data) => {
     const config = data as StoredConfig
     const showOtherSources =
@@ -48,128 +60,129 @@ function fillOtherSources(properties: ArticleProperties) {
     // In this way we can get cells with ids from 'rank1' to 'rank5'
     const rankElementsList: HTMLTableCellElement[] = Array.from(
       { length: maxRank },
-      (_, i) => document.getElementById(`rank${i + 1}`) as HTMLTableCellElement
-    );
+      (_, i) => document.getElementById(`rank${i + 1}`) as HTMLTableCellElement,
+    )
 
     // Clear the cells
     rankElementsList.forEach((rankElement) => {
-      rankElement.innerHTML = ''
+      rankElement.innerHTML = ""
     })
 
     // Fill the cells with the article data
-    properties.sources.forEach((record) => {
-      const anchor = document.createElement('a');
-      anchor.href = record.url;
-      anchor.textContent = record.sourceName;
-      anchor.className = 'block text-blue-600 hover:underline';
+    properties.related.forEach((record) => {
+      const anchor = document.createElement("a")
+      anchor.href = record.link
+      anchor.textContent = record.publisher
+      anchor.className = "block text-blue-600 hover:underline"
 
       // Add event listener to open the link in a new tab
-      anchor.addEventListener('click', (e) => {
-        e.preventDefault(); // Prevent the default link behavior
-        chrome.tabs.create({ url: record.url }); // Open the URL in a new tab
-      });
+      anchor.addEventListener("click", (e) => {
+        e.preventDefault() // Prevent the default link behavior
+        chrome.tabs.create({ url: record.link }) // Open the URL in a new tab
+      })
 
       // Append the new link to the cell
-      rankElementsList[record.rank-1].appendChild(anchor);      
+      let politicalScore: number | undefined = getScoreFromProperties(record, "Political")
+      if (politicalScore !== undefined) {
+        rankElementsList[politicalScore - 1].appendChild(anchor)
+      }
     })
   }
 }
 
 function fillPsychologicalTactics(properties: ArticleProperties) {
   if (psychologicalTacticsSection.style.display === "block") {
-      // Clear existing summary content (everything except the <h4> and <hr>)
-      const heading = psychologicalTacticsSection.querySelector('h4');
-      const hr = psychologicalTacticsSection.querySelector('hr');
+    // Clear existing summary content (everything except the <h4> and <hr>)
+    const heading = psychologicalTacticsSection.querySelector("h4")
+    const hr = psychologicalTacticsSection.querySelector("hr")
 
-      // Remove all children from the section
-      while (psychologicalTacticsSection.firstChild) {
-        psychologicalTacticsSection.removeChild(psychologicalTacticsSection.firstChild);
-      }
+    // Remove all children from the section
+    while (psychologicalTacticsSection.firstChild) {
+      psychologicalTacticsSection.removeChild(
+        psychologicalTacticsSection.firstChild,
+      )
+    }
 
-      // Re-add the heading and <hr> element (if they exist)
-      if (heading) psychologicalTacticsSection.appendChild(heading);
+    // Re-add the heading and <hr> element (if they exist)
+    if (heading) psychologicalTacticsSection.appendChild(heading)
 
-      // Now, insert your own custom summary points
-      properties.psychologicalTactics.forEach(textData => {
-          const bulletSpan = document.createElement('span');
-          bulletSpan.className = 'text-orange-500 mr-2';
-          bulletSpan.textContent = '➤';
+    // Now, insert your own custom summary points
+    properties.tactics.forEach((tacticRecord) => {
+      const bulletSpan = document.createElement("span")
+      bulletSpan.className = "text-orange-500 mr-2"
+      bulletSpan.textContent = "➤"
 
-          const textSpan = document.createElement('span');
-          textSpan.textContent = textData;
+      const textSpan = document.createElement("span")
+      textSpan.textContent = tacticRecord.name
 
-          const br = document.createElement('br');
+      const br = document.createElement("br")
 
-          // Append the bullet, summary text, and line break
-          psychologicalTacticsSection.appendChild(bulletSpan);
-          psychologicalTacticsSection.appendChild(textSpan);
-          psychologicalTacticsSection.appendChild(br);
-      });
+      // Append the bullet, summary text, and line break
+      psychologicalTacticsSection.appendChild(bulletSpan)
+      psychologicalTacticsSection.appendChild(textSpan)
+      psychologicalTacticsSection.appendChild(br)
+    })
 
-      // Re-add the <hr> element (if it exists)
-      if (hr) psychologicalTacticsSection.appendChild(hr);    
-    
+    // Re-add the <hr> element (if it exists)
+    if (hr) psychologicalTacticsSection.appendChild(hr)
   }
 }
 
 function fillSummary(properties: ArticleProperties) {
   if (summarySection.style.display === "block") {
-      // Clear existing summary content (everything except the <h4> and <hr>)
-      const heading = summarySection.querySelector('h4');
-      const hr = summarySection.querySelector('hr');
+    // Clear existing summary content (everything except the <h4> and <hr>)
+    const heading = summarySection.querySelector("h4")
+    const hr = summarySection.querySelector("hr")
 
-      // Remove all children from the section
-      while (summarySection.firstChild) {
-          summarySection.removeChild(summarySection.firstChild);
-      }
+    // Remove all children from the section
+    while (summarySection.firstChild) {
+      summarySection.removeChild(summarySection.firstChild)
+    }
 
-      // Re-add the heading and <hr> element (if they exist)
-      if (heading) summarySection.appendChild(heading);
+    // Re-add the heading and <hr> element (if they exist)
+    if (heading) summarySection.appendChild(heading)
 
-      // Now, insert your own custom summary points
-      properties.sumUp5.forEach(summary => {
-          const bulletSpan = document.createElement('span');
-          bulletSpan.className = 'text-green-500 mr-2';
-          bulletSpan.textContent = '●';
+    // Now, insert your own custom summary points
+    const bulletSpan = document.createElement("span")
+    bulletSpan.className = "text-green-500 mr-2"
+    // bulletSpan.textContent = "●"
 
-          const textSpan = document.createElement('span');
-          textSpan.textContent = summary;
+    const textSpan = document.createElement("span")
+    textSpan.textContent = properties.summary
 
-          const br = document.createElement('br');
+    const br = document.createElement("br")
 
-          // Append the bullet, summary text, and line break
-          summarySection.appendChild(bulletSpan);
-          summarySection.appendChild(textSpan);
-          summarySection.appendChild(br);
-      });
+    // Append the bullet, summary text, and line break
+    summarySection.appendChild(bulletSpan)
+    summarySection.appendChild(textSpan)
+    summarySection.appendChild(br)
 
-      // Re-add the <hr> element (if it exists)
-      if (hr) summarySection.appendChild(hr);    
+    // Re-add the <hr> element (if it exists)
+    if (hr) summarySection.appendChild(hr)
   }
 }
 
 function fillSections() {
-    const message: Message = { type: "getPropertiesCurrentTab"}
-    chrome.runtime
-      .sendMessage(message)
-      .then((response) => {
-        if (response === undefined || response === null) {
-          // console.warn("Popup requested page properties but got undefined")
-          otherSourcesSection.style.display = "none"
-          psychologicalTacticsSection.style.display = "none"
-          summarySection.style.display = "none"
-          return
-        }
-        const properties: ArticleProperties = response
-        
-        fillOtherSources(properties)
-        fillPsychologicalTactics(properties)
-        fillSummary(properties)
+  const message: Message = { type: "getPropertiesCurrentTab" }
+  chrome.runtime
+    .sendMessage(message)
+    .then((response) => {
+      if (response === undefined || response === null) {
+        // console.warn("Popup requested page properties but got undefined")
+        otherSourcesSection.style.display = "none"
+        psychologicalTacticsSection.style.display = "none"
+        summarySection.style.display = "none"
+        return
+      }
+      const properties: ArticleProperties = response
 
-      })
-      .catch((error: unknown) => {
-        console.warn("Popup could not send message", error)
-      })  
+      fillOtherSources(properties)
+      fillPsychologicalTactics(properties)
+      fillSummary(properties)
+    })
+    .catch((error: unknown) => {
+      console.warn("Popup could not send message", error)
+    })
 }
 
 setUpSectionsVisibility()
@@ -184,7 +197,6 @@ checkbox.addEventListener("change", (event) => {
     // if (event.target.checked) {
     // } else {
     // }
-
 
     // Send message to content script in all tabs
     const message: Message = { enabled: event.target.checked }
@@ -259,5 +271,3 @@ if (!optionsElement) {
     }
   })
 }
-
-
