@@ -4,6 +4,8 @@ import {
   setBadgeIcon,
   StoredConfig,
   ArticleProperties,
+  Scale,
+  getScoreFromProperties
 } from "./common"
 import { getDemoData, getDataByURL } from "./demodata"
 
@@ -60,15 +62,23 @@ function getIconName(url?: string) {
   if (currentPageProperties === undefined) {
     return "icon128.png"
   }
-  if (currentPageProperties.rank < 3) {
-    return "icon_set1_1_128.png"
+  
+  // TODO: make universal for all scales
+  let politicalScore: number | undefined = getScoreFromProperties(currentPageProperties, "Political")
+  if (politicalScore !== undefined) {
+    if (politicalScore < 3) {
+      return "icon_set1_1_128.png"
+    }
+    if (politicalScore === 3) {
+      return "icon_set1_2_128.png"
+    }
+    if (politicalScore > 3) {
+      return "icon_set1_3_128.png"
+    }
+      
   }
-  if (currentPageProperties.rank === 3) {
-    return "icon_set1_2_128.png"
-  }
-  if (currentPageProperties.rank > 3) {
-    return "icon_set1_3_128.png"
-  }
+
+  return "icon128.png"
 }
 
 
