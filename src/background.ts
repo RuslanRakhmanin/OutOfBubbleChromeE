@@ -138,11 +138,19 @@ chrome.tabs.onActivated.addListener((activeInfo) => {
   // console.log("Got focus on tab")
   chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
     const currentTab = tabs[0] as chrome.tabs.Tab
-    console.log("Got focus on tab", currentTab)
+    // console.log("Got focus on tab", currentTab)
     updateInfo(currentTab)
   })
 })
 
 chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab)  =>{
   updateInfo(tab)
+});
+
+chrome.windows.onFocusChanged.addListener((windowId) => {
+  chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
+    const currentTab = tabs[0] as chrome.tabs.Tab
+    // console.log("Got focus on window", windowId, "with tab", currentTab)
+    updateInfo(currentTab)
+  })
 });
