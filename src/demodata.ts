@@ -19,9 +19,16 @@ let demoData: ArticleProperties[] = [
     details: "",
     content: "",
     tactics: [
-      {name: "Use of emotional language", reason: "Not found", text: ""},
-      {name: "Focus on the victim", reason: "Not found", text: ""},
-      {name: "Omission of certain details", reason: "Not found", text: ""}
+        {
+          "name": "Emotional Appeal",
+          "reason": "Uses emotionally charged language to evoke a strong response from the reader.",
+          "text": "An Irish man has been shot dead after a stand-off with police in Malta after he allegedly killed his ex-partner in an apartment."
+      },
+      {
+          "name": "Omission of Context",
+          "reason": "Does not provide a complete picture of the relationship between the victim and perpetrator.",
+          "text": "The article doesn't delve into the complexities of the relationship between the victim and the perpetrator"
+      }
     ] as Tactic[],
 
     summary: `
@@ -113,7 +120,18 @@ let demoData: ArticleProperties[] = [
     title: "Irishman killed by police in Malta after allegedly murdering woman",
     details: "",
     content: "",
-    tactics: [{name: "", reason: "Not found", text: ""}] as Tactic[],
+    tactics: [
+      {
+        "name": "Appeal to emotion",
+        "reason": "The article uses emotionally charged language to evoke sympathy for the victims and outrage towards the perpetrator.",
+        "text": "The incident has sparked outrage in Malta, with calls to address violence against women."
+      },
+      {
+        "name": "Slippery slope",
+        "reason": "The article suggests that if violence against women is not addressed, it could lead to more serious consequences.",
+        "text": "The epidemic of violence against women cannot go on."
+      }      
+    ] as Tactic[],
     summary: `
       Irish man, Edward Johnston, allegedly murders his ex-partner Nicolette Ghirxi in Malta.
       Johnston holds staff at a Hilton Hotel hostage with a replica gun, confesses to the murder.
@@ -205,9 +223,21 @@ let demoData: ArticleProperties[] = [
     details: "",
     content: "",
     tactics: [
-      {name: "Emotional Appeal", reason: "Not found", text: ""},
-      {name: "Framing", reason: "Not found", text: ""},
-      {name: "Omission of Context", reason: "Not found", text: ""}
+      {
+        "name": "Emotional Appeal",
+        "reason": "The article heavily relies on emotional content, such as the tragic deaths and the nature of the crime, which can influence readers' perceptions and responses.",
+        "text": "An Irish man has been shot dead by police in Birkirkara, Malta after allegedly murdering a woman on Sunday."
+      },
+      {
+        "name": "Framing",
+        "reason": "The article's framing of the events, focusing on the actions of the individuals involved rather than broader societal issues, might limit alternative perspectives.",
+        "text": "The man, who sources identified as Edward Johnston (50), is believed to have killed Nicolette Ghirxi (48) with a knife in an apartment in Birkirkara, a city in the east of Malta’s main island."
+      },
+      {
+        "name": "Omission of Context",
+        "reason": "The article doesn't delve into potential underlying factors that might contribute to such violence, such as mental health, domestic violence statistics, or societal pressures. This omission can shape readers' understanding of the incident.",
+        "text": "The Irish embassy in Malta confirmed it is aware an Irish man has been killed by police."
+      }
     ] as Tactic[],
     summary: `
       "Irish man shot dead by Maltese police.",
@@ -308,12 +338,12 @@ let demoData: ArticleProperties[] = [
       {
         "name": "Cherry-picking",
         "reason": "The article only mentions countries in the EU that have lowered the voting age, ignoring countries that haven't. This creates a misleading impression that lowering the voting age is a common practice.",
-        "text": "Other EU countries already have a lower voting age, with Belgium and Germany joining Austria, Greece and Malta in allowing sixteen-year-olds to cast their vote in the recent European Elections."
+        "text": "Other EU countries already have a lower voting age"
       },
       {
         "name": "Appeal to Authority",
         "reason": "Quoting a Minister's statement about lowering the voting age being a “discussion worth having” adds an air of legitimacy and implies that it's a serious proposal worth considering.",
-        "text": "Earlier this year, Minister for Education Norma Foley has said that lowering the voting age to 16 is a “discussion worth having”."
+        "text": "MINISTER FOR EDUCATION Norma Foley has said that"
       }
     ],
     "summary": "A survey of over 1,000 Irish secondary school students found that 39% support lowering the voting age to 16, while 50% oppose it.  The survey was conducted by the Ombudsman for Children's Office. The Minister for Education, Norma Foley, has said that lowering the voting age is a \"discussion worth having.\"  Several European countries, including Belgium, Germany, Austria, Greece, and Malta, allow sixteen-year-olds to vote in elections. \n",

@@ -29,7 +29,7 @@ function checkTabReady(tab: chrome.tabs.Tab) {
 }
 
 function getArticleProperties(url: string = "Current tab") {
-  console.log("getArticleProperties", url)
+  // console.log("getArticleProperties", url)
   if (url === "Current tab") {
     //// Does not work on clicking the extension icon
     // chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
@@ -93,6 +93,14 @@ function updateInfo(currentTab: chrome.tabs.Tab) {
   if (iconName !== undefined) {
     setBadgeIcon(iconName)
   }
+  // highlightTactics
+  chrome.tabs.sendMessage(currentTab.id as number, 
+      {enabled : true, 
+        type: "highlightTactics", 
+        data: getArticleProperties(currentTab.url)?.tactics})
+  .then()
+  .catch(() => {})
+  .finally()
 }
 
 // Ensure the background script always runs.
