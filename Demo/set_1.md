@@ -170,8 +170,19 @@ For the purpose of this demo, let's twist the LLM answers to present the whole r
   "url": "https://www.independent.ie/irish-news/crime/irish-man-50-shot-dead-in-malta-after-ex-partners-body-found-in-apartment/a1366613683.html",
   "title": "Irishman shot dead in Maltese police after ex-partner’s body found in apartment",
   "political": 4,
-  "phycologicalTactics": ["Use of emotional language", "Focus on the victim", "Omission of certain details"],
-  "sumUp5": [
+  "tactics": [
+    {
+        "name": "Emotional Appeal",
+        "reason": "Uses emotionally charged language to evoke a strong response from the reader.",
+        "text": "An Irish man has been shot dead after a stand-off with police in Malta after he allegedly killed his ex-partner in an apartment."
+    },
+    {
+        "name": "Omission of Context",
+        "reason": "Does not provide a complete picture of the relationship between the victim and perpetrator.",
+        "text": "The article doesn't delve into the complexities of the relationship between the victim and the perpetrator"
+    }
+  ],
+  "summary": [
         "Irish man shot dead by Maltese police after standoff.",
         "Ex-partner found murdered in apartment.",
         "Man suspected of killing ex-partner.",
@@ -188,8 +199,19 @@ For the purpose of this demo, let's twist the LLM answers to present the whole r
   "url": "https://www.irishexaminer.com/news/arid-41454697.html",
   "title": "Irishman killed by police in Malta after allegedly murdering woman",    
   "political": 3,
-  "phycologicalTactics": ["Not found"],
-  "sumUp5": [
+  "tactics": [
+  {
+    "name": "Appeal to emotion",
+    "reason": "The article uses emotionally charged language to evoke sympathy for the victims and outrage towards the perpetrator.",
+    "text": "The incident has sparked outrage in Malta, with calls to address violence against women."
+  },
+  {
+    "name": "Slippery slope",
+    "reason": "The article suggests that if violence against women is not addressed, it could lead to more serious consequences.",
+    "text": "The epidemic of violence against women cannot go on."
+  }
+  ],
+  "summary": [
         "Irish man, Edward Johnston, allegedly murders his ex-partner Nicolette Ghirxi in Malta.",
         "Johnston holds staff at a Hilton Hotel hostage with a replica gun, confesses to the murder.",
         "Police engage in a standoff with Johnston, who eventually points the replica gun at them and is shot dead.",
@@ -207,11 +229,23 @@ For the purpose of this demo, let's twist the LLM answers to present the whole r
   "title": "Irish man shot dead by police in Malta after allegedly murdering former partner",
   "political": 2,
   "phycologicalTactics": [
-        "Emotional Appeal",
-        "Framing",
-        "Omission of Context"
-    ],
-  "sumUp5": [
+  {
+    "name": "Emotional Appeal",
+    "reason": "The article heavily relies on emotional content, such as the tragic deaths and the nature of the crime, which can influence readers' perceptions and responses.",
+    "text": "An Irish man has been shot dead by police in Birkirkara, Malta after allegedly murdering a woman on Sunday."
+  },
+  {
+    "name": "Framing",
+    "reason": "The article's framing of the events, focusing on the actions of the individuals involved rather than broader societal issues, might limit alternative perspectives.",
+    "text": "The man, who sources identified as Edward Johnston (50), is believed to have killed Nicolette Ghirxi (48) with a knife in an apartment in Birkirkara, a city in the east of Malta’s main island."
+  },
+  {
+    "name": "Omission of Context",
+    "reason": "The article doesn't delve into potential underlying factors that might contribute to such violence, such as mental health, domestic violence statistics, or societal pressures. This omission can shape readers' understanding of the incident.",
+    "text": "The Irish embassy in Malta confirmed it is aware an Irish man has been killed by police."
+  }
+],
+  "summary": [
         "Irish man shot dead by Maltese police.",
         "Man allegedly murdered his former partner before the shooting.",
         "Police negotiated with the man before shooting him.",

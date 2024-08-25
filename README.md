@@ -35,3 +35,9 @@ During the building process, the `dist` directory will be created or overwritten
 ![pinning](docs/img/pinning.png)
 
 ![popup](docs/img/popup.png)
+
+## What the Extension can do
+
+### Highlight manipulative tactics in the article
+
+![Highlight manipulative tactics](docs/img/highlight_tactics.png)
