@@ -127,4 +127,8 @@ Add a button styled with Tailwind. The button should have hover and focus states
 
 https://r.jina.ai/<original URL is here>
 
+### Send a link to analysis
 
+```shell
+curl --location --request POST "https://us-central1-demohack-430817.cloudfunctions.net/function-demo-test" --header "Content-Type: application/json" --data-raw "{\"link\": \"https://www.dailyrecord.co.uk/lifestyle/money/universal-credit-changes-report-dwp-33476729\"}"
+```

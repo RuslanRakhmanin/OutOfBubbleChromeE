@@ -13,6 +13,8 @@ let articlesData: { [key: string]: ArticleProperties } = {}
 
 let currentPageProperties: ArticleProperties | undefined
 
+let currentTabCached: chrome.tabs.Tab | undefined
+
 function startUp() {
   chrome.storage.sync.get("enabled", (data) => {
     setBadgeText("")
@@ -88,6 +90,7 @@ function updateInfo(currentTab: chrome.tabs.Tab) {
     return
   }
 
+  currentTabCached = currentTab
 
   let iconName = getIconName(currentTab.url)
   if (iconName !== undefined) {
@@ -101,6 +104,56 @@ function updateInfo(currentTab: chrome.tabs.Tab) {
   .then()
   .catch(() => {})
   .finally()
+}
+
+function sendCurrentURL2Server() {
+    
+  const link = currentTabCached?.url
+  const data = { link }
+  console.log(data)
+  fetch(
+    "https://us-central1-demohack-430817.cloudfunctions.net/function-demo-test",
+    {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(data),
+    }
+  )
+    .then((response) => {
+      console.info("Raw response", response);
+
+      // Check if the response is OK (status code 200-299)
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      return JSON.stringify(response);
+      // // Check if the response is JSON
+      // const contentType = response.headers.get("content-type");
+      // if (contentType && contentType.includes("application/json")) {
+      //   return response.json(); // Parse as JSON
+      // } 
+      // else if (contentType && contentType.includes("text/html")) {
+      //   return  response.text(); // Parse as plain text
+      // }
+      // else {
+      //   throw new Error("Response is not JSON");
+      // }
+    })
+    .then((responseData) => {
+      // Log the parsed data to the console
+      console.info("Link sent", responseData);
+  
+      // Send the parsed data to the content script
+      chrome.tabs.sendMessage(currentTabCached?.id as number, {
+        enabled: true,
+        type: "logToConsole",
+        data: responseData,
+      }).catch((error) => console.error("Error sending logs to console", error));
+    })
+    .catch((error) => console.error("Error sending link", error));
+  
+
+  
 }
 
 // Ensure the background script always runs.
@@ -128,6 +181,9 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
         break
       case "getIconNameByURL":
         sendResponse(getIconName(message.data))
+        break
+      case "sendCurrentURL2Server":
+        sendCurrentURL2Server()
         break
       default:
         console.warn("Unknown message type", message.type)

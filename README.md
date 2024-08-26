@@ -41,3 +41,13 @@ During the building process, the `dist` directory will be created or overwritten
 ### Highlight manipulative tactics in the article
 
 ![Highlight manipulative tactics](docs/img/highlight_tactics.png)
+
+### Send a link to analysis
+
+![Send link](docs/img/send_link.png)
+
+Open dev console for background script.
+
+![open console](docs/img/open_background_console.png)
+
+![dev console](docs/img/dev_console.png)

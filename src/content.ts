@@ -119,6 +119,9 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
             searchAndHighlight(tactic.text, tactic.name + ": " + tactic.reason)
           }
           break
+        case "logToConsole":
+          console.info(message.data)
+          break
         default:
           console.warn("Unknown message type", message.type)
           break  

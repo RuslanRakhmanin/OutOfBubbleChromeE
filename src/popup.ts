@@ -271,3 +271,22 @@ if (!optionsElement) {
     }
   })
 }
+
+// Send to analysis button
+const sendLinkElement = document.querySelector("#send-link")
+if (!sendLinkElement) {
+  console.error("Could not find send link element")
+} else {
+  sendLinkElement.addEventListener("click", function () {
+    const message: Message = { type: "sendCurrentURL2Server" }
+    chrome.runtime
+      .sendMessage(message)
+      .then((response) => {
+
+      })
+      .catch((error: unknown) => {
+        console.warn("Popup could not send message", error)
+      })    
+    window.close()
+  })
+}
