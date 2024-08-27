@@ -10,12 +10,12 @@ const config: webpack.Configuration = {
     options: "./src/options.ts",
   },
   resolve: {
-    extensions: [".ts"],
+    extensions: ['.tsx', '.ts', '.js'],
   },
   module: {
     rules: [
       {
-        test: /\.ts$/,
+        test: /\.(ts|tsx)$/,
         loader: "ts-loader",
         exclude: /node_modules/,
       },
