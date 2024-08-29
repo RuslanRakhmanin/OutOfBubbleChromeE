@@ -132,3 +132,11 @@ https://r.jina.ai/<original URL is here>
 ```shell
 curl --location --request POST "https://us-central1-demohack-430817.cloudfunctions.net/function-demo-test" --header "Content-Type: application/json" --data-raw "{\"link\": \"https://www.dailyrecord.co.uk/lifestyle/money/universal-credit-changes-report-dwp-33476729\"}"
 ```
+
+```shell
+curl --location --request POST "https://us-central1-demohack-430817.cloudfunctions.net/function-demo-test" --header "Content-Type: application/json" --data-raw "{\"text\": \"An Irish man has been shot dead after a stand-off with police in Malta after he allegedly killed his ex-partner in an apartment.\"}"
+```
+
+```shell
+curl --request GET https://byeayearticles-yacbebnqpa-uc.a.run.app/analysis?url=https://www.thejournal99.ie/house-prices-children-6444791-Aug2024/
+```

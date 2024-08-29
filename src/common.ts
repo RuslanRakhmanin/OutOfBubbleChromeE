@@ -32,7 +32,7 @@ export interface Scale {
   description: string,
   score: number
 }
-export interface ArticleProperties {
+export interface RelatedProperties {
   id: string,
   publisher: string,
   date: string,
@@ -45,7 +45,10 @@ export interface ArticleProperties {
   summary: string,
   scales: Scale[],
   conclusion: string,
-  related: ArticleProperties[], 
+}
+
+export interface ArticleProperties extends RelatedProperties {
+  related: RelatedProperties[],  
 }
 
 export interface StoredConfig {
@@ -80,6 +83,6 @@ export function setBadgeIcon(iconName: string = "") {
   });
 }
 
-export function getScoreFromProperties(properties: ArticleProperties, scaleName: ScaleName): number | undefined {
+export function getScoreFromProperties(properties: RelatedProperties, scaleName: ScaleName): number | undefined {
   return properties.scales.find(s => s.name === scaleName)?.score
 }

@@ -110,8 +110,7 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   const message = request as Message
   if (message.enabled !== undefined) {
     // console.log("Received message from sender %s", sender.id, request)
-    config.enabled = message.enabled
-    if ( config.enabled ) {
+
       switch (message.type) {
         case "highlightTactics":
           let tactics: Tactic[] = message.data
@@ -122,14 +121,15 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
         case "logToConsole":
           console.info(message.data)
           break
+        case "getSelectedText":
+          const selectedText = window.getSelection()?.toString() ?? "";
+          sendResponse({selectedText: selectedText});
+          break
         default:
           console.warn("Unknown message type", message.type)
           break  
       }      
       sendResponse(undefined)
-    } else {
-      // console.log("Disabled")
-    }
   }
 
   const response: TabResponse = {

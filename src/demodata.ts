@@ -60,7 +60,6 @@ let demoData: ArticleProperties[] = [
             `,
             scales: [{name: "Political", description: "Not found", score: 4}] as Scale[],
             conclusion: "",
-            related: [],               
         },
         {
           id: '102',
@@ -81,7 +80,6 @@ let demoData: ArticleProperties[] = [
             `,
           scales: [{name: "Political", description: "Not found", score: 3}] as Scale[],
           conclusion: "",
-          related: [],
         },
         {
           id: '103',
@@ -107,7 +105,6 @@ let demoData: ArticleProperties[] = [
           `,
           scales: [{name: "Political", description: "Not found", score: 2}] as Scale[],
           conclusion: "",
-          related: []
         }
       ],     
   },
@@ -161,7 +158,6 @@ let demoData: ArticleProperties[] = [
           `,
           scales: [{name: "Political", description: "Not found", score: 4}] as Scale[],
           conclusion: "",
-          related: [],               
       },
       {
         id: '102',
@@ -182,7 +178,6 @@ let demoData: ArticleProperties[] = [
           `,
         scales: [{name: "Political", description: "Not found", score: 3}] as Scale[],
         conclusion: "",
-        related: [],
       },
       {
         id: '103',
@@ -208,7 +203,6 @@ let demoData: ArticleProperties[] = [
         `,
         scales: [{name: "Political", description: "Not found", score: 2}] as Scale[],
         conclusion: "",
-        related: []
       }
     ],
   },
@@ -268,7 +262,6 @@ let demoData: ArticleProperties[] = [
           `,
           scales: [{name: "Political", description: "Not found", score: 4}] as Scale[],
           conclusion: "",
-          related: [],               
       },
       {
         id: '102',
@@ -289,7 +282,6 @@ let demoData: ArticleProperties[] = [
           `,
         scales: [{name: "Political", description: "Not found", score: 3}] as Scale[],
         conclusion: "",
-        related: [],
       },
       {
         id: '103',
@@ -315,7 +307,6 @@ let demoData: ArticleProperties[] = [
         `,
         scales: [{name: "Political", description: "Not found", score: 2}] as Scale[],
         conclusion: "",
-        related: []
       }
     ],
   },
@@ -411,7 +402,6 @@ let demoData: ArticleProperties[] = [
           }
         ],
         "conclusion": "The article provides a balanced and insightful overview of the debate surrounding lowering the voting age to 16, presenting both sides of the argument and exploring the potential consequences of such a change. It is a valuable resource for anyone interested in understanding the complex issue of voting rights for young people. The article's neutral tone, factual information, and reasoned arguments contribute to its objectivity and overall value as a piece of informative journalism.",
-        related: []
       },
 
       {
@@ -459,7 +449,6 @@ let demoData: ArticleProperties[] = [
           }
         ],
         "conclusion": "The article provides a balanced and insightful overview of the debate surrounding lowering the voting age to 16, presenting both sides of the argument and exploring the potential consequences of such a change. It is a valuable resource for anyone interested in understanding the complex issue of voting rights for young people. The article's neutral tone, factual information, and reasoned arguments contribute to its objectivity and overall value as a piece of informative journalism.",
-        related: []
       },
       {
         "id": "3",
@@ -506,7 +495,6 @@ let demoData: ArticleProperties[] = [
           }
         ],
         "conclusion": "The article provides a balanced and insightful overview of the debate surrounding lowering the voting age to 16, presenting both sides of the argument and exploring the potential consequences of such a change. It is a valuable resource for anyone interested in understanding the complex issue of voting rights for young people. The article's neutral tone, factual information, and reasoned arguments contribute to its objectivity and overall value as a piece of informative journalism.",
-        related: []
       }
     ]
   },
@@ -601,7 +589,6 @@ let demoData: ArticleProperties[] = [
           }
         ],
         "conclusion": "This article provides a balanced perspective on the impact of rising sugar prices on the Irish ice cream industry. It showcases the challenges faced by producers, including the difficult choice between price increases and absorbing costs. However, it also highlights the industry's resilience and commitment to quality, suggesting a potential for adaptation and continued growth. The article uses emotional language, anecdotes, and expert opinions to engage the reader and make the issue more relatable. While the focus is on the challenges, the article maintains a degree of optimism by emphasizing the industry's value and export potential. Overall, the article effectively portrays the complexities and potential consequences of rising sugar prices for the Irish ice cream sector.",
-        related: []
       }
     ]
   },
@@ -701,7 +688,6 @@ let demoData: ArticleProperties[] = [
           }
         ],
         "conclusion": "This article effectively connects the housing crisis in Ireland to the country's declining birth rate, drawing on expert opinions and statistical data. It provides a balanced perspective by acknowledging the multifaceted nature of the issue, including rising costs of living, changing societal attitudes, and the impact of precarious work. The article concludes by advocating for government action to address the housing crisis and provide greater support for families, highlighting the urgency of this issue for Ireland's future.",
-        related: []
       }
     ]
   }  

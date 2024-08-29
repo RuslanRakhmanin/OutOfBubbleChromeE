@@ -4,7 +4,9 @@ import {
   setBadgeIcon,
   StoredConfig,
   ArticleProperties,
+  RelatedProperties,
   Scale,
+  Tactic,
   getScoreFromProperties
 } from "./common"
 import { getDemoData, getDataByURL } from "./demodata"
@@ -106,55 +108,100 @@ function updateInfo(currentTab: chrome.tabs.Tab) {
   .finally()
 }
 
+function getArticleFromServerData(serverData: any) : ArticleProperties {
+  let articleProperties: ArticleProperties = {
+    id: "",
+    publisher: "",
+    date: serverData.pubDate,
+    author: "",
+    link: serverData.link,
+    title: serverData.title,
+    details: "",
+    content: "", //serverData.content,
+    tactics: serverData.tactics as Tactic[], 
+    summary: serverData.summary,
+    scales: serverData.scores as Scale[],
+    conclusion: serverData.conclusion,
+    related: new Array<RelatedProperties>(),
+  }
+
+  return articleProperties
+}
+
+const fetchData = async (data2Send: object) => {
+  try {
+    const response = await fetch(
+      "https://us-central1-demohack-430817.cloudfunctions.net/function-demo-test",
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(data2Send),
+      }
+    );
+
+    // console.info("Raw response", response);
+
+    // Check if the response is OK (status code 200-299)
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+
+    // Parse the JSON response
+    const data = await response.json();
+    // console.log("Parsed response data:", data);
+    return data;
+  } catch (error) {
+    console.error("Error:", error);
+    throw error;
+  }
+};
+
 function sendCurrentURL2Server() {
     
-  const link = currentTabCached?.url
-  const data = { link }
-  console.log(data)
-  fetch(
-    "https://us-central1-demohack-430817.cloudfunctions.net/function-demo-test",
-    {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(data),
-    }
-  )
-    .then((response) => {
-      console.info("Raw response", response);
+  const link = currentTabCached?.url ?? ""
 
-      // Check if the response is OK (status code 200-299)
-      if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
-      }
-      return JSON.stringify(response);
-      // // Check if the response is JSON
-      // const contentType = response.headers.get("content-type");
-      // if (contentType && contentType.includes("application/json")) {
-      //   return response.json(); // Parse as JSON
-      // } 
-      // else if (contentType && contentType.includes("text/html")) {
-      //   return  response.text(); // Parse as plain text
-      // }
-      // else {
-      //   throw new Error("Response is not JSON");
-      // }
-    })
-    .then((responseData) => {
-      // Log the parsed data to the console
-      console.info("Link sent", responseData);
-  
-      // Send the parsed data to the content script
-      chrome.tabs.sendMessage(currentTabCached?.id as number, {
-        enabled: true,
-        type: "logToConsole",
-        data: responseData,
-      }).catch((error) => console.error("Error sending logs to console", error));
-    })
-    .catch((error) => console.error("Error sending link", error));
-  
+  fetchData({ link: link})
+  .then((result) => {
+    // chrome.tabs.sendMessage(currentTabCached?.id as number, {
+    //   enabled: true,
+    //   type: "logToConsole",
+    //   data: result,
+    // }).catch((error) => console.error("Error sending logs to console", error));
+    console.log("Raw data:", result);
+    articlesData[link] = getArticleFromServerData(result.results);
+    console.log("Final result:", articlesData[link]);
+  })
+  .catch((error) => {
+    console.error("Error in main execution:", error);
+  });  
 
-  
 }
+
+function sendSelectedText2Server() {
+  if (currentTabCached === undefined) {
+    return
+  }
+  let selectedText: string = "";
+  console.info("Tab to send getSelectedText", currentTabCached?.id, currentTabCached?.url);
+  chrome.tabs.sendMessage(currentTabCached?.id as number, {action: "getSelectedText"}, function(response) {
+    if (response && response.selectedText) {
+      selectedText = response.selectedText;
+    } else {
+      return;
+    }
+  });
+
+  fetchData({ text: selectedText})
+  .then((result) => {
+    console.log("Final result:", result);
+  })
+  .catch((error) => {
+    console.error("Error in main execution:", error);
+  });
+
+
+}
+
 
 // Ensure the background script always runs.
 chrome.runtime.onStartup.addListener(startUp)
@@ -184,6 +231,9 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
         break
       case "sendCurrentURL2Server":
         sendCurrentURL2Server()
+        break
+      case "sendSelectedText2Server":
+        sendSelectedText2Server()
         break
       default:
         console.warn("Unknown message type", message.type)
