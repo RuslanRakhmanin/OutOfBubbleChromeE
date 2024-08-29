@@ -8,7 +8,7 @@
 
 </head>
 
-<body class="w-[200px]">
+<body class="w-[240px]">
   <!-- <section aria-label="OnOff">
     <label class="my-center cursor-pointer">
       <input id="enabled" type="checkbox" class="sr-only peer" />
@@ -25,7 +25,7 @@
 
   <section aria-label="Send link" id="send_link">
     <div class="my-center">
-      <button id="send-link" class="options-button-link">Analyse the page</button>
+      <button id="send-link" class="blue-button">Analyse the page</button>
       <br />
       <br />
       <hr class="border-t-2 border-orange-500">
@@ -34,58 +34,28 @@
 
   <section aria-label="Send text" id="send_text">
     <div class="my-center">
-      <button id="send-text" class="options-button-link">Analyse selected text</button>
+      <button id="send-text" class="blue-button">Analyse selected text</button>
 
       <hr class="border-t-2 border-orange-500">
     </div>
   </section>
 
+  <br />
+  <hr class="border-t-2 border-orange-500">
+
   <section aria-label="Other Sources" id="sources">
-    <h4 class="text-base font-bold">Related links</h4>
-    <table class="w-full">
-      <tbody>
-        <tr>
-          <td class="py-2"><img src="icon_set1_1_128.png" alt="Range start" width="24" height="24"></td>
-          <td id="rank1">
-            <a href="#" class="block text-blue-600 hover:underline">Source 1</a>
-            <a href="#" class="block text-blue-600 hover:underline">Source 2</a>
-          </td>
-        </tr>
-        <tr>
-          <td class="py-2"><span class="text-2xl"></span></td>
-          <td id="rank2">
-            <a href="#" class="block text-blue-600 hover:underline">Research Link</a>
-            <a href="#" class="block text-blue-600 hover:underline">Analysis Tool</a>
-          </td>
-        </tr>
-        <tr>
-          <td class="py-2"><img src="icon_set1_2_128.png" alt="Range middle" width="24" height="24"></td>
-          <td id="rank3">
-            <a href="#" class="block text-blue-600 hover:underline">Data Source</a>
-            <a href="#" class="block font-bold text-blue-800 underline">Current Page</a>
-          </td>
-        </tr>
-        <tr>
-          <td class="py-2"><span class="text-2xl"></span></td>
-          <td id="rank4">
-            <a href="#" class="block text-blue-600 hover:underline">Timeline</a>
-            <a href="#" class="block text-blue-600 hover:underline">Archive</a>
-          </td>
-        </tr>
-        <tr>
-          <td class="py-2"><img src="icon_set1_3_128.png" alt="Range end" width="24" height="24"></td>
-          <td id="rank5">
-            <a href="#" class="block text-blue-600 hover:underline">Statistics</a>
-            <a href="#" class="block text-blue-600 hover:underline">Trends</a>
-          </td>
-        </tr>
-      </tbody>
-    </table>
+    <h4 class="text-base font-bold"> Related links</h4>
+    <a href="#" class="block text-blue-600 hover:underline">Source 1</a>
+    <br />
+    <a href="#" class="block text-blue-600 hover:underline">Source 2</a>
+    <br />
+    <a href="#" class="block text-blue-600 hover:underline">Source 3</a>
+    <br />
     <hr class="border-t-2 border-green-500">
   </section>
 
   <section aria-label="Psychological Tactics" id="tactics">
-    <h4 class="text-base font-bold">Psychological Tactics</h4>
+    <h4 class="text-base font-bold"> Psychological Tactics</h4>
     <span class="text-orange-500 mr-2">➤</span>
     <span>Lorem ipsum</span>
     <br />
@@ -98,7 +68,7 @@
   </section>
 
   <section aria-label="Summary" id ="summary">
-    <h4 class="text-base font-bold">Summary</h4>
+    <h4 class="text-base font-bold"> Summary</h4>
     <span class="text-green-500 mr-2">●</span>
     <span>"Lorem ipsum dolor sit amet consectetur adipiscing elit"</span>
     <br />
@@ -117,9 +87,14 @@
   </section>
 
   <!-- <h2 class="text-xl font-bold mb-2">Options</h2> -->
-  <div class="my-center">
+  <div class="my-center" style="display: none;">
     <button id="go-to-options" class="options-button-link">Advanced options</button>
   </div>
+
+  <div class="my-center">
+    <button id="go-to-website" class="options-button-link">More details</button>
+  </div>
+  
   <script src="popup.js"></script>
 </body>
 

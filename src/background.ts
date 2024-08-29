@@ -108,21 +108,37 @@ function updateInfo(currentTab: chrome.tabs.Tab) {
   .finally()
 }
 
+function getTacticsFromServerData(serverData: any) : Tactic[] {
+  let tactics: Tactic[] = []
+  serverData.results.tactics.forEach((tactic: any) => {
+    tactics.push({name: tactic.Name, reason: tactic.Reason, text: tactic.Text})
+  })
+  return tactics
+}
+
+function getScalesFromServerData(serverData: any) : Scale[] {
+  let scales: Scale[] = []
+  serverData.results.scales.forEach((scale: any) => {
+    scales.push({name: scale.Name, score: scale.Score, description: scale.Description})
+  })
+  return scales
+}
+
 function getArticleFromServerData(serverData: any) : ArticleProperties {
   let articleProperties: ArticleProperties = {
-    id: "",
-    publisher: "",
-    date: serverData.pubDate,
-    author: "",
-    link: serverData.link,
-    title: serverData.title,
-    details: "",
-    content: "", //serverData.content,
-    tactics: serverData.tactics as Tactic[], 
-    summary: serverData.summary,
-    scales: serverData.scores as Scale[],
-    conclusion: serverData.conclusion,
-    related: new Array<RelatedProperties>(),
+    id: serverData.id,
+    publisher: serverData.results.publisher,
+    date: serverData.results.date,
+    author: serverData.results.author,
+    link: serverData.results.link,
+    title: serverData.results.title,
+    details: serverData.results.details,
+    content: [""], //serverData.results.content,
+    tactics: getTacticsFromServerData(serverData) as Tactic[], 
+    summary: serverData.results.summary,
+    scales: getScalesFromServerData(serverData) as Scale[],
+    conclusion: serverData.results.conclusion,
+    related: serverData.results.related as RelatedProperties[],
   }
 
   return articleProperties
@@ -159,7 +175,7 @@ const fetchData = async (data2Send: object) => {
 function sendCurrentURL2Server() {
     
   const link = currentTabCached?.url ?? ""
-
+  console.info("Link sent to analysis", link)
   fetchData({ link: link})
   .then((result) => {
     // chrome.tabs.sendMessage(currentTabCached?.id as number, {
@@ -168,7 +184,7 @@ function sendCurrentURL2Server() {
     //   data: result,
     // }).catch((error) => console.error("Error sending logs to console", error));
     console.log("Raw data:", result);
-    articlesData[link] = getArticleFromServerData(result.results);
+    articlesData[link] = getArticleFromServerData(result);
     console.log("Final result:", articlesData[link]);
   })
   .catch((error) => {

@@ -7,3 +7,20 @@
 .options-button-link {
   @apply text-indigo-400 m-1.5 px-3 py-1 text-xs outline-none focus:outline-none ease-linear transition-all duration-150;
 }
+
+.blue-button {
+  background-color: #6275f0; /* Button background color */
+  color: white; /* Text color */
+  border: none; /* Removes border */
+  border-radius: 4px; /* Rounded corners */
+  padding: 4px 8px; /* Space inside the button */
+  font-size: 12px; /* Font size */
+  cursor: pointer; /* Changes cursor to pointer when hovering */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+  transition: background-color 0.3s ease; /* Smooth transition for hover */
+  width: 180px; /* Fixed width */
+}
+
+.blue-button:hover {
+  background-color: #4e5dc1; /* Darker shade for hover effect */
+}

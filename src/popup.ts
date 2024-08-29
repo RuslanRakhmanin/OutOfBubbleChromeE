@@ -1,12 +1,8 @@
 import {
   Message,
-  setBadgeText,
   StoredConfig,
-  TabResponse,
-  setBadgeIcon,
   ArticleProperties,
-  maxRank,
-  getScoreFromProperties
+  articleOnPortalURL
 } from "./common"
 import "./popup.css"
 
@@ -19,6 +15,8 @@ const psychologicalTacticsSection = document.getElementById(
   "tactics",
 ) as HTMLInputElement
 const summarySection = document.getElementById("summary") as HTMLInputElement
+
+let articleProperties: ArticleProperties;
 
 function setUpSectionsVisibility() {
   chrome.storage.sync.get(null, (data) => {
@@ -44,35 +42,34 @@ function setUpSectionsVisibility() {
 function fillOtherSources(properties: ArticleProperties) {
   if (otherSourcesSection.style.display === "block") {
     // In this way we can get cells with ids from 'rank1' to 'rank5'
-    const rankElementsList: HTMLTableCellElement[] = Array.from(
-      { length: maxRank },
-      (_, i) => document.getElementById(`rank${i + 1}`) as HTMLTableCellElement,
-    )
+    const heading = otherSourcesSection.querySelector("h4")
+    const hr = otherSourcesSection.querySelector("hr")
 
-    // Clear the cells
-    rankElementsList.forEach((rankElement) => {
-      rankElement.innerHTML = ""
-    })
+    while (otherSourcesSection.firstChild) {
+      otherSourcesSection.removeChild(
+        otherSourcesSection.firstChild,
+      )
+    }
+
+    if (heading) otherSourcesSection.appendChild(heading)
 
     // Fill the cells with the article data
     properties.related.forEach((record) => {
+
       const anchor = document.createElement("a")
       anchor.href = record.link
-      anchor.textContent = record.publisher
+      anchor.textContent = "➤ " + record.publisher
       anchor.className = "block text-blue-600 hover:underline"
-
+      const br = document.createElement("br")
       // Add event listener to open the link in a new tab
       anchor.addEventListener("click", (e) => {
         e.preventDefault() // Prevent the default link behavior
         chrome.tabs.create({ url: record.link }) // Open the URL in a new tab
       })
-
-      // Append the new link to the cell
-      let politicalScore: number | undefined = getScoreFromProperties(record, "Political")
-      if (politicalScore !== undefined) {
-        rankElementsList[politicalScore - 1].appendChild(anchor)
-      }
+      otherSourcesSection.appendChild(anchor)
+      otherSourcesSection.appendChild(br)
     })
+    if (hr) otherSourcesSection.appendChild(hr)    
   }
 }
 
@@ -160,15 +157,19 @@ function fillSections() {
         summarySection.style.display = "none"
         return
       }
-      const properties: ArticleProperties = response
+      articleProperties = response
 
-      fillOtherSources(properties)
-      fillPsychologicalTactics(properties)
-      fillSummary(properties)
+      fillOtherSources(articleProperties)
+      fillPsychologicalTactics(articleProperties)
+      fillSummary(articleProperties)
     })
     .catch((error: unknown) => {
       console.warn("Popup could not send message", error)
     })
+}
+
+function openArticleOnPortal() {
+  window.open(articleOnPortalURL + articleProperties.id)
 }
 
 setUpSectionsVisibility()
@@ -178,7 +179,7 @@ fillSections()
 // Options page
 const optionsElement = document.querySelector("#go-to-options")
 if (!optionsElement) {
-  console.error("Could not find options element")
+  // console.error("Could not find options element")
 } else {
   optionsElement.addEventListener("click", function () {
     // This code is based on Chrome for Developers documentation
@@ -191,6 +192,14 @@ if (!optionsElement) {
       window.open(chrome.runtime.getURL("options.html"))
     }
   })
+}
+
+
+const websiteButton = document.querySelector("#go-to-website")
+if (!websiteButton) {
+  // console.error("Could not find options element")
+} else {
+  websiteButton.addEventListener("click", openArticleOnPortal)
 }
 
 // Send to analysis button
@@ -208,7 +217,8 @@ if (!sendLinkElement) {
       .catch((error: unknown) => {
         console.warn("Popup could not send message", error)
       })    
-    window.close()
+      setUpSectionsVisibility()
+      fillSections()
   })
 }
 
@@ -226,6 +236,7 @@ if (!sendTextElement) {
       .catch((error: unknown) => {
         console.warn("Popup could not send message", error)
       })    
-    window.close()
+      setUpSectionsVisibility()
+      fillSections()
   })
 }

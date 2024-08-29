@@ -1,5 +1,7 @@
 export const maxRank = 5
 
+export const articleOnPortalURL = "https://aye-aye-69885.web.app/article/"
+
 export interface Message {
   enabled?: boolean
   type?: string
@@ -40,7 +42,7 @@ export interface RelatedProperties {
   link: string,
   title: string,
   details: string,
-  content: string,
+  content: string[],
   tactics: Tactic[],
   summary: string,
   scales: Scale[],
@@ -73,9 +75,10 @@ export function setBadgeText(text: string = "") {
 }
 
 export function setBadgeIcon(iconName: string = "") {
-  if (iconName === "") {
-    iconName = "icon128.png"
-  }
+  // if (iconName === "") {
+  //   iconName = "icon128.png"
+  // }
+  iconName = "icon128.png"
   chrome.action.setIcon({
     path: {
       128: iconName
