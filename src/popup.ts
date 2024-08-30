@@ -15,6 +15,8 @@ const psychologicalTacticsSection = document.getElementById(
   "tactics",
 ) as HTMLInputElement
 const summarySection = document.getElementById("summary") as HTMLInputElement
+const websiteButton = document.getElementById("go-to-website") as HTMLInputElement;
+
 
 let articleProperties: ArticleProperties;
 
@@ -155,6 +157,7 @@ function fillSections() {
         otherSourcesSection.style.display = "none"
         psychologicalTacticsSection.style.display = "none"
         summarySection.style.display = "none"
+        websiteButton.style.display = "none"
         return
       }
       articleProperties = response
@@ -162,6 +165,7 @@ function fillSections() {
       fillOtherSources(articleProperties)
       fillPsychologicalTactics(articleProperties)
       fillSummary(articleProperties)
+      websiteButton.style.display = "block"
     })
     .catch((error: unknown) => {
       console.warn("Popup could not send message", error)
@@ -195,7 +199,6 @@ if (!optionsElement) {
 }
 
 
-const websiteButton = document.querySelector("#go-to-website")
 if (!websiteButton) {
   // console.error("Could not find options element")
 } else {

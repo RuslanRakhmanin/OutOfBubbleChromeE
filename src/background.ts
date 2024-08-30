@@ -108,37 +108,59 @@ function updateInfo(currentTab: chrome.tabs.Tab) {
   .finally()
 }
 
+// Function to convert a string to camelCase
+function toCamelCase(str: string): string {
+  return str.replace(/([-_][a-z])/gi, (match) =>
+    match.toUpperCase().replace('-', '').replace('_', '')
+  );
+};
+
+// Function to recursively normalize keys to camelCase
+function normalizeKeys (obj: any): any {
+  if (Array.isArray(obj)) {
+    return obj.map((item) => normalizeKeys(item));
+  } else if (obj !== null && obj.constructor === Object) {
+    const newObj: any = {};
+    Object.keys(obj).forEach((key) => {
+      const newKey = toCamelCase(key);
+      newObj[newKey] = normalizeKeys(obj[key]);
+    });
+    return newObj;
+  }
+  return obj;
+};
+
 function getTacticsFromServerData(serverData: any) : Tactic[] {
   let tactics: Tactic[] = []
-  serverData.results.tactics.forEach((tactic: any) => {
-    tactics.push({name: tactic.Name, reason: tactic.Reason, text: tactic.Text})
+  serverData.results.Tactics.forEach((tactic: any) => {
+    tactics.push({name: tactic.name, reason: tactic.reason, text: tactic.text})
   })
   return tactics
 }
 
 function getScalesFromServerData(serverData: any) : Scale[] {
   let scales: Scale[] = []
-  serverData.results.scales.forEach((scale: any) => {
-    scales.push({name: scale.Name, score: scale.Score, description: scale.Description})
+  serverData.results.Scales.forEach((scale: any) => {
+    scales.push({name: scale.name, score: scale.score, description: scale.description})
   })
   return scales
 }
 
 function getArticleFromServerData(serverData: any) : ArticleProperties {
   let articleProperties: ArticleProperties = {
-    id: serverData.id,
-    publisher: serverData.results.publisher,
-    date: serverData.results.date,
-    author: serverData.results.author,
-    link: serverData.results.link,
-    title: serverData.results.title,
-    details: serverData.results.details,
+    id: serverData.Id,
+    publisher: serverData.results.Publisher,
+    date: serverData.results.Date,
+    author: serverData.results.Author,
+    link: serverData.results.Link,
+    title: serverData.results.Title,
+    details: serverData.results.Details,
     content: [""], //serverData.results.content,
     tactics: getTacticsFromServerData(serverData) as Tactic[], 
-    summary: serverData.results.summary,
+    summary: serverData.results.Summary,
     scales: getScalesFromServerData(serverData) as Scale[],
-    conclusion: serverData.results.conclusion,
-    related: serverData.results.related as RelatedProperties[],
+    conclusion: serverData.results.Conclusion,
+    related: serverData.results.Related as RelatedProperties[],
   }
 
   return articleProperties
@@ -184,7 +206,12 @@ function sendCurrentURL2Server() {
     //   data: result,
     // }).catch((error) => console.error("Error sending logs to console", error));
     console.log("Raw data:", result);
-    articlesData[link] = getArticleFromServerData(result);
+    if (result.status === "NOT_FOUND") {
+      return
+    }
+    const normalisedJSON = normalizeKeys(result)
+    // console.log("Normalised JSON:", normalisedJSON);
+    articlesData[link] = getArticleFromServerData(normalisedJSON);
     console.log("Final result:", articlesData[link]);
   })
   .catch((error) => {
@@ -206,10 +233,16 @@ function sendSelectedText2Server() {
       return;
     }
   });
+  const link = currentTabCached?.url ?? ""
 
   fetchData({ text: selectedText})
   .then((result) => {
-    console.log("Final result:", result);
+    console.log("Raw data:", result);
+    if (result.status === "NOT_FOUND") {
+      return
+    }
+    articlesData[link] = getArticleFromServerData(normalizeKeys(result));
+    console.log("Final result:", articlesData[link]);
   })
   .catch((error) => {
     console.error("Error in main execution:", error);
