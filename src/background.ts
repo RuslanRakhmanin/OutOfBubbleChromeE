@@ -148,7 +148,7 @@ function getScalesFromServerData(serverData: any) : Scale[] {
 
 function getArticleFromServerData(serverData: any) : ArticleProperties {
   let articleProperties: ArticleProperties = {
-    id: serverData.Id,
+    id: serverData.id,
     publisher: serverData.results.Publisher,
     date: serverData.results.Date,
     author: serverData.results.Author,
@@ -226,13 +226,15 @@ function sendSelectedText2Server() {
   }
   let selectedText: string = "";
   console.info("Tab to send getSelectedText", currentTabCached?.id, currentTabCached?.url);
-  chrome.tabs.sendMessage(currentTabCached?.id as number, {action: "getSelectedText"}, function(response) {
+  chrome.tabs.sendMessage(currentTabCached?.id as number, {type: "getSelectedText"}, function(response) {
+    console.info("Selected text", selectedText);
     if (response && response.selectedText) {
       selectedText = response.selectedText;
     } else {
       return;
     }
   });
+  selectedText = "Ballot registration has opened for Oasis tickets in the UK and Ireland ahead of Saturday’s general sale, the band announced."
   const link = currentTabCached?.url ?? ""
 
   fetchData({ text: selectedText})

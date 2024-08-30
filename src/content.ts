@@ -108,8 +108,8 @@ function searchAndHighlight(textToSearch: string, popup_text: string) {
 // Listen for messages from popup and service worker.
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   const message = request as Message
-  if (message.enabled !== undefined) {
-    // console.log("Received message from sender %s", sender.id, request)
+  if (true) {
+     console.log("Received message from sender %s", sender.id, request);
 
       switch (message.type) {
         case "highlightTactics":
@@ -123,6 +123,7 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
           break
         case "getSelectedText":
           const selectedText = window.getSelection()?.toString() ?? "";
+          console.info("Selected text", selectedText);
           sendResponse({selectedText: selectedText});
           break
         default:
