@@ -6,6 +6,42 @@ let config: StoredConfig = {
   whiteList: [],
 }
 
+// Listen for messages from popup and service worker.
+chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
+  const message = request as Message
+  if (true) {
+     console.log("Received message from sender %s", sender.id, request);
+
+      switch (message.type) {
+        case "highlightTactics":
+          let tactics: Tactic[] = message.data
+          for (let tactic of tactics) {
+            searchAndHighlight(tactic.text, tactic.name + ": " + tactic.reason)
+          }
+          break
+        case "logToConsole":
+          console.info(message.data)
+          break
+        case "getSelectedText":
+          const selectedText = window.getSelection()?.toString() ?? "";
+          console.info("Selected text", selectedText);
+          sendResponse({selectedText: selectedText});
+          break
+        default:
+          console.warn("Unknown message type", message.type)
+          break  
+      }      
+      sendResponse(undefined)
+  }
+
+  const response: TabResponse = {
+    title: document.title,
+    url: window.location.href,
+  }
+  sendResponse(response)
+})
+
+
 // Search the document for the text to search and highlight it if found.
 function searchAndHighlight(textToSearch: string, popup_text: string) {
   const nodes = document.evaluate(
@@ -105,37 +141,3 @@ function searchAndHighlight(textToSearch: string, popup_text: string) {
 // searchAndHighlight(textToSearch);
 
 
-// Listen for messages from popup and service worker.
-chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
-  const message = request as Message
-  if (true) {
-     console.log("Received message from sender %s", sender.id, request);
-
-      switch (message.type) {
-        case "highlightTactics":
-          let tactics: Tactic[] = message.data
-          for (let tactic of tactics) {
-            searchAndHighlight(tactic.text, tactic.name + ": " + tactic.reason)
-          }
-          break
-        case "logToConsole":
-          console.info(message.data)
-          break
-        case "getSelectedText":
-          const selectedText = window.getSelection()?.toString() ?? "";
-          console.info("Selected text", selectedText);
-          sendResponse({selectedText: selectedText});
-          break
-        default:
-          console.warn("Unknown message type", message.type)
-          break  
-      }      
-      sendResponse(undefined)
-  }
-
-  const response: TabResponse = {
-    title: document.title,
-    url: window.location.href,
-  }
-  sendResponse(response)
-})

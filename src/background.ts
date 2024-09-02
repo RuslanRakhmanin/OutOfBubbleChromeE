@@ -225,29 +225,45 @@ function sendSelectedText2Server() {
     return
   }
   let selectedText: string = "";
-  console.info("Tab to send getSelectedText", currentTabCached?.id, currentTabCached?.url);
-  chrome.tabs.sendMessage(currentTabCached?.id as number, {type: "getSelectedText"}, function(response) {
-    console.info("Selected text", selectedText);
-    if (response && response.selectedText) {
-      selectedText = response.selectedText;
-    } else {
-      return;
-    }
-  });
-  selectedText = "Ballot registration has opened for Oasis tickets in the UK and Ireland ahead of Saturday’s general sale, the band announced."
-  const link = currentTabCached?.url ?? ""
+  // console.info("Tab to send getSelectedText", currentTabCached?.id, currentTabCached?.url);
+  // chrome.tabs.sendMessage(currentTabCached?.id as number, {type: "getSelectedText"}, function(response) {
+  //   console.info("Selected text", response.selectedText);
+  //   if (response && response.selectedText) {
+  //     selectedText = response.selectedText;
+  //   } else {
+  //     return;
+  //   }
+  // });
+  // selectedText = "Ballot registration has opened for Oasis tickets in the UK and Ireland ahead of Saturday’s general sale, the band announced."
 
-  fetchData({ text: selectedText})
-  .then((result) => {
-    console.log("Raw data:", result);
-    if (result.status === "NOT_FOUND") {
-      return
-    }
-    articlesData[link] = getArticleFromServerData(normalizeKeys(result));
-    console.log("Final result:", articlesData[link]);
-  })
-  .catch((error) => {
-    console.error("Error in main execution:", error);
+  chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
+    console.info("Tab to send getSelectedText", tabs[0].id, tabs[0].url);
+    chrome.scripting.executeScript(
+      {
+        target: { tabId: tabs[0].id as number},
+        func: () => {
+          return document.getSelection()?.toString();
+        }
+      },
+      (results) => {
+        selectedText = results[0].result as string;
+        console.info("Selected text", selectedText);
+        const link = currentTabCached?.url ?? ""
+      
+        fetchData({ text: selectedText})
+        .then((result) => {
+          console.log("Raw data:", result);
+          if (result.status === "NOT_FOUND") {
+            return
+          }
+          articlesData[link] = getArticleFromServerData(normalizeKeys(result));
+          console.log("Final result:", articlesData[link]);
+        })
+        .catch((error) => {
+          console.error("Error in main execution:", error);
+        });
+            }
+    );
   });
 
 
