@@ -6,7 +6,7 @@ import {
 } from "./common"
 import "./popup.css"
 
-// console.log("Hello, world from popup!")
+// //console.log("Hello, world from popup!")
 
 const otherSourcesSection = document.getElementById(
   "sources",
@@ -152,8 +152,9 @@ function fillSections() {
   chrome.runtime
     .sendMessage(message)
     .then((response) => {
+      //console.log("Data fo fill the popup: ", response)
       if (response === undefined || response === null) {
-        // console.warn("Popup requested page properties but got undefined")
+        // //console.warn("Popup requested page properties but got undefined")
         otherSourcesSection.style.display = "none"
         psychologicalTacticsSection.style.display = "none"
         summarySection.style.display = "none"
@@ -168,7 +169,7 @@ function fillSections() {
       websiteButton.style.display = "block"
     })
     .catch((error: unknown) => {
-      console.warn("Popup could not send message", error)
+      //console.warn("Popup could not send message", error)
     })
 }
 
@@ -179,18 +180,25 @@ function openArticleOnPortal() {
 setUpSectionsVisibility()
 fillSections()
 
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+  const messageReceived = message as Message
+  if (messageReceived.type === "updatePopup") {
+    setUpSectionsVisibility()
+    fillSections()
+  }
+});
 
 // Options page
 const optionsElement = document.querySelector("#go-to-options")
 if (!optionsElement) {
-  // console.error("Could not find options element")
+  // //console.error("Could not find options element")
 } else {
   optionsElement.addEventListener("click", function () {
     // This code is based on Chrome for Developers documentation
     // eslint-disable-next-line @typescript-eslint/no-unnecessary-condition
     if (chrome.runtime.openOptionsPage) {
       chrome.runtime.openOptionsPage().catch((error: unknown) => {
-        console.error("Could not open options page", error)
+        //console.error("Could not open options page", error)
       })
     } else {
       window.open(chrome.runtime.getURL("options.html"))
@@ -200,7 +208,7 @@ if (!optionsElement) {
 
 
 if (!websiteButton) {
-  // console.error("Could not find options element")
+  // //console.error("Could not find options element")
 } else {
   websiteButton.addEventListener("click", openArticleOnPortal)
 }
@@ -208,7 +216,7 @@ if (!websiteButton) {
 // Send to analysis button
 const sendLinkElement = document.querySelector("#send-link")
 if (!sendLinkElement) {
-  console.error("Could not find send link element")
+  //console.error("Could not find send link element")
 } else {
   sendLinkElement.addEventListener("click", function () {
     const message: Message = { type: "sendCurrentURL2Server" }
@@ -218,28 +226,26 @@ if (!sendLinkElement) {
 
       })
       .catch((error: unknown) => {
-        console.warn("Popup could not send message", error)
+        //console.warn("Popup could not send message", error)
       })    
-      setUpSectionsVisibility()
-      fillSections()
   })
 }
 
 
 const sendTextElement = document.querySelector("#send-text")
 if (!sendTextElement) {
-  console.error("Could not find send text element")
+  //console.error("Could not find send text element")
 } else {
   sendTextElement.addEventListener("click", function () {
     const message: Message = { type: "sendSelectedText2Server" }
     chrome.runtime
       .sendMessage(message)
       .then((response) => {
+
       })
       .catch((error: unknown) => {
-        console.warn("Popup could not send message", error)
+        //console.warn("Popup could not send message", error)
       })    
-      setUpSectionsVisibility()
-      fillSections()
+
   })
 }

@@ -33,7 +33,7 @@ function checkTabReady(tab: chrome.tabs.Tab) {
 }
 
 function getArticleProperties(url: string = "Current tab") {
-  // console.log("getArticleProperties", url)
+  // //console.log("getArticleProperties", url)
   if (url === "Current tab") {
     //// Does not work on clicking the extension icon
     // chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
@@ -177,7 +177,7 @@ const fetchData = async (data2Send: object) => {
       }
     );
 
-    // console.info("Raw response", response);
+    // //console.info("Raw response", response);
 
     // Check if the response is OK (status code 200-299)
     if (!response.ok) {
@@ -186,10 +186,10 @@ const fetchData = async (data2Send: object) => {
 
     // Parse the JSON response
     const data = await response.json();
-    // console.log("Parsed response data:", data);
+    // //console.log("Parsed response data:", data);
     return data;
   } catch (error) {
-    console.error("Error:", error);
+    //console.error("Error:", error);
     throw error;
   }
 };
@@ -197,25 +197,29 @@ const fetchData = async (data2Send: object) => {
 function sendCurrentURL2Server() {
     
   const link = currentTabCached?.url ?? ""
-  console.info("Link sent to analysis", link)
+  //console.info("Link sent to analysis", link)
   fetchData({ link: link})
   .then((result) => {
     // chrome.tabs.sendMessage(currentTabCached?.id as number, {
     //   enabled: true,
-    //   type: "logToConsole",
+    //   type: "logTo//console",
     //   data: result,
-    // }).catch((error) => console.error("Error sending logs to console", error));
-    console.log("Raw data:", result);
+    // }).catch((error) => //console.error("Error sending logs to //console", error));
+    //console.log("Raw data:", result);
     if (result.status === "NOT_FOUND") {
       return
     }
     const normalisedJSON = normalizeKeys(result)
-    // console.log("Normalised JSON:", normalisedJSON);
+    // //console.log("Normalised JSON:", normalisedJSON);
     articlesData[link] = getArticleFromServerData(normalisedJSON);
-    console.log("Final result:", articlesData[link]);
+    currentPageProperties = articlesData[link];
+    //console.log("Final result:", articlesData[link]);
+
+    chrome.runtime.sendMessage({type: "updatePopup"}).catch();
+
   })
   .catch((error) => {
-    console.error("Error in main execution:", error);
+    //console.error("Error in main execution:", error);
   });  
 
 }
@@ -225,9 +229,9 @@ function sendSelectedText2Server() {
     return
   }
   let selectedText: string = "";
-  // console.info("Tab to send getSelectedText", currentTabCached?.id, currentTabCached?.url);
+  // //console.info("Tab to send getSelectedText", currentTabCached?.id, currentTabCached?.url);
   // chrome.tabs.sendMessage(currentTabCached?.id as number, {type: "getSelectedText"}, function(response) {
-  //   console.info("Selected text", response.selectedText);
+  //   //console.info("Selected text", response.selectedText);
   //   if (response && response.selectedText) {
   //     selectedText = response.selectedText;
   //   } else {
@@ -236,35 +240,37 @@ function sendSelectedText2Server() {
   // });
   // selectedText = "Ballot registration has opened for Oasis tickets in the UK and Ireland ahead of Saturday’s general sale, the band announced."
 
-  chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
-    console.info("Tab to send getSelectedText", tabs[0].id, tabs[0].url);
+
+    //console.info("Tab to send getSelectedText", currentTabCached?.id, currentTabCached?.url);
     chrome.scripting.executeScript(
       {
-        target: { tabId: tabs[0].id as number},
+        target: { tabId: currentTabCached?.id as number},
         func: () => {
           return document.getSelection()?.toString();
         }
       },
       (results) => {
         selectedText = results[0].result as string;
-        console.info("Selected text", selectedText);
+        //console.info("Selected text:", selectedText);
         const link = currentTabCached?.url ?? ""
       
         fetchData({ text: selectedText})
         .then((result) => {
-          console.log("Raw data:", result);
+          //console.log("Raw data:", result);
           if (result.status === "NOT_FOUND") {
             return
           }
           articlesData[link] = getArticleFromServerData(normalizeKeys(result));
-          console.log("Final result:", articlesData[link]);
+          currentPageProperties = articlesData[link];
+          //console.log("Final result:", articlesData[link]);
+          chrome.runtime.sendMessage({type: "updatePopup"}).catch();
         })
         .catch((error) => {
-          console.error("Error in main execution:", error);
+          //console.error("Error in main execution:", error);
         });
             }
     );
-  });
+ 
 
 
 }
@@ -277,7 +283,7 @@ chrome.runtime.onInstalled.addListener(startUp)
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   const message = request as Message
   // if (message.enabled !== undefined) {
-  //   console.log(
+  //   //console.log(
   //     "Service worker received message from sender %s",
   //     sender.id,
   //     request,
@@ -303,23 +309,23 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
         sendSelectedText2Server()
         break
       default:
-        console.warn("Unknown message type", message.type)
+        //console.warn("Unknown message type", message.type)
         sendResponse(undefined)
         break
     }
   } else {
-    console.warn("Unknown message", message)
+    //console.warn("Unknown message", message)
     sendResponse(undefined)
   }
 })
 
 
-// console.log("Add listener on Activated")
+// //console.log("Add listener on Activated")
 chrome.tabs.onActivated.addListener((activeInfo) => {
-  // console.log("Got focus on tab")
+  // //console.log("Got focus on tab")
   chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
     const currentTab = tabs[0] as chrome.tabs.Tab
-    // console.log("Got focus on tab", currentTab)
+    // //console.log("Got focus on tab", currentTab)
     updateInfo(currentTab)
   })
 })
@@ -331,7 +337,7 @@ chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab)  =>{
 chrome.windows.onFocusChanged.addListener((windowId) => {
   chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
     const currentTab = tabs[0] as chrome.tabs.Tab
-    // console.log("Got focus on window", windowId, "with tab", currentTab)
+    // //console.log("Got focus on window", windowId, "with tab", currentTab)
     updateInfo(currentTab)
   })
 });
